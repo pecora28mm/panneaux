@@ -1,0 +1,41 @@
+<?php
+/* Nouvelle Donne -- Copyright (C) No Parking 2014 - 2014 */
+
+$config['name'] = "Lozeil";
+$config['title'] = "Lozeil";
+$config['version'] = "26";
+
+$dbconfig['type'] = "mysql";
+$dbconfig['host'] = "localhost";
+$dbconfig['name'] = "nouvelledonne";
+$dbconfig['user'] = "root";
+$dbconfig['pass'] = "";
+$dbconfig['new'] = "0";
+
+$param['locale_timezone'] = "Europe/Paris";
+
+$__['add'] = "ajouter";
+$__['add new line'] = "ajouter une nouvelle ligne";
+$__['add OK'] = "ajout OK";
+$__['adds OK'] = "additions OK";
+$__['bureau'] = "bureau";
+$__['delete'] = "supprimer";
+$__['deletion OK'] = "suppression OK";
+$__['deletions OK'] = "suppressions OK";
+$__['error while creating'] = "erreur pendant la création";
+$__['error while deleting'] = "erreur pendant la suppression";
+$__['error while updating'] = "erreur pendant la création";
+$__['no'] = "non";
+$__['no name'] = "sans nom";
+$__['none'] = "aucune";
+$__['not any'] = "aucun";
+$__['not exisisting'] = "n'existe pas";
+$__['not matching'] = "ne correspond pas";
+$__['nothing to do'] = "rien à faire";
+$__['ok'] = "ok";
+$__['or'] = "ou";
+$__['save'] = "sauvegarder";
+$__['seems OK'] = "semble OK";
+$__['success'] = "succès";
+$__['unknown error'] = "erreur inconnue";
+$__['yes'] = "oui";
