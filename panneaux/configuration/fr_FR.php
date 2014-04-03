@@ -1,0 +1,65 @@
+<?php
+/* Nouvelle Donne -- Copyright (C) Perrick Penet-Avez 2014 - 2014 */
+
+$array_month[0] = "--";
+$array_month[1] = "janvier";
+$array_month[2] = "février";
+$array_month[3] = "mars";
+$array_month[4] = "avril";
+$array_month[5] = "mai";
+$array_month[6] = "juin";
+$array_month[7] = "juillet";
+$array_month[8] = "août";
+$array_month[9] = "septembre";
+$array_month[10] = "octobre";
+$array_month[11] = "novembre";
+$array_month[12] = "décembre";
+
+$array_week[0] = "Dimanche";
+$array_week[1] = "Lundi";
+$array_week[2] = "Mardi";
+$array_week[3] = "Mercredi";
+$array_week[4] = "Jeudi";
+$array_week[5] = "Vendredi";
+$array_week[6] = "Samedi";
+$array_week[7] = "Dimanche";
+
+$__['action'] = "action";
+$__['add'] = "ajouter";
+$__['add new line'] = "ajouter une nouvelle ligne";
+$__['add OK'] = "ajout OK";
+$__['address'] = "adresse";
+$__['adds OK'] = "additions OK";
+$__['bureau'] = "bureau";
+$__['city'] = "city";
+$__['comment'] = "commentaire";
+$__['day'] = "jour";
+$__['delete'] = "supprimer";
+$__['deletion OK'] = "suppression OK";
+$__['deletions OK'] = "suppressions OK";
+$__['empty'] = "vide";
+$__['Error 404'] = "Erreur 404";
+$__['error while creating'] = "erreur pendant la création";
+$__['error while deleting'] = "erreur pendant la suppression";
+$__['error while updating'] = "erreur pendant la création";
+$__['mask'] = "masquer";
+$__['name'] = "nom";
+$__['no'] = "non";
+$__['no name'] = "sans nom";
+$__['none'] = "aucune";
+$__['not any'] = "aucun";
+$__['not exisisting'] = "n'existe pas";
+$__['not matching'] = "ne correspond pas";
+$__['nothing to do'] = "rien à faire";
+$__['ok'] = "ok";
+$__['or'] = "ou";
+$__['passage'] = "passage";
+$__['postcode'] = "code postal";
+$__['save'] = "sauvegarder";
+$__['seems OK'] = "semble OK";
+$__['status'] = "état";
+$__['success'] = "succès";
+$__['unknown error'] = "erreur inconnue";
+$__['update'] = "mise à jour";
+$__['update OK'] = "mise à jour OK";
+$__['yes'] = "oui";

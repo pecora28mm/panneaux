@@ -1,5 +1,5 @@
 <?php
-/* Nouvelle Donne -- Copyright (C) No Parking 2014 - 2014 */
+/* Nouvelle Donne -- Copyright (C) Perrick Penet-Avez 2014 - 2014 */
 
 class Bureau extends Record {
 	public $id = 0;
@@ -68,17 +68,10 @@ class Bureau extends Record {
 		"</form>";
 	}
 
-	function load(array $key = array(), $table = "bureaux", $columns = null) {
-		if (empty($key) or $key['id'] == 0) {
-			if ($this->id === 0) {
-				return false;
-			} else {
-				$key = array ("id" => $this->id);
-			}
-		}
-		return parent::load($key, $table, $columns);
+	function load($id = null, $table = "bureaux", $columns = null) {
+		return parent::load($id, $table, $columns);
 	}
-	
+
 	function save() {
 		if (is_numeric($this->id) and $this->id != 0) {
 			$this->id = $this->update();

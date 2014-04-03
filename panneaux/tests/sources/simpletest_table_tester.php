@@ -1,5 +1,5 @@
 <?php
-/* Nouvelle Donne -- Copyright (C) No Parking 2014 - 2014 */
+/* Nouvelle Donne -- Copyright (C) Perrick Penet-Avez 2014 - 2014 */
 
 class RecordExistsExpectation extends SimpleExpectation {
 	private $table = "";

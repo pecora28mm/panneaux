@@ -1,6 +1,6 @@
 <?php
 /* Nouvelle Donne -- Copyright (C) Perrick Penet-Avez 2014 - 2014 */
 
-$bureaux = new Bureaux();
-$bureaux->select();
-echo $bureaux->display();
+$passages = new Passages();
+$passages->select();
+echo $passages->display();

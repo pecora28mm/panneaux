@@ -1,15 +1,15 @@
 <?php
 /* Nouvelle Donne -- Copyright (C) Perrick Penet-Avez 2014 - 2014 */
 
-class Bureaux extends Collector {
+class Passages extends Collector {
 	function __construct(Db $db = null) {
-		parent::__construct("Bureau", "bureaux", $db);
+		parent::__construct("Passage", "passages", $db);
 	}
 	
 	function names() {
 		$names = array();
-		foreach ($this as $bureau) {
-			$names[$bureau->id] = $bureau->name;
+		foreach ($this as $passage) {
+			$names[$passage->id] = $passage->name;
 		}
 		return $names;
 	}
@@ -17,8 +17,8 @@ class Bureaux extends Collector {
 	function display() {
 		if (count($this) > 0) {
 			$html = "<ul>";
-			foreach ($this as $bureau) {
-				$html .= "<li>".$bureau->link()."</li>";
+			foreach ($this as $passage) {
+				$html .= "<li>".$passage->link()."</li>";
 			}
 			$html .= "</ul>";
 		}

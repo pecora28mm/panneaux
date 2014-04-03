@@ -1,5 +1,5 @@
 <?php
-/* Nouvelle Donne -- Copyright (C) No Parking 2014 - 2014 */
+/* Nouvelle Donne -- Copyright (C) Perrick Penet-Avez 2014 - 2014 */
 
 require_once __DIR__."/../../sources/bootloader.php";
 require_once __DIR__."/../../sources/database_tables.php";

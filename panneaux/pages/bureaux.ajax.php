@@ -3,4 +3,4 @@
 
 $bureaux = new Bureaux();
 $bureaux->select();
-echo $bureaux->display();
+echo json_encode($bureaux->names());

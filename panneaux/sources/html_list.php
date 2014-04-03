@@ -1,5 +1,5 @@
 <?php
-/* Lozeil -- Copyright (C) No Parking 2013 - 2013 */
+/* Nouvelle Donne -- Copyright (C) Perrick Penet-Avez 2014 - 2014 */
 
 class Html_List {
 	public $grid = array();
