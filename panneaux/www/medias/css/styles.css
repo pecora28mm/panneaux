@@ -1,4 +1,4 @@
-div.container-max form {font-size: 1.3em; }
+div.container-max { font-size: 1.3em; }
 div.container-max input { width: 100%; }
 div.container-max input.input-date { width: 50px; }
 div.container-max input.input-ajax-checkbox { display: inline; width: auto; margin-right: 5px; }
