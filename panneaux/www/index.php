@@ -11,24 +11,16 @@ if (isset($_GET['page']) and preg_match("/^[a-z\.-]*\.php$/", $_GET['page'])) {
 	}
 }
 
+$template = new Template();
 if (!isset($_GET['method']) or $_GET['method'] != "json") {
-	echo "
-	<html>
-		<head>
-			<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />
-			<script src=\"medias/js/calendar.js\" language=\"JavaScript\" type=\"text/javascript\"></script>
-			<script src=\"medias/js/common.js\" language=\"JavaScript\" type=\"text/javascript\"></script>
-			<script src=\"medias/js/jquery.js\" language=\"JavaScript\" type=\"text/javascript\"></script>
-			<script src=\"medias/js/common.jquery.js\" language=\"JavaScript\" type=\"text/javascript\"></script>
-			<script src=\"medias/js/spin.js\" language=\"JavaScript\" type=\"text/javascript\"></script>
-			</head>
-		<body>";
+	echo $template->header();
+	echo $template->navigation();
+	echo $template->content_top();
 }
 
 require $page;
 
 if (!isset($_GET['method']) or $_GET['method'] != "json") {
-	echo "
-		</body>
-	</html>";
+	echo $template->content_bottom();
+	echo $template->footer();
 }

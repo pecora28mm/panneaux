@@ -15,5 +15,5 @@ if (isset($_POST['passage'])) {
 }
 
 $passage = new Passage();
-$passage->load(array('id' => $id));
+$passage->load($id);
 echo $passage->edit();

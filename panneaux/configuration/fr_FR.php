@@ -42,6 +42,7 @@ $__['Error 404'] = "Erreur 404";
 $__['error while creating'] = "erreur pendant la création";
 $__['error while deleting'] = "erreur pendant la suppression";
 $__['error while updating'] = "erreur pendant la création";
+$__['last update : %s'] = "dernière mise à jour: %s";
 $__['mask'] = "masquer";
 $__['name'] = "nom";
 $__['no'] = "non";

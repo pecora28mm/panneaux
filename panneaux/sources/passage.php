@@ -81,6 +81,7 @@ class Passage extends Record {
 		$day = new Html_Input_Date("passage[day]", $this->day);
 		
 		$save = new Html_Input(__("save"), "save", "submit");
+		$save->class = "btn btn-lg btn-success";
 
 		return "<form method=\"post\" name=\"form-edit-passage\" id=\"form-edit-passage\" action=\"\" enctype=\"multipart/form-data\">".
 			$id->input_hidden().
@@ -90,6 +91,7 @@ class Passage extends Record {
 			$actions_id->item(__("action")).
 			$day->item(__("day")).
 			$save->input().
+			"<p class=\"details\">".__("last update : %s", array(($this->time > 0) ? date("d/m/Y H:i", $this->time) : ""))."</p>".
 		"</form>";
 	}
 
