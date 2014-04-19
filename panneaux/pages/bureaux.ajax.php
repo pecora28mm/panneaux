@@ -2,5 +2,10 @@
 /* Nouvelle Donne -- Copyright (C) Perrick Penet-Avez 2014 - 2014 */
 
 $bureaux = new Bureaux();
-$bureaux->select();
+
+if (isset($_REQUEST['action']) and $_REQUEST['action'] == "search") {
+	$bureaux->search = $_REQUEST['name'];
+	$bureaux->select();
+}
+
 echo json_encode($bureaux->names());

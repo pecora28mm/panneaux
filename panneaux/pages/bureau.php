@@ -14,6 +14,17 @@ if (isset($_POST['bureau'])) {
 	$id = $bureau->id; 
 }
 
+$passages = new Passages();
+$passages->bureaux_id = $id;
+$passages->set_order("time", "DESC");
+$passages->select();
+
 $bureau = new Bureau();
 $bureau->load(array('id' => $id));
+
+echo "<h2>".__("The last passages for '%s' in %s", array($bureau->name, $bureau->city))."</h2>";
+echo $bureau->link_to_new_passage();
+echo $passages->display();
+
+echo "<h2>".__("Modify the bureau '%s' in %s", array($bureau->name, $bureau->city))."</h2>";
 echo $bureau->edit();

@@ -4,6 +4,8 @@
 $id = 0;
 if (isset($_GET['id'])) {
 	$id = (int)$_GET['id'];
+} elseif (isset($_GET['bureaux_id'])) {
+	$bureaux_id = (int)$_GET['bureaux_id'];
 }
 
 if (isset($_POST['passage'])) {
@@ -16,4 +18,8 @@ if (isset($_POST['passage'])) {
 
 $passage = new Passage();
 $passage->load($id);
+if (isset($bureaux_id)) {
+	$passage->bureaux_id = $bureaux_id;
+}
+echo "<h2>".(($id == 0) ? __("Add a passage") : __("Modify a passage"))."</h2>";
 echo $passage->edit();

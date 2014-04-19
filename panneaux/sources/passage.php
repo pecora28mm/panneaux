@@ -21,8 +21,11 @@ class Passage extends Record {
 		}
 	}
 	
-	function link() {
-		return Html_Tag::a($this->url(), $this->comment);
+	function link($string) {
+		if (empty($string)) {
+			$string = $this->comment;
+		}
+		return Html_Tag::a($this->url(), $string);
 	}
 	
 	function url() {
@@ -48,7 +51,7 @@ class Passage extends Record {
 			$cleaned['actions_id'] = (int)$post['actions_id'];
 		}
 		if (isset($post['day']) and is_array($post['day'])) {
-			$cleaned['day'] = mktime(0, 0, 0, isset($post['day']['m']) ? $post['day']['m'] : 0, isset($post['day']['d']) ? $post['day']['d'] : 0, isset($post['day']['Y']) ? $post['day']['Y'] : 0);
+			$cleaned['day'] = mktime(0, 0, 0, isset($post['day']['m']) ? (int)$post['day']['m'] : 0, isset($post['day']['d']) ? (int)$post['day']['d'] : 0, isset($post['day']['Y']) ? (int)$post['day']['Y'] : 0);
 		}
 		
 		return $cleaned;
