@@ -14,7 +14,16 @@ class Bureaux extends Collector {
 		return $names;
 	}
 
+	function link_with_pattern($string, $pattern) {
+		return Html_Tag::a($this->url_with_pattern($pattern), $string);
+	}
+
+	function url_with_pattern($pattern) {
+		return "index.php?page=bureaux.php&pattern=".$pattern;
+	}
+
 	function display() {
+		$html = "";
 		if (count($this) > 0) {
 			$html = "<table>";
 			$html .= "<tr>";
@@ -26,7 +35,7 @@ class Bureaux extends Collector {
 			
 			foreach ($this as $bureau) {
 				$html .= "<tr>";
-				$html .= "<td>".$bureau->postcode."</td>";
+				$html .= "<td>".$this->link_with_pattern($bureau->postcode, $bureau->postcode)."</td>";
 				$html .= "<td>".$bureau->link()."</td>";
 				$html .= "<td>".$bureau->address."</td>";
 				$html .= "<td>".$bureau->city."</td>";
@@ -40,12 +49,12 @@ class Bureaux extends Collector {
 	function get_where() {
 		$where = parent::get_where();
 		
-		if (isset($this->search)) {
+		if (isset($this->pattern)) {
 			$where[] = "(
-				bureaux.name LIKE ".$this->db->quote("%".$this->search."%")." OR
-				bureaux.address LIKE ".$this->db->quote("%".$this->search."%")." OR
-				bureaux.postcode LIKE ".$this->db->quote("%".$this->search."%")." OR
-				bureaux.city LIKE ".$this->db->quote("%".$this->search."%")."
+				bureaux.name LIKE ".$this->db->quote("%".$this->pattern."%")." OR
+				bureaux.address LIKE ".$this->db->quote("%".$this->pattern."%")." OR
+				bureaux.postcode LIKE ".$this->db->quote("%".$this->pattern."%")." OR
+				bureaux.city LIKE ".$this->db->quote("%".$this->pattern."%")."
 			)";
 		}
 

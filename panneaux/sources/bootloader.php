@@ -23,6 +23,7 @@ require __DIR__."/html_tag.php";
 require __DIR__."/html_textarea.php";
 require __DIR__."/passage.php";
 require __DIR__."/passages.php";
+require __DIR__."/statusboard.php";
 require __DIR__."/template.php";
 
 if (function_exists("date_default_timezone_set")) {

@@ -4,7 +4,7 @@
 $bureaux = new Bureaux();
 
 if (isset($_REQUEST['action']) and $_REQUEST['action'] == "search") {
-	$bureaux->search = $_REQUEST['name'];
+	$bureaux->pattern = $_REQUEST['name'];
 	$bureaux->select();
 }
 

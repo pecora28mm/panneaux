@@ -64,7 +64,7 @@ class Bureau extends Record {
 		$postcode = new Html_Input("bureau[postcode]", $this->postcode);
 		$city = new Html_Input("bureau[city]", $this->city);
 		
-		$save = new Html_Input(__("save"), "save", "submit");
+		$save = new Html_Input("save", __("save"), "submit");
 
 		return "<form method=\"post\" name=\"form-edit-bureau\" id=\"form-edit-bureau\" action=\"\" enctype=\"multipart/form-data\">".
 			$id->input_hidden().

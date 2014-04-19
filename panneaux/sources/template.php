@@ -29,14 +29,14 @@ class Template {
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#">ND</a>
+			<a class="navbar-brand" href="index.php">Panneaux de campagne ND</a>
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-			<form class="navbar-form navbar-left" role="search">
+			<form class="navbar-form navbar-left" role="search" action="index.php?page=bureaux.php" method="post">
 				<div class="form-group">
-					<input type="text" class="form-control" placeholder="Code postal ou ville">
+					<input name="pattern" type="text" class="form-control" placeholder="Code postal ou ville">
 				</div>
 				<button type="submit" class="btn btn-default">Envoyer</button>
 			</form>
@@ -44,8 +44,9 @@ class Template {
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actions <b class="caret"></b></a>
 					<ul class="dropdown-menu">
-						<li><a href="index.php?page=passage.php">Ajouter un nouveau passage</a></li>
-						<li><a href="index.php?page=passages.php">Lister des derniers passages</a></li>
+						<li><a href="index.php?page=passage.php">Ajouter un passage</a></li>
+						<li><a href="index.php?page=statusboard.php">Vérifier le tableau de bord</a></li>
+						<li><a href="index.php?page=passages.php">Lister les derniers passages</a></li>
 						<li><a href="index.php?page=bureaux.php">Lister les bureaux</a></li>
 						<li class="divider"></li>
 						<li><a href="index.php?page=apropos.php">A propos</a></li>
@@ -76,5 +77,4 @@ class Template {
 	</body>
 </html>';
 	}
-	
 }

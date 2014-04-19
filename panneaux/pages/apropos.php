@@ -6,7 +6,7 @@
 <h3>Pour un militant</h3>
 <ol>
 	<li>je prépare ma tournée en indiquant les 2, 20 ou 200 panneaux sur lesquels je vais coller une affiche. L'application m'imprime une liste papier avec toutes les adresses et l'état du panneau (vide, recouvert, nickel).</li>
-	<li>à la fin de ma tournée, je reviens chez moi et je coche tous les panneaux que j'ai collé sur l'appliation web.</li>
+	<li>à la fin de ma tournée, je reviens chez moi et je coche tous les panneaux que j'ai collé sur l'application web.</li>
 </ol>
 
 <h3>Pour un sympathisant</h3>

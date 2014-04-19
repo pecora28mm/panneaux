@@ -1,11 +1,11 @@
 <?php
 /* Nouvelle Donne -- Copyright (C) Perrick Penet-Avez 2014 - 2014 */
 
-?>
+$passage = new Passage();
+$statusboard = new Statusboard();
 
+echo "
 <ul>
-	<li><a href="index.php?page=bureaux.php">Bureaux</a></li>
-	<li><a href="index.php?page=bureau.php">Nouveau bureau</a></li>
-	<li><a href="index.php?page=passages.php">Passages</a></li>
-	<li><a href="index.php?page=passage.php">Nouveau passage</a></li>
-</ul>
+<li>".$passage->link(__("Add a passage"))."</li>
+<li>".$statusboard->link(__("Check status board"))."</li>
+</ul>";

@@ -15,6 +15,8 @@ class Passages extends Collector {
 	}
 
 	function display() {
+		$html = "";
+
 		if (count($this) > 0) {
 			$passage = new Passage();
 			$etats_names = $passage->etats();
@@ -46,11 +48,38 @@ class Passages extends Collector {
 		return $html;
 	}
 	
+	function get_join() {
+		$join = parent::get_join();
+		
+		if (isset($this->pattern)) {
+			$join[] = "INNER JOIN bureaux ON bureaux.id = passages.bureaux_id";
+		}
+
+		return $join;
+	}
+	
 	function get_where() {
 		$where = parent::get_where();
 		
+		if (isset($this->actions_id)) {
+			$where[] = "passages.actions_id = ".(int)$this->actions_id;
+		}
 		if (isset($this->bureaux_id)) {
 			$where[] = "passages.bureaux_id = ".(int)$this->bureaux_id;
+		}
+		if (isset($this->etats_id)) {
+			$where[] = "passages.etats_id = ".(int)$this->etats_id;
+		}
+		if (isset($this->last)) {
+			$where[] = "passages.id IN (SELECT MAX(id) FROM passages GROUP BY bureaux_id)";
+		}
+		if (isset($this->pattern)) {
+			$where[] = "(
+				bureaux.name LIKE ".$this->db->quote("%".$this->pattern."%")."
+				OR bureaux.address LIKE ".$this->db->quote("%".$this->pattern."%")."
+				OR bureaux.postcode LIKE ".$this->db->quote("%".$this->pattern."%")."
+				OR bureaux.city LIKE ".$this->db->quote("%".$this->pattern."%").
+			")";
 		}
 		
 		return $where;
