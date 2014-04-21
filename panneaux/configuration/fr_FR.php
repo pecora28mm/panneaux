@@ -24,6 +24,7 @@ $array_week[5] = "Vendredi";
 $array_week[6] = "Samedi";
 $array_week[7] = "Dimanche";
 
+$__['--'] = "--";
 $__['action'] = "action";
 $__['add'] = "ajouter";
 $__['add new line'] = "ajouter une nouvelle ligne";

@@ -10,7 +10,7 @@ class Template {
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Les panneaux de Nouvelle Donne</title>
+		<title>'.$GLOBALS['config']['name'].'</title>
 		<link href="medias/css/bootstrap.min.css" rel="stylesheet">
 		<link href="medias/css/styles.css" rel="stylesheet">
 		</head>
@@ -29,12 +29,12 @@ class Template {
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="index.php">Panneaux de campagne ND</a>
+			<a class="navbar-brand" href="index.php">'.$GLOBALS['config']['name'].'</a>
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-			<form class="navbar-form navbar-left" role="search" action="index.php?page=bureaux.php" method="post">
+			<form class="navbar-form navbar-left" role="search" action="index.php?page=statusboard.php" method="post">
 				<div class="form-group">
 					<input name="pattern" type="text" class="form-control" placeholder="Code postal ou ville">
 				</div>
