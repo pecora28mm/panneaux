@@ -69,6 +69,7 @@ $__['ok'] = "ok";
 $__['or'] = "ou";
 $__['passage'] = "passage";
 $__['postcode'] = "code postal";
+$__['postcode, city or address'] = "code postal, ville ou adresse";
 $__['riped off'] = "arraché";
 $__['save'] = "sauvegarder";
 $__['seems OK'] = "semble OK";

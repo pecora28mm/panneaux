@@ -13,6 +13,14 @@ class Bureau extends Record {
 		$this->id = $id;
 	}
 
+	function match_existing($patterns = array("name"), $table = "bureaux", $db = null) {
+		return parent::match_existing($patterns, $table, $db);
+	}
+
+	function load($id = null, $table = "bureaux", $columns = null) {
+		return parent::load($id, $table, $columns);
+	}
+
 	function db($db) {
 		if ($db instanceof db) {
 			$this->db = $db;
@@ -74,10 +82,6 @@ class Bureau extends Record {
 			$city->item(__("city")).
 			$save->input().
 		"</form>";
-	}
-
-	function load($id = null, $table = "bureaux", $columns = null) {
-		return parent::load($id, $table, $columns);
 	}
 
 	function save() {

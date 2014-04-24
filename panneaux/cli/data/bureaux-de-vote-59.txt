@@ -1,0 +1,5487 @@
+ABANCOURT
+0
+1
+1
+Grand Rue
+6
+19
+Denain
+ABSCON
+3
+1
+4
+Rue Jean Jaurès/rue Jules Guesde, rue du Sergent Degallaix au niveau de l'ancienne voie ferrée des HBNPC, rue Clodomir Bécar à coté du bâtiment dit "Le Prieuré", école Marius Assez place des Acacias.
+1
+3
+Solre le Château
+AIBES
+1
+1
+2
+Ecole, Mairie
+3
+6
+Orchies
+AIX-LES-ORCHIES
+4
+1
+5
+79 rue du Gal de Gaulle, 2 rue du Gal de Gaulle, 27 rue Gaston Vérité, 10 rue d'Orchies, Mairie.
+5
+5
+Seclin Sud
+ALLENNES-LES-MARAIS
+10
+1
+11
+Rue du Commandant Cousteau, entrée rue Collette, 49 rue Sonneville, 72 rue Franche, rue du Vert Tilleul, rue du Cimetière, rue du 14ème Zouave, rue du Marais, 100 rue du Général de Gaulle, 60 rue de la Rive, Salle Polyvalente rue de Verdun
+1
+3
+Bavay
+AMFROIPRET
+1
+1
+2
+Route de Le Quesnoy, rue de l'Eglise
+3
+16
+Douai Nord
+ANHIERS
+0
+1
+1
+Entre la Mairie et l'école
+3
+16
+Douai Sud
+ANICHE
+9
+7
+16
+Ecole des filles boulevard Drion, rue Gambetta (dispensaire), rue Buisson (plateau Lemoine), rue Delforge (stade), rue Léo Lagrange (face piscine), rue Léo Lagrange (face supérette), rue Dubray (face Stade), rue Denis Cordonnier, rue Laudeau (près salle de sport), Salle Claudine Normand rue Barbusse, Ecole primaire Basuyaux rue Gambetta, Maison A.L.A.P.A.G.E 35 rue Delforge, école maternelle Archeveque rue Deregnaucourt, école maternelle Schmidt rue Delval, école maternelle Fossé rue d'Artois, salle des sports rue Laudeau
+2
+18
+Marcoing
+ANNEUX
+0
+1
+1
+Mairie.
+5
+5
+Seclin Sud
+ANNOEULLIN
+10
+3
+13
+Foyer logement Route de Don, Face au 447 rue Jean Carpentier, Face au 77 rue Léon Boistelle, Groupe scolaire Albert Camus, Face au 65 rue Roger Salengro, Salle Pierre de Coubertin rue des Ormes, Grilles plaine Baudelaire avenue de l'Europe, A proximité de l'école Prévert rue Charles Gounod, Gendarmerie chemin Desnoullet, Parking Magnolias rue Falala, Stade rue St Exupéry, Salle de musique rue de la Gare, Ecole Rimbaud rue du 8 mai.
+1
+3
+Trélon
+ANOR
+9
+1
+10
+Rue Pasteur, Rue de Trélon, Quartier de la Galaperie, rue de la Verrerie Blanche, rue de Milourd, rue Fostier Bayard, Quartier de la Verrerie noire, rue de Momignies (stade), place du Poilu, Salle des Fêtes rue Léo Lagrange.
+5
+6
+Lannoy
+ANSTAING
+4
+1
+5
+"Le Petit Paris" rue Pasteur, "la Cosiète" rue du stade/rue Jean-Jaurès, "le Marichon" rue Camille Dufay/rue Edouard Branly, "La Place" place Jules Guesde/rue Camille Dufay, Mairie
+6
+20
+Anzin
+ANZIN
+3
+8
+11
+Place R. Salengro (anciens cours professionnels), rue Pierre Mathieu/rue Jean Jaurès, rue Jean Jaurès (centre commercial ALDI), place R. Salengro (mur de Mairie), rue Gallieni (école maternelle), rue Lucien Jonas (école maternelle Carpeaux), rue Voltaire (école Voltaire) , place De Gaulle (école), rue J.Jaurès (groupe scolaire), rue de Raismes (école maternelle Mont d'Anzin), bd Dampierre (allée du Château).
+3
+17
+Arleux
+ARLEUX
+0
+2
+2
+Ecole F. Noel avenue de la Gare, salle H. Martel rue S. Allendé.
+4
+14
+Bergues
+ARMBOUTS-CAPPEL
+2
+1
+3
+Ecole Jules Ferry 4 rue du Nord, route de Bourbourg, salle des fêtes place de la Mairie
+5
+11
+Armentières
+ARMENTIERES
+2
+14
+16
+Rue Jules Lebleu (mur de l'Hôpital face cité Bonjean), boulevard Faidherbe/rue d'Erquinghem, Hôtel de Ville, école de musique rue Nationale/avenue F. Mitterrand, école maternelle Jean Macé rue Jean Macé, Foyer Messines rue de Messines, école maternelle rue Gambetta, école maternelle avenue Roger Salengro, lycée Paul Hazard rue P. Hazard, école maternelle Renan-Buisson rue de l'Ecole, ancienne école Paul Bert rue Paul Bert, école maternelle avenue Léo Lagrange, restaurant scolaire Blum avenue Léo Lagrange, école primaire Renan-Buisson rue Ernest Renan, restaurant scolaire Anatole France rue du Kemmel, Maison du Temps Libre rue du général Leclerc.
+4
+15
+Cassel
+ARNEKE
+1
+1
+2
+Grand place, Mairie (contour cimetière)
+6
+19
+Valenciennes Sud
+ARTRES
+4
+1
+5
+Rue de la Fabrique, rue de l'Eglise, rue du Pont, rue de la Gare, rue des Ecoles.
+1
+3
+Maubeuge Nord
+ASSEVENT
+2
+1
+3
+Carrefour Langlois, rue du Général de Gaulle, rue Jules Ferry.
+5
+6
+Pont à Marcq
+ATTICHES
+3
+1
+4
+Petit Attiches rue de la Neuville, Hameau de Drumetz, rue des Jardins, Mairie
+2
+18
+Cambrai Ouest
+AUBENCHEUL-AU-BAC
+0
+1
+1
+Mur du cimetière.
+3
+16
+Douai Sud
+AUBERCHICOURT
+6
+4
+10
+Parking près église, rue du Calvaire, rue de Somain (square), rue de Douai (au garage), rue Pierre Joseph Laurent, rue Jean Lebas (face école maternelle), salle des fêtes, salle 11 rue de Somain, école maternelle La Paix, école maternelle Chaufour rue Pasteur.
+5
+5
+Bassée (La)
+AUBERS
+0
+1
+1
+Salle polyvalente - 31 rue de Verdun
+3
+17
+Arleux
+AUBIGNY-AU-BAC
+0
+1
+1
+Rue Jeanne Claire.
+6
+21
+Valenciennes Nord
+AUBRY-DU-HAINAUT
+2
+1
+3
+Rue H.Maurice face à la brasserie, place Ch. De Gaulle, Mairie
+3
+17
+Douai Nord Est
+AUBY
+11
+6
+17
+Place de la République au niveau du Général de Gaulle ex Mairie, rue Léon Blum (face église), rue Jacques Duclos prolongée, face au 35 rue Fransisco Ferrer, rue Fransisco Ferrer résidence La Vallée, rue Léo Lagrange face banque, rue Henri Pollet, rue Jean Lebas (face ex Cofaz), rue Etienne Dolez (cité Carbonisation), rue JJ Rousseau (passage à niveau des Asturies), rue Raspail (niveau rue de la Corderie), rue Chatelard (salle de sport), rue Jules Ferry (crèche), place République (école G. Philippe), rue de Liège (école M. Pagnol), rue Piaget (école Prévert), rue de Ligueil (maison quartier).
+3
+6
+Orchies
+AUCHY-LEZ-ORCHIES
+5
+1
+6
+Place du Gal de Gaulle, salle des fêtes 170 rue du Pont, face au 108 rue de la Froidure, 1001 rue Deregnaucourt, 765 rue Jacob Martinache, rue du Noir Debout école publique.
+1
+3
+Bavay
+AUDIGNIES
+1
+1
+2
+Place, Mairie.
+1
+12
+Berlaimont
+AULNOYE-AYMERIES
+8
+3
+11
+Rue J.Jaurès face au n°6, rue Mirabeau à la hauteur de la propriété des Papillons Blancs, rue Joseph Fontaine/rue du Bon Accueil, rue A. France proximité usine Vallourec, rue J. Coquelin (près école Stiévenart), rue Parmentier (près de la piscine l'Aiguade), allée des Cerisiers (proximité école maternelle A. Frank), rue Pierre Curie/rue de la Victoire (près école maternelle Louise Michel, Salle des fêtes de l'Hôtel de Ville place du Dr Guessant, ex-école Socquet centre social et culturel rue Serge Juste, école P. Semard rue de Gussignies.
+6
+19
+Valenciennes Sud
+AULNOY-LEZ- VALENCIENNES
+8
+4
+12
+Rue René Mirland/résidence Edmond Cher, rue Paul Gauguin, avenue Henri Matisse, avenue de la Liberation (pont d'Aulnoy), avenue de La Rhônelle, rue Marcel Cachin/Chemin Vert, rue Pablo Picasso, rue des 6 Muids, salle de l'Union rue Henri Turlet, école maternelle Jules Ferry rue Victor Hugo, école maternelle Georges Brassens rue Saint Just, école maternelle Emile Zola rue Léon Blum.
+5
+6
+Pont à Marcq
+AVELIN
+8
+2
+10
+Rue de la Monette, rue d'Antroeuilles, rue du Château d'Has, rue de Treupe, Hameau de Prez , R. N. 17 Hameau d'Ennetières, rue Georges Sand (ancien lieu de vote), rue Roille, R. N. 17 Hameau d'Ennetières, salle culturelle rue de Lille.
+1
+12
+Avesnes Sud
+AVESNELLES
+4
+1
+5
+1 route d'Etroeungt, rue du Moulinet face au n°1, route de Sains "la Roquette", La Place (près de la l'Eglise), salle polyvalente du Cardé rue Charles Séry.
+2
+12
+Carnières
+AVESNES-LES-AUBERT
+4
+1
+5
+Place Jean Jaurès, rue Karl Marx, rue Sadi Carnot, rue du 19 mars, salle des fêtes
+6
+19
+Bouchain
+AVESNES-LE-SEC
+2
+1
+3
+Rue de Glatigny, rue Roger Salengro, rue Rouget de l'Isle.
+1
+3
+Avesnes Nord
+AVESNES-SUR-HELPE
+3
+2
+5
+Avenue Stroh (face Esso), rue d'Aulnoye (Ets Gaudry), rue J.P Chabloz, Salle des Fêtes, rue des Près.
+1
+12
+Avesnes Sud
+AVESNES-SUR-HELPE
+5
+2
+7
+Rue H. Dunant, cité Peltrisot, mur Collégiale place Leclerc, place Guillemin devant Tribunal, rue Pierre Larivière (centrale téléphonique), Bastion (salle Wedric), piscine.
+2
+18
+Cambrai Est
+AWOINGT
+0
+2
+2
+Rue Pasteur (place), rue Albert Mathieu (Mairie).
+1
+12
+Berlaimont
+BACHANT
+1
+3
+4
+Mairie, Salle Polyvalente, Maison de Quartier, Rue E. Havret (près Maison des Associations).
+5
+6
+Cysoing
+BACHY
+0
+1
+1
+parking de la salle municipale place de la Liberté.
+4
+15
+Bailleul Nord Est
+BAILLEUL
+1
+4
+5
+Hôtel de ville place Charles de Gaulle, bibliothèque rue des Sœurs Noires, Présidial place Plichon, Hameau de la crèche grilles terrain de foot, place Cardinal Liénart.
+4
+15
+Bailleul Sud Ouest
+BAILLEUL
+1
+6
+7
+Hôtel de ville place Charles de Gaulle, école Sévigné 10 rue St Jacques, école maternelle Pasteur 18 rue Pasteur, Hameau d'Outtersteene 4950 route de Vieux Berquin, Hameau de la crèche grilles terrain de foot, école du Hameau du Steent'je 3435 Pluymstrate, rue Abbé Désiré Carnel école Charles Decoster.
+5
+6
+Lannoy
+BAISIEUX
+0
+1
+1
+centre socio-culturel d'Ogimont 700 rue de la Mairie
+1
+3
+Trélon
+BAIVES
+1
+1
+2
+La Place, Mairie.
+4
+14
+Hondschoote
+BAMBECQUE
+1
+1
+2
+Rue Principale (le long du cimetière), Salle Yserhof 5 rue de l'église
+2
+18
+Marcoing
+BANTEUX
+1
+1
+2
+Rue du Milieu, Mairie.
+2
+18
+Cambrai Ouest
+BANTIGNY
+1
+1
+2
+Rue de Marquette, rue d'En-Haut.
+2
+18
+Marcoing
+BANTOUZELLE
+1
+1
+2
+63 Grand'rue, 81 Grand'rue.
+1
+3
+Avesnes Nord
+BAS-LIEU
+1
+2
+3
+Chemin St-Lienard, façade Ecole, muret à droite de l'école (près cabine).
+5
+5
+Bassée (La)
+BASSEE (La)
+10
+1
+11
+Place du Général de Gaulle mur et clôture de l'Hôtel de Ville, rue des Fossés côté opposé au n° 71, rue de Lille clôture du foyer social et culturel, avenue de Dunkerque/avenue Pasteur espaces verts du C. I. L., rue du Général Leclerc (Calvaire), rue maurice Bouchery derrière le square de la place des Augustins, route d'Estaires près résidence Porte d'Estaires, rue de la Gare long du Canal, rue de Lens/boulevard du Canal montée du Pont, rue Gabriel Péri côté opposé au n°81, rue des casernes école Jules Verne.
+5
+5
+Seclin Sud
+BAUVIN
+10
+1
+11
+Café Van Meir, rue Ghesquière (garage Franchi), rue François Pouille, rue Prévert, Marx Dormoy, rue Etienne Dolet (face rue Ferrer), place Salengro, Espace Vert résidence Guy Mollet, entrée Clos de la Ferme, entrée Résidence Jules Sauvage (côté rue Dolet Prolongée), rue Jean Jaurès (parking Mairie)
+1
+3
+Bavay
+BAVAY
+7
+3
+10
+Porte de Mons (angle mur du rempart), 9 Hameau du Louvion, 11 rue de la chaussée Buvignies, parking porte de Valenciennes, clôture Salle de Sports Jean Lemaire de Belges rue du Vieux Chemin, 62-64 rue de la Gare, rue Eugène Mascart face ateliers municipaux, école de l'Atrium rue Jean de Haynin, rue Pierre Mathieu face école primaire du centre, école maternelle rue des Allées.
+4
+15
+Cassel
+BAVINCOVE
+0
+1
+1
+Mairie
+2
+18
+Cateau Cis (Le)
+BAZUEL
+5
+1
+6
+Rue du Pommereuil, rue de l'Eglise, rue de Catillon, rue du Cateau, rue Créance, Grand'Rue.
+5
+11
+Lomme
+BEAUCAMPS-LIGNY
+0
+1
+1
+Rue de l'Eglise
+1
+12
+Quesnoy Est (Le)
+BEAUDIGNIES
+4
+1
+5
+La Place, Fontaine du Bosquet rue Basse, 18 rue Haute, 29 rue du Quesnoy, salle des fêtes rue du Marais.
+1
+12
+Hautmont
+BEAUFORT
+0
+1
+1
+Parking de l'Eglise.
+2
+18
+Cateau Cis (Le)
+BEAUMONT-EN- CAMBRESIS
+0
+1
+1
+17 rue du Docteur Nick.
+2
+12
+Solesmes
+BEAURAIN
+0
+1
+1
+Place de l'Ecole.
+1
+12
+Avesnes Sud
+BEAUREPAIRE-SUR- SAMBRE
+0
+1
+1
+Parking de la Mairie.
+1
+3
+Solre le Château
+BEAURIEUX
+0
+1
+1
+12 La Place
+2
+12
+Carnières
+BEAUVOIS-EN- CAMBRESIS
+3
+1
+4
+Rue Berthelot, 2 rue Rambach, 8 rue de l'Industrie, 155 rue Berthelot.
+6
+21
+Valenciennes Nord
+BELLAING
+0
+1
+1
+Rue Jean Jaurès face à la Mairie.
+1
+3
+Bavay
+BELLIGNIES
+0
+1
+1
+Place de la Mairie
+1
+3
+Solre le Château
+BERELLES
+0
+1
+1
+Mairie.
+4
+14
+Bergues
+BERGUES
+7
+3
+10
+Rue du Port, rue d'Ypres, avenue Félix Baert, avenue de la Liberté, rue d'Hondschoote, rue de l'Arsenal, rue de la Gare, rue Léon Claeys, 73 rue Carnot, entrée école Charles Perrault.
+1
+12
+Berlaimont
+BERLAIMONT
+3
+1
+4
+RuedesBerceaux,placedel'Eglise,placedelaMairie(marchécouvert), salledesfêtes.
+2
+12
+Solesmes
+BERMERAIN
+0
+1
+1
+Rue du Calvaire.
+1
+3
+Bavay
+BERMERIES
+1
+1
+2
+"Le Saule", Mairie rue de Roisin.
+5
+6
+Pont à Marcq
+BERSEE
+3
+1
+4
+Parking du Jardin Public rue St-Nicolas, rue du Pavé, rue de Wattines, salle municipale rue du stade.
+1
+3
+Maubeuge Nord
+BERSILLIES
+1
+1
+2
+Ancienne salle des Fêtes, Mairie.
+4
+15
+Bailleul Sud Ouest
+BERTHEN
+0
+1
+1
+Mairie
+2
+18
+Clary
+BERTRY
+4
+1
+5
+Grille école, rue Jules Guesde au rond point, face au n°3 rue Jeanne d'Arc, rue Pasteur face rue de la Gare, rue Gambetta face Mairie.
+2
+12
+Carnières
+BETHENCOURT
+0
+1
+1
+Mairie.
+1
+3
+Maubeuge Nord
+BETTIGNIES
+0
+1
+1
+2 route de Villers.
+1
+3
+Bavay
+BETTRECHIES
+0
+1
+1
+3 rue de Meaurain
+1
+3
+Avesnes Nord
+BEUGNIES
+2
+1
+3
+Ecole, foyer place de la Gare, Mairie.
+6
+20
+Anzin
+BEUVRAGES
+7
+4
+11
+Rue des Poilus à l'arrêt de bus "gare de Beuvrages", cité Fénelon rue Michel Ange/Delacroix, cité Mallet rue du 18 mai/rue Jean Jaurès face au 148, rue des Poilus/rue du Droit/ rue Victor Hugo arrêt de bus "rue du Droit", rue Emile Zola/rue Marcel Danna, rue Victor Hugo face au n°59, rue Gustave Michel face au n°17, école primaire Jules Ferry angle du mur du cimetière, école maternelle Joliot Curie entrée de la rue Georges Mortuaire, école Paul Langevin rue Ambroise Croizat, maison de quartier rue de Rotterdam pignon du bloc place de Bruxelles.
+3
+6
+Orchies
+BEUVRY-LA-FORET
+5
+2
+7
+Rue Albert Ricquier (abri bus), rue Albert Riquier (contre mur cimetière), rue de Bouteau, rue Gilbert Dohein rond point, rue Jacques Varlet face au 556, rue de l'ancienne poste face au 218, rue de la Résistance près du foyer Heyden.
+2
+12
+Carnières
+BEVILLERS
+1
+1
+2
+Rue du Préau entre église et maison des associations, rue de l'Arbre (près salle des fêtes).
+4
+14
+Bergues
+BIERNE
+2
+2
+4
+"le Petit Millebrugghe", rue Guynemer, Maison des Associations rue de l'église, Groupe Scolaire J. Lepretre rue de l'Ecole
+4
+14
+Bergues
+BISSEZEELE
+3
+2
+5
+25 rue des Fleurs, 1 route de Crochte, 450 rue du Pont, près de la salle polyvalente, cour le l'ex école.
+4
+15
+Hazebrouck Nord
+BLARINGHEM
+1
+1
+2
+Parking Mairie, parking salle des Fêtes rue Gérard Bels
+2
+18
+Cambrai Ouest
+BLECOURT
+0
+1
+1
+Mairie.
+4
+15
+Steenvoorde
+BOESCHEPE
+4
+1
+5
+Ecole Victor Hugo 285 rue de Poperinghe, Bibliothèque communale rue de la Mairie, rue de Cassel l'Abeele, Ecole Pasteur 124 rue de la Gare, salle des fêtes complexe Decanter.
+4
+15
+Hazebrouck Sud
+BOESEGHEM
+1
+1
+2
+"les Ciseaux", rue de la Mairie
+5
+11
+Armentières
+BOIS-GRENIER
+1
+1
+2
+Place des Trois Maires (le long de l'Eglise), 43 rue de Fleurbaix
+4
+14
+Wormhout
+BOLLEZEELE
+1
+1
+2
+Grand'place près Mairie, Grand'place près espace Jules Dehaene.
+5
+9
+Marcq en Baroeul
+BONDUES
+9
+3
+12
+Rue de la Poste (mur Presbytère), Rue René d'Hespel entrée clos d'Hespel, rue du Bosquiel sur la clôture du stade Achille Lefebvre, avenue du Gal de Gaulle clôture des Tennis Unis, avenue du Gal de Gaulle devant la station de pompage du carrefour dit de la "Patte d'Oie", rue de Tourcoing près de la cabine E. D. F. du carrefour dit du "Jambon", avenue du Gal de Gaulle devant l'école des Bois Blancs, rue Gabriel Péri /rue Pasteur, chemin Saint georges près de l'intersection avec l'avenue de Wambrechies, avenue du Coquinage devant l'école primaire Van Der Meersch, chemin Saint Georges à proximité du groupe scolaire "Les Obeaux", rue Norbert Ségard
+4
+15
+Hazebrouck Sud
+BORRE
+0
+1
+1
+Parking de la Mairie
+6
+19
+Bouchain
+BOUCHAIN
+9
+3
+12
+Prés des Wareschaix, bassin rond, rue des frères Régnier (EDF), rue des frères Régnier (rure Caffeau), pont Laurent (parking poids lourds), rue d'Ostrevant/place T.Trimm, rue Lalo, rue Piérard/rue Régnier, rue Caffeau, Mairie rue G.Daix, école primaire J.Zay rue Roger Darthois, école primaire A.Douay rue G.Charpentier.
+1
+12
+Avesnes Sud
+BOULOGNE-SUR-HELPE
+1
+1
+2
+Salle des Fêtes, 11 rue de la Mairie.
+4
+14
+Bourbourg
+BOURBOURG
+3
+5
+8
+Rue des Anciens d'A.F.N/Quai des traiteurs, mur Bécart rue de Bergues, rue des Ecluses, Mairie, école Lamartine rue Benjamin Vandenbroucque, école Sevigné rue de Cassel, école Maternelle la Campagne rue Jean Jaurès, Maison de retraite Olivier Varlet rue Verte
+5
+6
+Cysoing
+BOURGHELLES
+0
+1
+1
+Place de la Liberté
+2
+18
+Marcoing
+BOURSIES
+1
+1
+2
+Face au n°12 route Nationale, Mairie.
+5
+10
+Tourcoing Nord
+BOUSBECQUE
+2
+1
+3
+Mairie, salle des Jonquilles 10 rue de Flandre, complexe sportif avenue des Peupliers.
+1
+12
+Landrecies
+BOUSIES
+1
+1
+2
+Rue René Ruelle/de Landrecie/de Robersart, rue de la Galocherie près de la salle des fêtes.
+6
+20
+Saint Amand Rive Gauche
+BOUSIGNIES
+0
+1
+1
+Face à l'école Mairie
+1
+3
+Solre le Château
+BOUSIGNIES-SUR-ROC
+0
+1
+1
+Mairie.
+2
+12
+Carnières
+BOUSSIERES-EN- CAMBRESIS
+0
+1
+1
+Mairie rue de l'Eglise
+1
+12
+Hautmont
+BOUSSIERES-SUR- SAMBRE
+0
+1
+1
+Parking de l'Eglise.
+1
+3
+Maubeuge Sud
+BOUSSOIS
+3
+1
+4
+Rue Anatole France face au n°68, rue Faidherbe face école maternelle du Maroc, rue de la Paix face école maternelle F. Dolto, Rue du Pont à proximité de la Maison de la Citoyenneté.
+3
+16
+Marchiennes
+BOUVIGNIES
+1
+1
+2
+Cloture du Cimetière, mur école près Mairie.
+5
+6
+Cysoing
+BOUVINES
+0
+1
+1
+Rue Félix Dehau placette face ancienne Mairie
+4
+14
+Dunkerque Est
+BRAY-DUNES
+0
+4
+4
+Place Bray, square Victor Hugo, école Bray, face n°248 rue de l'ancienne gare.
+2
+12
+Solesmes
+BRIASTRE
+0
+1
+1
+Place.
+6
+20
+Saint Amand Rive Gauche
+BRILLON
+0
+1
+1
+1 rue du Mal Foch
+4
+14
+Bourbourg
+BROUCKERQUE
+0
+1
+1
+Mairie
+4
+14
+Wormhout
+BROXEELE
+0
+1
+1
+Route de Rubrouck
+6
+20
+Anzin
+BRUAY-SUR-ESCAUT
+4
+6
+10
+Rue Victor Hugo, rue Pasteur, rue Henri Legrand, rue W. Rousseau (près de la médiathèque), place des Farineau (salle polyvalente), rue des Francs Tireurs (près annexe Pont de Bruay), école maternelle Matisse rue Lucien Mars, place Henri Durre (maison des services), place de l'église (près salle Goguillon), rue Michel Brabant (salle Jean-Yves Bouly).
+3
+16
+Marchiennes
+BRUILLE-LEZ- MARCHIENNES
+1
+1
+2
+Place du 8 mai 45, Rue R. Salengro près de la Mairie.
+6
+20
+Saint Amand Rive Droite
+BRUILLE-SAINT-AMAND
+0
+3
+3
+Marie place R. Salengro, salle des fêtes rue des Ecoles, école de la Source carrefour rue Pasteur et rue Berthelot.
+3
+17
+Arleux
+BRUNEMONT
+0
+1
+1
+Devant la Mairie - rue Neuve.
+1
+12
+Quesnoy Ouest (Le)
+BRY
+0
+1
+1
+face Mairie 16 rue de l'Eglise
+3
+17
+Arleux
+BUGNICOURT
+0
+1
+1
+Mur école.
+2
+18
+Clary
+BUSIGNY
+1
+1
+2
+Cité SNCF rue Mangin, rue Pasteur (salle COOP), rue Guynemer salle des fêtes.
+4
+15
+Cassel
+BUYSSCHEURE
+0
+1
+1
+salle Tisje Tasje
+4
+15
+Hazebrouck Nord
+CAESTRE
+0
+1
+1
+Proximité Mairie
+2
+18
+Cambrai Est
+CAGNONCLES
+1
+1
+2
+Rue de Carnières, place.
+2
+18
+Cambrai Ouest
+CAMBRAI
+4
+7
+11
+Rue Paul Bert école maternelle, avenue Michelet grille SNCF, avenue Villars face rue Saint Ladre, place du Maréchal Leclerc (grille du jardin), Hotel de Ville place de la République, rue d'Arras école maternelle, allée Saint Roch école maternelle F. Buisson, square du 27 avril 1944 maison quartier Maréchal, rue Raymond Gernez Maison de quartier, rue Lavoisier maison de quartier Amérique, rue de Varsovie école maternelle Martin-Martine.
+2
+18
+Cambrai Est
+CAMBRAI
+3
+4
+7
+Place Fénelon grille du square, rue de Cantaing mur ferme Delfolie, rue du grand séminaire école Gambetta, Hôtel de Ville place de la République, rue Raymond Gernez maison de quartier, avenue de Paris école René Coty, rue Bertrand Milcent école maternelle La Fontaine.
+5
+5
+Seclin Sud
+CAMPHIN-EN- CAREMBAULT
+3
+1
+4
+Rue du Maréchal Foch (place de l'Ecole), rue du Général de Gaulle (place de l'Ecole), rue Nationale (face au n°22), rue du Général (centre polyvalent)
+5
+6
+Cysoing
+CAMPHIN-EN-PEVÊLE
+0
+1
+1
+Salle des Fêtes place de l'Eglise
+2
+18
+Marcoing
+CANTAING-SUR-ESCAUT
+0
+1
+1
+2 place de la Mairie.
+3
+17
+Arleux
+CANTIN
+1
+1
+2
+Place de l'Eglise, rue de Cambrai (autocommunicateur)
+2
+12
+Solesmes
+CAPELLE-SUR- ECAILLON
+1
+1
+2
+Rue Fouet, mur de la Mairie - rue Fouet.
+5
+11
+Armentières
+CAPINGHEM
+1
+2
+3
+Avenue Nelson Mandela entre 1 et 3 quartier Humanicité, Parvis de l'école (parking Salle polyvalente rue d'Ennetières), Parvis Hôtel de Ville rue Poincaré
+4
+14
+Bourbourg
+CAPPELLE-BROUCK
+0
+1
+1
+Pignon ouest de l'école des garçons rte de Bourbourg
+5
+6
+Cysoing
+CAPPELLE-EN-PEVELE
+3
+1
+4
+Rue du Général de Gaulle n°47, rue de Thouart, rue d'Hautefois à l'entrée du verger, 5 rue de la Ladrerie
+4
+13
+Dunkerque Ouest
+CAPPELLE-LA-GRANDE
+5
+6
+11
+Jardin public rue de l'église, place de la Paix, rue de Kroemouck, Place Blanc, rue des Jardins, Mairie, rue Van Eecke (palais des Arts), route de Bourbourg (école Jean Jaurès), clôture stade école Delvallez, route de Bierne école Joliot Curie, salle de réception complexe R. Gouvart.
+2
+12
+Carnières
+CARNIERES
+0
+1
+1
+Rue de l'Eglise
+5
+5
+Seclin Sud
+CARNIN
+0
+1
+1
+Place du 27 mai 1940
+1
+12
+Avesnes Sud
+CARTIGNIES
+1
+1
+2
+La Place, Salle de Musique route de Boulogne.
+4
+15
+Cassel
+CASSEL
+2
+2
+4
+Rue Bollaert (avant le Château Vandamme), parking rue du Mal Foch, Hotel de Ville Grand'place, école Till l'Espiègle rue de Bergues.
+2
+18
+Cateau Cis (Le)
+CATEAU-CAMBRESIS (LE)
+1
+5
+6
+Hôtel de Ville, place du 3 septembre 1944, rue du Mal Mortier (G.S. Matisse), rue de la Gaïeté entrée du Palais des Sports, rue Auguste Seydoux (côté é&cole maternelle), rue Pierre Curie ( près G.S. Curie).
+2
+18
+Cateau Cis (Le)
+CATILLON-SUR-SAMBRE
+1
+1
+2
+Route Nationale, rue Pasteur à proximité de la salle des fêtes.
+2
+12
+Carnières
+CATTENIERES
+0
+1
+1
+Place des Anciens Combattants.
+2
+18
+Clary
+CAUDRY
+12
+1
+13
+Ecole Jean Macé, parking (anciens abattoirs), rue de Bruxelles, place du Cambrésis, rue Brossolette, rue Briand (Léonce Bajart), place d'Audencourt, boulevard du 11 novembre (rd point gendarmerie), rue de la Gare, rue Barbusse, bvd Jean Jaurès, rue Gambetta parking Désenfans, salle des fêtes.
+2
+18
+Clary
+CAULLERY
+3
+1
+4
+Rue Roger Salengro, rue Jean Macé, rue Bergère, salle des fêtes.
+2
+18
+Cambrai Est
+CAUROIR
+3
+1
+4
+1 - Rue de la Mairie, 2 - Rue de la Mairie, route de Solesmes, salle polyvalente.
+1
+3
+Maubeuge Sud
+CERFONTAINE
+1
+1
+￼2
+Place A. Jager, à proximité de l'école.
+5
+11
+Armentières
+CHAPELLE d'ARMENTIERES (La)
+5
+5
+10
+Ecole de Wez-Macquart 1966 route Nationale, rue du 11 novembre clôture du court de tennis, rue R. Schumann le long des barrières S. N. C. F. face à la rue P. de Coubertin, entrée de la rue P. de Ronsard côté route nationale, rue Marle avant le n° 146, Hôtel de ville 269 route Nationale, salle polyvalente rue Marle, entrée de la cité Lheureux route Nationale, école primaire O. Ollivier, école du Parc 28 rue Henri Matisse
+6
+20
+Saint Amand Rive Droite
+CHÂTEAU-L'ABBAYE
+1
+1
+2
+2 bis rue de la fontaine, 4 place de l'église
+5
+5
+Seclin Sud
+CHEMY
+1
+1
+2
+Eglise (rue de l'Eglise), 6 rue de la Mairie
+5
+6
+Lannoy
+CHERENG
+0
+2
+2
+Espace Roger Planquart rue du Château, Ecole Jules Ferry 100 route Nationale.
+1
+3
+Solre le Château
+CHOISIES
+0
+1
+1
+Grand'rue
+1
+3
+Solre le Château
+CLAIRFAYTS
+0
+1
+1
+Rue d'Epinoy
+2
+18
+Clary
+CLARY
+4
+1
+5
+5 rue de l'Eglise, 12 rue de l'Eglise, rue Verte, 11-13 rue du Gal de Gaulle, place des Ecossais.
+5
+6
+Cysoing
+COBRIEUX
+0
+1
+1
+Mairie Grand'Rue
+1
+3
+Maubeuge Sud
+COLLERET
+1
+1
+2
+Rue Fernand Buchet, salle des fêtes place de l'Europe.
+5
+4
+Quesnoy sur Deûle
+COMINES
+0
+5
+5
+Salle des Fêtes "Louis Aragon" rue d'Hurlupin, école publique "Jacques Brel" 110 rue de l'Apothicaire, école publique "Les Coquelicots" rue des Frêres Bulckaen, Centre Sportif Municipal 118 rue de Quesnoy, le Nautilys rue Kléber Loquet.
+6
+21
+Condé sur l'Escaut
+CONDE-SUR-L'ESCAUT
+11
+6
+17
+Rue du Quesnoy (entre chemin de Vaucelles et impasse Berthelot), place Verte, avenue de la Liberté, rue Sénéchal (cimetière de Macou), rue du Gras Bœuf, au Plus Court, route de Bonsecours "Le Coq", route de Bonsecours "Le Colysée", rue de la Chaussiette, rue du Champ de Mars, Hôtel de ville, parc de Lorette, école maternelle "Le Coq", école primaire "Jules Vallès", école primaire "Le Jard", groupe scolaire "le hameau de Macou".
+4
+13
+Coudekerque Branche
+COUDEKERQUE
+0
+1
+1
+Mairie
+4
+13
+Coudekerque Branche
+COUDEKERQUE- BRANCHE
+0
+16
+16
+Façade Hôtel de ville, école des Kakernèches rue G. de Maupassant, école J. de la Fontaine rue V. Hugo, école Joseph Courtois rue Cézanne entrée du square, foyer Jean Rostand 8 rue des Aulnes, Mairie de quartier rue des Mûriers, école Raymond Queneau rue Buffon, école Robert Desnos rue G. Delory, espace Roger Salengro place R.Salengro, Mairie de quartier rue G. Fontaine, école Maurice Millon rue G. Péri, école G. Brassens rue d'Artois, école des Tout Petits Vincent Van Gogh rue Marc Chagall, espace culturel Aragon place de la République, espace du Maître de Poste rue Béranger, centre social communal Josette Bulté rue Hoche.
+3
+17
+Douai Sud Ouest
+COURCHELETTES
+2
+1
+3
+Rue Paul Paix, rue Fernand Couteau, salle des fêtes rue Albert Charton.
+1
+3
+Solre le Château
+COUSOLRE
+9
+1
+10
+Hameau des Haies, Hameau de Reugnies, Hameau de Marsignies, Monument parvis de l'église, place de la République, place du Mont, Chapelle St Walbert rue Jules Montay, rue Eloi Cougneau, route Nationale face au n°38, route Nationale (porte côté Mairie).
+3
+6
+Orchies
+COUTICHES
+5
+2
+7
+La Place, rue Hallouchery, rue des Ramoniers, rue des 5 chemins, rue du Bru, 1305 route Nationale, école publique Léon Lambert.
+4
+14
+Gravelines
+CRAYWICK
+0
+1
+1
+Près de la Mairie
+6
+21
+Condé sur l'Escaut
+CRESPIN
+8
+2
+10
+Hôtel de ville (au niveau de l'école maternelle du centre ), face à la salle des fêtes (place Charles Thysse-rue du moulin), rue des Déportés (au niveau du groupe scolaire de Blanc-Misseron) , rue du commandant O'Relly après le n°49, rue Entre Deux Bois/rue l'avenir prolongée, parking rue de la Gare/rue du Gal Leclerc, parking cimetière rue du Vivier, entrée de la rue du Roy de Blicquy côté rue des Déportés, rue Butor (à l'entrée du chemin St Roch), place de l'école Bellevue.
+2
+18
+Marcoing
+CREVECOEUR-SUR- L'ESCAUT
+1
+1
+2
+Place du Général de Gaulle, salle polyvalente.
+4
+14
+Bergues
+CROCHTE
+0
+1
+1
+7 route du Collège
+5
+7
+Roubaix Ouest
+CROIX
+5
+13
+18
+93 rue Jean Jaurès clôture du commissariat, rue des Ogiers clôture du stade Sandras, square de l'Abbé Lemire rue de la Brasserie, rue R. Rolland clôture de CES et de l'école J. Zay, rue du Dévouement clôture 3 suisses, 187 rue J. Jaurès clôture de l'hôtel de ville, rue H. Barbusse clôture de l'école J. Zay, rue Kléber clôture du groupe scolaire Lucie Aubrac, rue Thiers groupe scolaire Lucie Aubrac, rue Lavoisier face espace Lavoisier, rue de Valmy clôture de la maison de la Mackellerie, rue G. Potié clôture de l'école J. Lebas, rue du Créchet clôture espace vert, rue Verte clôture de l'école La Fontaine, rue Churchill / rue du Président Robert Schumann clôture angle de rue, boulevard Emile Zola clôture de l'école Nadaud, rue G. Dubled clôture de l'école Voltaire, rue Schoelcher clôture du terrain synthétique.
+1
+12
+Landrecies
+CROIX-CALUYAU
+0
+1
+1
+Place de la Mairie.
+3
+17
+Douai Sud Ouest
+CUINCY
+6
+5
+11
+La Closerie rue Béhague, résidence Van Gogh, résidence Notre Dame rue Joliot Curie, résidence La Roseraie rue Cardinal Alleu, rue du Fbg d'Esquerchin, rue Jean Jaurès, salle Jean Zay place Dordain, école Joliot Curie rue Barbusse, Centre Henri Dunant rue S. Allendé, école Martin Luther King rue Eugène Varlin, école Jean Rostand avenue des Acacias.
+6
+21
+Valenciennes Est
+CURGIES
+2
+1
+3
+Route nationale, rue du 8 mai, rue Henri Durre (salle des fêtes)
+2
+18
+Cambrai Ouest
+CUVILLERS
+1
+1
+2
+Rue Camille Tribon, rue Maurice Camier (Mairie).
+5
+6
+Cysoing
+CYSOING
+6
+4
+10
+Mur pignon 16 rue de Tournai, 192 rue Delory maison de retraite, n° 407 rue J. B. Lebas, rue J. B. Lebas face à la Verte Rue, Hameau de Peuville trottoir près du clos du Peuville, avenue René Ladreyt à proximité du Café de la Gare, salle des fêtes rue A. Briand, annexe administrative rue du Général Leclerc, Espace intergénération rue S. Allendé, école maternelle St Exupéry rue du Gal de Gaulle.
+1
+3
+Maubeuge Sud
+DAMOUSIES
+1
+1
+2
+Place Norbert Wéry, Mairie.
+3
+16
+Douai Sud
+DECHY
+7
+3
+10
+Parking église, RN45 Giratoire Croix de Pierre, 38 rue F. Ambar, rue Pasteur face "Espace Toussaint Pinaton", rue E. d'Orves face café Léa, avenue du 8 mai/rue de Cantin, place Paul Langevin, rue Gambetta face anciens ateliers municipaux, rue Masclet devant annexe centre socio culturel, rue M. Thorez face Maison des Jeunes.
+2
+18
+Clary
+DEHERIES
+0
+1
+1
+Mairie.
+6
+19
+Denain
+DENAIN
+4
+11
+15
+Rue de Villars/rue Allendé, rue Pierre Bériot fosse Renard, faubourg Duchâteau carrefour bvd de Verdun/bvd Charles de Gaulle, rue du Général Leclerc Cimetière, rue de Villars école Emile Zola, rue Roger Salengro Galeries Picasso, rue Jean Jaurès école Diderot, rue Barbusse école Voltaire, rue Victor Hugo école Victor Hugo, rue Berthelot/rue des Coopérateurs après le Pont, place Baudin, rue Arthur Brunet école Condorcet, faubourg Duchâteau école Sévigné, rue de la Pyramide résidence Villars école Pasteur, rue Berthelot Maison de Quartier Solange Tonini.
+5
+4
+Quesnoy sur Deûle
+DEÛLEMONT
+4
+1
+5
+Cimetière communal route de Comines, lieu dit "La Tâche" mur de la ferme Delannoy (chemin Maigre Rue/RD 108), hameau "les Ecluses" (début chemin petit bonheur/RD 945), Le Pont Rouge (parking en schiste), Foyer communal 14 rue des Processions.
+1
+3
+Solre le Château
+DIMECHAUX
+0
+1
+1
+Ceinture de la Mairie.
+1
+3
+Solre le Château
+DIMONT
+1
+1
+2
+Place de la Mairie, Mairie.
+2
+18
+Marcoing
+DOIGNIES
+1
+1
+2
+Ecole La Place (mur), Mairie.
+1
+3
+Avesnes Nord
+DOMPIERRE-SUR-HELPE
+6
+1
+7
+11 route de Taisnières, route de Cartignies près Cité Briqueterie, Lieu-dit "les Ardennes", muret à proximité du 26 rue du Calvaire, Lieu-dit "le Passe-Temps" grange n°4, Lieu-dit "le Petit-Fuchau" près du n°12, route de Taisnières contre garage communal.
+5
+5
+Seclin Sud
+DON
+2
+1
+3
+(Cimetière) rue de l'Egalité, rue Pierre Curie, RD 41
+3
+17
+Douai Nord
+DOUAI
+4
+5
+9
+Rue Marguerite de Flandre face au collège Gayant, pont de Lille, place Carnot, place de la Templerie, école maternelle Georges Sand rue Marcelline, école de La Solitude rue Jules Ferry, maison des Associations annexe de la Clochette avenue Gounod, école Les Tilleuls route de Tournai, salle d'Anchin rue Fortier.
+3
+17
+Douai Nord Est
+DOUAI
+3
+3
+6
+Salle des fêtes des Corons Verts, rue de Bailliencourt supermarché Lerclerc, cité du Château Delattre, Château Treuffet place de la Batellerie, école Tour des Dames boulevard Bréguet, école primaire Eugène Lenglet rue des Trannois.
+3
+17
+Douai Sud Ouest
+DOUAI
+6
+9
+15
+Crèche avenue de Strasbourg, avenue Denis Cordonnier, pont d'Esquerchin, rue d'Ocre, ancien hôpital militaire place Maugin, rue Lefebvre d'Orval, école primaire Bufquin rue d'Arras, Maison des Associations avenue des Potiers, école primaire Albert Thomas rue de Cuincy, école primaire Jeanne Georg avenue d'Alsace Lorraine, centre médico-social Eliane Andris rue Camille Guérin, restaurant scolaire rue d'Esquerchin, école primaire Jules et Léon Maurice avenue De Lattre de Tassigny, école maternelle Bernard De Lattre cantine scolaire rue de Raimbeaucourt, école maternelle Léonie Maiaux rue Léonie Maiaux.
+3
+17
+Douai Sud
+DOUAI
+6
+7
+13
+Stade rue de Férin, porte de Valenciennes, rue du Grand Bail, piscine des Glacis, rue du Kiosque, avenue de Recklinghausen, Hôtel de Ville rue de la Mairie, école maternelle Robert Mohen avenue de Jemeppe, Hôtel de Ville salle Gothique rue de la Mairie, école primaire Denis Papin rue de Goeulzin, école maternelle Mme René Coty rue de Cambrai, école maternelle Mme de Sévigné avenue de Twickenham, école primaire Robert Mohen avenue de Jemeppe.
+6
+19
+Denain
+DOUCHY-LES-MINES
+0
+6
+6
+Ecole maternelle Barbusse rue Gabriel Péri, école maternelle du Centre rue Victor Hugo, école maternelle Mousseron rue Anatole France, école maternelle du Hainaut rue de La Fontaine, école maternelle Villars rue Eugène Varlin, centre des Arts et de la Culture "L'Imaginaire" place Paul Eluard.
+4
+15
+Merville
+DOULIEU (LE)
+1
+1
+2
+Garderie, La Place
+1
+3
+Avesnes Nord
+DOURLERS
+1
+1
+2
+Route de Sars-Poteries, place Stroh.
+4
+14
+Bourbourg
+DRINCHAM
+1
+1
+2
+Sentier de l'école, La Place
+4
+13
+Dunkerque Ouest
+DUNKERQUE
+2
+8
+10
+Mairie ruelle au Pommes, rue des Fusillers Marins, maison de quartier de L'ile Jeanty rue de la Batellerie, école maternelle Jean Macé rue de la Paix, école maternelle Lucien Maillart rue du Jeu de Mail, école élementaire Paul Meurisse rue des Graviers, école maternelle Jean GIONO rue C Hecquet, école maternelle Andersen avenue de la cité, école élémentaire J Ferry 2 rue de la Bastille, Salle de la Concorde rue de la Concorde.
+4
+14
+Grande synthe
+DUNKERQUE
+0
+6
+6
+Mairie de Mardyck, école élémentaire du Torpilleur impasse Ardaens, école maternelle de la Meunerie rue de l'Egalité, maison de quartier Pasteur rue de l'Egalité, école maternelle Albert Samain rue de Cassel, école élémentaire Paul Dessinguez route de Fort Mardyck.
+4
+13
+Coudekerque Branche
+DUNKERQUE
+0
+13
+13
+Ecole élémentaire de la Porte d'eau rue st Gilles, école maternelle du Château d'Eau place Calonne, Groupe scolaire Neptune place Emile Miguet, école régionale des Beaux Arts 45 rue du Jeu de Paume, Foyer Polyvalent des Glaçis Avenue des Maréchaux de France, école maternelle des Glacis rue G d'Estrades, école maternelle du Parc rue du Parc, Mairie annexe de Malo les Bains rue des Ecoles, centre de secours de Malo les Bains rue du Gal Joffre, école maternelle Charles Péguy avenue Carton Lurat, école élémentaire Lamartine rue A France, Mairie annexe de Rosendaël place des Martyrs de la Résistance, école maternelle Alain Savary rue M Yourcenar.
+4
+13
+Dunkerque Est
+DUNKERQUE
+0
+10
+10
+école élémentaire Kléber bvd du 8 mai 45, maison de quartier du Méridien rue de Cambrai, école maternelle Hector Malot rue du Bel Air, école élémentaire de la Mer avenue de la Mer, école maternelle Florian rue F Sarcey, école maternelle Jacquard rue Jacquard, école Félix Coquelle rue Vangheluve,école Félix Coquelle Place de l'Abbé Bonpain, école Paul Bert rue Paul Bert, Angle école maternelle Jules Verne rue Jean Moulin
+4
+13
+Grande synthe
+DUNKERQUE partie FORT-MARDYCK
+1
+3
+4
+Ecole Amirauté route de Fort Mardyck, Mairie, centre socio culturel 31 rue de l'Amirauté, école Condorcet rue Nouvelle
+4
+13
+Dunkerque Ouest
+DUNKERQUE partie SAINT-POL-SUR-MER
+0
+13
+13
+Mairie Place jean Jaurès, école J.Jaurès rue Gittinger, centre Jean Cocteau rue St Exupéry, école Joliot Curie rue des Rossignols, école primaire Copernic rue E.Pottier, école maternelle Vancauwenberghe avenue Flamand, école primaire Vancauwenberghe rue Delporte, école primaire Vancauwenberghe avenue Flamand, école maternelle Copernic rue V.Hugo, école maternelle V.Hugo rue V.Hugo, école Anatole France place Carnot, école Anatole France entrée Turenne, école Langevin entrée rue de la République.
+4
+15
+Hazebrouck Nord
+EBLINGHEM
+0
+1
+1
+Rue du Château
+3
+16
+Douai Sud
+ECAILLON
+8
+2
+10
+2 rue des Hallots,école Pierrard, 9-11 Grand Rue, rue du bois/rue de la Cascade, 18-20 rue des Frênes, allée des Eglantines (face immeuble Les Genets), 6-8 allée des Romarins, allée F/allée C, place du 8 mai 1945, centre social Jean Moulin route Nationale.
+1
+3
+Solre le Château
+ECCLES
+0
+1
+1
+Mairie
+1
+12
+Hautmont
+ECLAIBES
+0
+1
+1
+Salle de Réunions rue du Calvaire.
+1
+12
+Berlaimont
+ECUÉLIN
+0
+1
+1
+La Place
+4
+15
+Steenvoorde
+EECKE
+0
+1
+1
+Parking de la salle des fêtes
+1
+3
+Maubeuge Nord
+ELESMES
+4
+1
+5
+Rue Haute, La Sucrerie, parking école, cimetière, place de la Mairie.
+2
+18
+Clary
+ELINCOURT
+2
+1
+3
+Rue du Château, Grand'rue, Grand Place.
+6
+19
+Bouchain
+EMERCHICOURT
+4
+1
+5
+Rue de l'Egalité, rue du 8 mai 1945/rue René Delacroix, rue du 8 mai 1945/rue Jean Philippe Canonne, rue d'Azincourt/rue Ange Prouveur, Mairie rue Pablo Picasso
+5
+5
+Haubourdin
+EMMERIN
+0
+2
+2
+Parking Espace Etoile rue A. Potié, parking de l'église rue V. Hugo
+1
+12
+Quesnoy Est (Le)
+ENGLEFONTAINE
+1
+2
+3
+Place Eugène Thomas , petite salle des fêtes, 2ème emplacement place Eugène Thomas.
+5
+11
+Lomme
+ENGLOS
+0
+1
+1
+Rue de la Chapelle mur école Maud Fontenoy
+5
+11
+Lomme
+ENNETIERES-EN- WEPPES
+0
+1
+1
+Mairie
+5
+6
+Pont à Marcq
+ENNEVELIN
+1
+1
+2
+Rue Pierre et Marie Curie, place Jean Moulin
+1
+3
+Trélon
+EPPE-SAUVAGE
+0
+1
+1
+Place de l'Eglise.
+3
+17
+Arleux
+ERCHIN
+2
+1
+3
+Rue de l'Eglise, rue de la Mairie, parking de la Mairie.
+4
+14
+Bergues
+ERINGHEM
+0
+1
+1
+71 rue de la Mairie
+5
+11
+Lomme
+ERQUINGHEM-LE-SEC
+0
+1
+1
+Mairie
+5
+11
+Armentières
+ERQUINGHEM-LYS
+9
+1
+10
+Rue de l'Alloeu au Fort Rompu, rue de la Douane/rue du Bac, rue du Vieux Chêne (à côté du Vieux Chêne), Mairie place de Gaulle, rue du Biez (parking cimetière communal), rue du Bosquiel/rue d'Armentières, rue des Frères Mahieu/rue d'Armentières, rue des Chasseurs (rés. de la Porte des Anglais), rue d'Armentières (à hauteur du Rd Point du Régiment du Duc de Wellington), centre Agoralys 120 rue Delpierre.
+3
+16
+Marchiennes
+ERRE
+1
+1
+2
+Mairie rue Jules Guesde, école S. Lanoy rue Victor Hugo.
+2
+12
+Solesmes
+ESCARMAIN
+1
+0
+1
+12 rue du Grand Marais.
+6
+19
+Denain
+ESCAUDAIN
+1
+7
+8
+Cité Nervo rue M.Griffon, salle de la Jeunesse rue Paul Bert, école maternelle centre (en face), école Quart de Six Heures, école du hameau Saint Marck, école de la cité du Maroc, école Schneider rue Paul Bert prolongée, ateliers municipaux rue Ambroise Croizat.
+2
+18
+Cambrai Est
+ESCAUDOEUVRES
+12
+1
+13
+Rue Jean Jaurès (face au 22-24), rue Jean Jaurès passage à niveau sucrerie, rue Jean Jaurès face boucherie Ducatillon, rue Jean Jaurès place Pablo Néruda, rue Jean Jaurès face au poste transformateur de la SICAE, rue d'Erre (face usine TEREOS), rue du Marais (face Espace Vert), rue Victor Hugo/rue Paul Langevin, résidence les Picadores et Conquistadores rue Pasteur, rue de l'Epinette face pharmacie PANIEN, cité des Lilas face salle Louis Aragon, rue du 11 novembre/rue Victor Hugo, Salle polyvalente.
+6
+20
+Condé sur l'Escaut
+ESCAUPONT
+6
+2
+8
+Rue Jean Jaurès entre les n°62A et 62, chaussée Brunehaut face au magasin Lidl, pas de l'Ayau, la Halle des Sports, rue Irénée Gauthier près de la rue Jules Verne, rue Emile Tabary n°189, salle des fêtes municipale rue Henri Durre, foyer des Jeunes rue Jean Jaurès.
+5
+11
+Lomme
+ESCOBECQUES
+0
+1
+1
+Mairie
+2
+18
+Clary
+ESNES
+2
+1
+3
+9 rue de l'Eglise, 4 rue de Cambrai, 8 rue de l'Eglise à côté de la salle de la Mairie.
+4
+14
+Wormhout
+ESQUELBECQ
+0
+2
+2
+Place de l'Ecole, Mairie.
+3
+17
+Douai Sud Ouest
+ESQUERCHIN
+0
+1
+1
+Place de l'Eglise.
+4
+15
+Merville
+ESTAIRES
+10
+1
+11
+Mairie, rue de l'égalité, place L Blanquart, rue Pasteur, école rue des Tulipes, face salle des fêtes place Montmorency, complexe Henri Durez rue de Merville, rue des Ormeaux, rue Aimé Coupet, rue du Gal de Gaulle (église), parking salle Georges Ficheux rue du Collège.
+2
+12
+Carnières
+ESTOURMEL
+0
+1
+1
+Rue de la Herse.
+3
+17
+Arleux
+ESTRÉES
+3
+1
+4
+Place de la Mairie, place de l'Eglise, rue du Gal de Gaulle, groupe scolaire rue du Chalet.
+6
+21
+Valenciennes Est
+ESTREUX
+1
+1
+2
+1 rue Joliot Curie, salle des fêtes 29 rue J. Jaurès
+2
+18
+Cambrai Est
+ESTRUN
+0
+1
+1
+Face Mairie.
+2
+18
+Cambrai Est
+ESWARS
+0
+1
+1
+Mur Ecole.
+1
+12
+Quesnoy Ouest (Le)
+ETH
+0
+1
+1
+3 rue d'En-Haut.
+1
+12
+Avesnes Sud
+ETROEUNGT
+1
+1
+2
+Rue Jean Fostier, rue Emile Wauttier.
+5
+1
+Lille Sud Est
+FÂCHES-THUMESNIL
+4
+11
+15
+Stade Moermans rue Jean Jaurès/chemin Rouge, route d'Arras plaissade immeuble CUDL, centre social "La maison du chemin rouge" Chemin Rouge, place Victor Hugo, Mairie rue R.Salengro, école La Fontaine rue R. Salengro, école Florian rue Carnot, école Victor Hugo/Lamartine rue de la Résistance, école La Bruyère rue Anatole France, centre médico- social rue Kléber, groupe scolaire Kléber/Pascal avenue de Roubaix, école Mozart avenue de Bordeaux, résidence Arthur François rue Henri Dillies, centre Baron rue Edouard Vaillant, école Louise de Bettignies rue d'Artois.
+6
+19
+Valenciennes Sud
+FAMARS
+3
+1
+4
+Entrée Jardin à Pois rue des acacias, rue Roger Salengro près du monument aux morts, entrée rue R.Salengro (côté impair),
+école primaire
+3
+6
+Orchies
+FAUMONT
+10
+1
+11
+186 route Nationale, 2281 route Nationale, rue du Bourgage/rue des Bois, rue Coquet n°807, rue du Gal de Gaulle/rue Verte, rue Verte camping, 421 rue du Gorguechon, rue Dupire terrain Tuilerie, rue Boujon/rue Carpentier, rue Picterie/rue Jean Moulin, Mairie route Nationale.
+1
+12
+Landrecies
+FAVRIL (LE)
+1
+2
+3
+Rue du Bois, Lieudit Le Village (près Mairie), rue d'Ors (près Ecole).
+3
+17
+Arleux
+FECHAIN
+0
+1
+1
+Place de la Mairie
+1
+3
+Bavay
+FEIGNIES
+10
+4
+14
+Rue F. Kamette, rue des Guides, rue des Lanières, rue de la Victoire, rue de Keyworth, rue des Forges, rue Roger Salengro, place du 8 mai 1945, rue de Neuf-Mesnil, rue Paul Deudon, Ecole de Musique rue J. Jaurès, Foyer Emile Colmant rue Derkenne, Ecole E. Triolet rue F. Kamette, école Anne Frank rue Pasteur.
+1
+3
+Avesnes Nord
+FELLERIES
+5
+1
+6
+Rue du Chemin Vert, rue de la Poste, route de Solre, rue de Ramousies, rue de l'Eglise, rue de la Mairie.
+3
+16
+Marchiennes
+FENAIN
+9
+2
+11
+CD 143 face au n°2, face au 24 rue Barbusse, rue Ghesquière face à la placette Schiste, cité des Tilleuls rue de la Paix, face au 12 rue Lénine, 63-65 rue Lénine, rue Victor Hugo rue des Ateliers municipaux, face au 9 rue Paul Langevin, rue Gabriel Péri salle des Arts et Loisirs, place de nos Fusillés, rue Irène Joliot Curie face école.
+3
+17
+Douai Sud
+FERIN
+1
+1
+2
+Mur cloture Presbytère, face Mairie.
+1
+3
+Trélon
+FERON
+1
+1
+2
+4 rue de Sains, 16 rue de Sains.
+1
+3
+Maubeuge Sud
+FERRIERE-LA-GRANDE
+0
+10
+10
+Rue A. Briand place Kléber, avenue Clémenceau face cité du Parc, rue V. Hugo (mur église), rue V. Hugo (propriété Mme Harduin), rue P. Doumer (face au n°38), rue L. Delens (sortie "la Roseraie"), rue J. Jaurès (Ets Miroux), rue J. Jaurès (passage a niveau), rue C. Fournier (mur propriété Mr et Mme Lienard), Lieu-dit "La Machine".
+1
+3
+Maubeuge Sud
+FERRIERE-LA-PETITE
+0
+1
+1
+place de la Mairie.
+1
+3
+Bavay
+FLAMENGRIE (LA)
+0
+1
+1
+rue des Toubaqueux face Mairie
+1
+3
+Avesnes Nord
+FLAUMONT- WAUDRECHIES
+2
+1
+3
+Rue de la Mairie, rue de la Place, Bibliothèque.
+3
+17
+Douai Nord Est
+FLERS-EN-ESCREBIEUX
+8
+3
+11
+Rue de la Chapelle, place Mendès France "La Voyette", cité du Villers arrêt des autocars, parking de La Poste rue R. Salengro, rue d'Auby mur Stade, 60 rue Alain Chartier, rue Marceau Martin salle des sports Wandwingor, rue Marceau Martin près terrain bi-cross, rue H. Barbusse près Mairie, parking des écoles face église, place J.Guesde rue du Pont/rue Duclos.
+2
+18
+Marcoing
+FLESQUIERES
+1
+1
+2
+Rue de l'Eglise (mur cour école), Mairie.
+4
+15
+Bailleul Sud Ouest
+FLETRE
+0
+1
+1
+Place de la Mairie.
+6
+20
+Saint Amand Rive Droite
+FLINES-LES-MORTAGNE
+4
+1
+5
+Place de l'église, place du hameau de Legies, place du hameau de Rouillon, place du hameau de Roeux, 1 rue Georges Fournier.
+3
+16
+Douai Nord
+FLINES-LES-RACHES
+0
+4
+4
+Ecole R. Cassin 1 rue Dupire, école Gérard Philippe 15 A rue Dupire, école P. Brossolette 28 rue P. Brossolette, Mairie rue du 11 Novembre.
+1
+3
+Avesnes Nord
+FLOURSIES
+0
+1
+1
+Place de l'Eglise.
+1
+12
+Avesnes Sud
+FLOYON
+0
+1
+1
+Salle des Fêtes.
+1
+12
+Landrecies
+FONTAINE-AU-BOIS
+1
+1
+2
+Rue du Cateau (La Plaine), rue de Landrecies (près de la salle des fêtes).
+2
+12
+Carnières
+FONTAINE-AU-PIRE
+0
+1
+1
+Face à la Mairie.
+2
+18
+Cambrai Ouest
+FONTAINE-NOTRE-DAME
+1
+1
+2
+Rue de la Liberté (enceinte église), place Jean Jaurès.
+1
+12
+Landrecies
+FOREST-EN-CAMBRESIS
+0
+1
+1
+Rue de la Place
+5
+6
+Lannoy
+FOREST-SUR-MARQUE
+0
+1
+1
+Rue de Moscou (côté pair)
+4
+13
+Grande synthe
+FORT-MARDYCK
+1
+3
+4
+Ecole Amirauté route de Fort Mardyck, Mairie, centre socio culturel 31 rue de l'Amirauté, école Condorcet rue Nouvelle
+1
+3
+Trélon
+FOURMIES
+13
+9
+22
+Rue Cousin Corbier mur ancienne Mairie, 9-11 avenue Kennedy, rue des Verreries face cour carrée, rue Gabriel Zaya espaces verts, rue des Glycines parking, square Allendé face ancienne supérette, place Verdun (entre Maison des Associations et la perception), rue J.Jaurès sous pont SNCF, rue de Grenoble, rue Fernand Pêcheux face Intermarché, rue du maire Coppeaux/ rue Antoine Renaud, rue JB Lebas entre les rues Guy Môquet et des Lilas, rue du Nouveau Monde/rue des Howis, théâtre parvis François Mitterrandrue Saint-Louis, école maternelle Victor Hugo rue Victor Hugo, salle Marie-Josée Perec rue Félix Labourdette, école maternelle Chaperon Rouge rue du Marais, foyer Logement rue Victor Delloue, école maternelle Pierre Perret rue Serpentine, école primaire rue Louis Aragon rue Jules Guesde, école maternelle des Lilas rue des Lilas, Gymnase Joliot Curie rue Bouret.
+5
+5
+Bassée (La)
+FOURNES-EN-WEPPES
+2
+1
+3
+677 bvd Victor Hugo, 282 rue Thiers, Mairie rue Faidherbe
+1
+12
+Quesnoy Ouest (Le)
+FRASNOY
+1
+1
+2
+Place Emile Bigorne, Mairie.
+5
+11
+Armentières
+FRELINGHIEN
+4
+1
+5
+Rue d'Armentières, rue du Pont Rouge, "Le Funquereau" rue de Quesnoy, chemin des Willemots, Béguinage de la Chapelette
+6
+20
+Condé sur l'Escaut
+FRESNES-SUR-ESCAUT
+8
+4
+12
+Route de la paix (prox SOGINORPA), cité Haute Borne, rue du Lutteau/rue Tabary, rue J. Renard /rue du Bois, rue Loubry face à la rue des Cordiers, rue Ghesquière/rue Lucien Barbier, rue Bancel/rue de la Gare, square du 19 mars 1962, salle des fêtes Barbusse rue J.Jaurès, école maternelle Langevin, place Barbusse, parking complexe Delaune rue J.Guesde.
+3
+17
+Arleux
+FRESSAIN
+0
+1
+1
+Rue du Nord près Mairie.
+2
+18
+Cambrai Ouest
+FRESSIES
+1
+1
+2
+Place rue du Bac, Mairie.
+5
+6
+Pont à Marcq
+FRETIN
+8
+2
+10
+Rue Pasteur (clôture avant le n° 35), rue Poincaré (terrain avant le n° 11), rue du Petit Marais (face rue Bonpain), rue Foch (entre le 21 et le 23), rue M. Dormoy (balustrade gare), rue P. Sémart (haie face rue des Anciens Combattants), rue P.F Delescluse (parking), rue Marx Dormoy (angle rue des Anciens Combattants), rue A. Cousin (salle des Fêtes), rue Calmette Guérin (salle polyvalente)
+5
+5
+Bassée (la)
+FROMELLES
+0
+1
+1
+Square des 19/20 juillet 1916
+5
+6
+Cysoing
+GENECH
+0
+2
+2
+Mairie annexe 952 rue de la Libération,Maison des Associations 1255 rue de la Libération
+1
+12
+Quesnoy Est (Le)
+GHISSIGNIES
+0
+1
+1
+Mairie
+4
+14
+Hondschoote
+GHYVELDE
+1
+1
+2
+Place Maurice Cornette (cimetière) , salle des sports.
+1
+3
+Trélon
+GLAGEON
+3
+1
+4
+Mairie, 14 rue Charles Desquilbet, école de Couplevoie, salle des fêtes.
+4
+15
+Steenvoorde
+GODEWAERSVELDE
+2
+1
+3
+Ecole Jacques Prévert place Verte, La Place, Terrain des Sports salle des fêtes rue de Callicanes
+3
+17
+Arleux
+GOEULZIN
+1
+1
+2
+Place du Souvenir, rue Marteloy.
+1
+3
+Maubeuge Nord
+GOGNIES-CHAUSSÉE
+0
+1
+1
+Rue Lucien Gillard.
+1
+12
+Quesnoy Ouest (Le)
+GOMMEGNIES
+10
+2
+12
+Rue du Centre, rue de la Cavée, rue du Cheval Blanc, rue de Grand Sart, rue du Sarloton, rue des Fourdrigniers, rue de la Fourcière, rue d'En Haut, rue Crombion, rue de la Gare, salle des fêtes place du Gal de Gaulle, école primaire René Jouglet 769 rue de la Gare.
+5
+5
+Seclin Sud
+GONDECOURT
+7
+2
+9
+Rue de la Barre (face rue Ringot), place du Général de Gaulle/rue Carnot, rue Nationale/rue Buissette, rue la Fontaine/chemin de la Chapelle, rue J. B Marquant (après le n° 14), rue Joseph Poissonier/rue Nationale, 31 rue Charles Dupretz, 1 rue Désiré Ringot, rue Ringot devant les garages rés St Exupéry.
+2
+18
+Marcoing
+GONNELIEU
+1
+1
+2
+Rue du Contour, salle des fêtes.
+4
+15
+Merville
+GORGUE (LA )
+3
+2
+5
+Rue du Duc de Berry (façade de la Mairie), rue de la Gendarmerie (entre le n° 75 et le n° 79), Grand Chemin (école), rue Jean Mermoz (face à la salle des fêtes), rue de la Lys (salle du nouveau monde).
+2
+18
+Marcoing
+GOUZEAUCOURT
+0
+1
+1
+Avenue du Gal de Gaulle face Mairie.
+4
+13
+Grande Synthe
+GRANDE-SYNTHE
+5
+14
+19
+Cité des Deux Synthe face à l'école des Deux Synthe, avenue De Gaulle face à la résidence Fabre rue Perrin, rue Debussy face au gymnase Debussy, rue du Comte Jean cité Moser, 11 avenue de Petite Synthe angle rue Allendé, maison communale, école primaire Ferry rue Rigaud, école des Beaux Arts Constant Permeke rue Calmette, maison de quartier St Jacques rue Bach, maison des associations avenue de l'ancien village, école primaire Lorca avenue de la Polyclinique, harmonie batteries municipales rue V.Hugo, école primaire Blaise Pascal rue Lambaréné, école primaire Verlaine rue Kellerman, école primaire Buffon rue d'Aquitaine, école primaire Freinet rue Léon Blum, école primaire Daubie allée Marx Dormoy, école primaire Brel rue du Comté de Flandre, école primaire Ferrer square Jules Guesde
+1
+12
+Avesnes Sud
+GRAND-FAYT
+0
+1
+1
+La Place
+4
+14
+Gravelines
+GRAND-FORT-PHILIPPE
+4
+3
+7
+Avenue de la mer, avenue du Calvaire, bvd Robert Pruvot, avenue Pierre Pleuvret, salle municipale des fêtes, école maternelle rue de Lorraine, école maternelle place Charles De Gaulle.
+4
+14
+Gravelines
+GRAVELINES
+0
+11
+11
+Mairie place Albert Denvers, école Lamartine rue D. Cordonnier, école maternelle square P. Loti, école des gaçons Hutte avenue Léon Jouhaux, 52 avenue Léon Jouhaux, école maternelle Jean Macé rue Th Gautier, école élémentaire du Pont de Pierre rue du Moulin Haut, école Paul Bert rue Aristide Briand, école primaire Michelet rue Charles Trollé, groupe scolaire ZAC n°1 square Copernic, groupe scolaire ZAC n°2 bvd des Sculpteurs.
+2
+18
+Cateau Cis (Le)
+GROISE (LA)
+1
+1
+2
+Salle des fêtes, Mairie.
+5
+6
+Lannoy
+GRUSON
+2
+1
+3
+Rue Calmette, rue Neuve, 3 rue de Verdun
+3
+16
+Douai Sud
+GUESNAIN
+8
+4
+12
+Rue Jean Jaurès/rue P. Eluard, rue René Golliot clôture restaurant scolaire, face 32 rue de Bonnières, rue des Acacias, rue P. Eluard/rue Oscar Desmaretz, rue de l'Egalité le long du cimetière, rue Marc Lanvin/rue de la Chapelle, rue Marie-Claude Vaillant Couturier face au n°62, salle Maurice Thorez rue de l'Egalité, rue de Beaumont près Salle Georges Brassens, place Jean-Lou Chrétien proximité école Elsa Triolet, rue de Beaumont près Foyer Logements.
+1
+3
+Bavay
+GUSSIGNIES
+1
+1
+2
+Chemin de la Maladrerie, rue Emile Sohier.
+5
+11
+Lomme
+HALLENNES-LEZ- HAUBOURDIN
+1
+3
+4
+Rue Edouard Lalo (terre plein côté rue A. Desrouseaux), parking salle polyvalente, espace Marie Curie, parking Mairie.
+5
+10
+Tourcoing Nord
+HALLUIN
+5
+6
+11
+CCAS rue Marthe Nollet, cimetière route de Neuville, Jardin de la Paix rue de Lille, salle de sports Michel Bernard rue Edouard Branly, Cyber centre rue d'Oer Erkenschwick, salle municipale du Manège rue Jacquard, Salle Pierre Declercq rue de la Lys, école Jean Moulin rue Louis Pergaud, salle municipale H. Wancquet avenue du Stade, salle municipale de l'Harmonieuse rue des frères Martel, école St Alphonse chemin du Triez Cailloux.
+3
+17
+Arleux
+HAMEL
+0
+1
+1
+Prox. Mairie.
+5
+5
+Bassée (La)
+HANTAY
+3
+1
+4
+Rue Victor Hugo/rue Mendès-France, rue Mirabeau/rue Bittebière, rue Roger Salengro face au"gallodrome", rue Mirabeau Mairie
+4
+15
+Cassel
+HARDIFORT
+0
+1
+1
+Straete place.
+1
+12
+Berlaimont
+HARGNIES
+4
+1
+5
+Rue du Bois, rue de Mons, rue de Coutant, rue de la Chaussée, Mairie Pignon Ouest.
+6
+20
+Saint Amand Rive Droite
+HASNON
+4
+1
+5
+Place Clément Larivière, rue Fernand Pelloutier (école de Grand Bray), place de Cataine, Mairie, face à la salle des fêtes.
+6
+19
+Bouchain
+HASPRES
+3
+1
+4
+Rue Arthur Brunet entre le n°1 et le n°3, rue de Valenciennes entre le n°37 et le n°39, rue Pierre Brossolette entre le n° 23 et le n°25, 4A rue Raoult (salle des fêtes).
+5
+5
+Haubourdin
+HAUBOURDIN
+7
+8
+15
+74 rue Sadi Carnot Le Jardin Enchanté, 212 rue Auguste Potié, rue Léon Gambetta GS Le Petit Prince, rue du Mal Juin près de la Gare, rue Auguste Potié parking de la poste, rue des Lostes entre les passages à niveau, 109 rue de la Canteraine, Hôtel de Ville 11 rue Sadi Carnot, rue Sadi Carnot grilles du commissariat de police, avenue de Beaupré côté Espace Ludomaguy Lepetit, rue Florimond Crépin Maison Bleue, salle polyvalente PMI rue du Capitaine Haezebrouck, avenue de l'Europe école maternelle Pierre & Marie Curie, avenue de l'Europe près de la salle Jean Monnet LCR, Espace Louis Pasteur rue Louis Pasteur.
+2
+18
+Clary
+HAUCOURT-EN- CAMBRESIS
+0
+1
+1
+Mairie.
+6
+19
+Valenciennes Sud
+HAULCHIN
+2
+1
+3
+Square Dulcie September, rue de la Pyramide, centre de loisirs rue Paul Vaillant Couturier.
+2
+12
+Solesmes
+HAUSSY
+9
+1
+10
+Parking place Jean Jaurès, rue Lucien Bécar, rue H. Barbusse face au n°42, rue RogerSalengro, rue du 8 mai 1945 à côté du n°39, rue Victor Hugo n°41, rue François Macarez face au n°31 bis, rue Charles Azambre, rue Vaillant Couturier, parking salle polyvalente.
+1
+12
+Avesnes Sud
+HAUT-LIEU
+0
+1
+1
+Face à la place route de Boulogne près de la Mairie
+1
+12
+Hautmont
+HAUTMONT
+8
+9
+17
+Rue de Louvroil n°117 espace Chauwel, rue Jules Campagne giratoire RD800, allée Louise stade Dembiermont, rue du Muguet/rue du Fort, rue des Américains square Carret, rue Aimé Collet après le n°99, rue de la République de Grattières entre le pont sncf et intermarché, rue Guillain face maison de Quartier, rue de la Mairie/rue de la République, avenue Leclerc maison de quartier, avenue Hebburn face collège Périer, avenue de Kalisz école Denies, avenue Gambetta/rue Alfred Musset, rue des Ecoles parking, 79 rue de Beaufort maison de quartier, rue Caroly Mary école Carion, près du 19 rue Victor Hugo.
+6
+19
+Denain
+HAVELUY
+4
+1
+5
+Rue J.Jaurès (entrée de la commune), rue J.Jaurès (face au n°101 et 103), cité des Massarderies, rue Décarpentry, entrée salle des fêtes rue Henri Durre.
+4
+15
+Merville
+HAVERSKERQUE
+1
+1
+2
+Place Augustin Vandaele, parking salle des fêtes rue du 11 novembre.
+2
+18
+Cambrai Ouest
+HAYNECOURT
+0
+1
+1
+Rue de Bourlon.
+4
+15
+Hazebrouck Sud
+HAZEBROUCK
+3
+5
+8
+Rue André Biébuyck face au tribunal, boulevard des Ecoles, place Jeanne d'Arc, rue Notre Dame face à l'école maternelle Jean Macé, côté de l'Eglise Notre Dame face salle Bernadette, rue Donckèle école Ferdinand Buisson, Espace Flandre devant l'entrée, avenue de Lattre de Tassigny devant mur de la salle de sport.
+4
+15
+Hazebrouck Nord
+HAZEBROUCK
+0
+9
+9
+Rue de la sous-préfecture devant l'école Jules Ferry, foyer Degroote face à l'entrée, rue de Calais face à l'école maternelle annexe Jules Ferry, CARC devant entrée rue Heerstraete, rue de Thérouanne prolongée clôture du cimetière, cité Pasteur proximité école maternelle Pasteur, avenue Jean Bart devant groupe scolaire Jean Macé, rue Pasteur face école Barrière Rouge, lycée des Flandres devant entrée parking avenue de la Haute Loge.
+1
+12
+Quesnoy Est (Le)
+HECQ
+2
+1
+3
+Rue de la Fontaine, rue du Mormal, Mairie.
+6
+19
+Denain
+HELESMES
+0
+1
+1
+A proximité du 4 rue R.Salengro.
+5
+7
+Lannoy
+HEM
+7
+7
+14
+Usine Declercq rue du Gal Leclerc, place de l'Eglise, rue du Mal Foch terrain de sport, centre social des 3 Baudets avenue Lyautey, face au n°2 avenue Gorghemetz, rue de la Vallée groupe scolaire, rue des Vosges proximité rue Jules Guesde, Mairie, rue du Dr Coubronne, rue de la Lionderie 51, avenue Laënnec groupe scolaire, rue des Ecoles école J. Ferry, avenue de la Marne groupe scolaire, centre social des Hauts-Champs rue Dominique Larrey.
+2
+18
+Cambrai Ouest
+HEM LENGLET
+1
+1
+2
+Rue du Gal de Gaulle, Mairie.
+6
+20
+Condé sur l'Escaut
+HERGNIES
+10
+3
+13
+Place de la République (parking des pompiers), place de la république (Mairie), place du 4 septembre, rue Pierre Joseph Lemer, rue de Péruweltz (parking), rue de l'Egalité, monument aux morts (place du 8 mai), rue Bernard Campana, rue Emir Doffenies, rue J.Jaurès, salle P.Delcourt, école de Noahoux rue Emir Doffenies, école de Rieu Condé (rue J.Jaurès)
+6
+19
+Valenciennes Sud
+HERIN
+9
+3
+12
+Rue Victor Hugo, place Roger Salengro, rue Jean-Jacques Rousseau, rue Victor Hugo/rue Jules Guesde, rue Auguste Caron, rue Voltaire, résidence du 19 mars 1962, rue Gustave Delory, résidence Jacques Duclos, place de Verdun (près de l'école Frédéric Joliot-Curie, rue J.Jaurès (entrée salle des fêtes), rue Jules Guesde école Gabriel Péri.
+5
+5
+Bassée (La)
+HERLIES
+4
+1
+5
+Mairie 1 rue du Bourg parking, rue de la Croix, rue du Pilly, rue Chobourdin, salle Georges Denis 9 rue du Bourg.
+5
+5
+Seclin Sud
+HERRIN
+1
+1
+2
+Grand'Place, rue de l'Eglise
+4
+14
+Wormhout
+HERZEELE
+0
+1
+1
+Mairie
+1
+3
+Solre le Château
+HESTRUD
+0
+1
+1
+Mairie
+4
+14
+Bourbourg
+HOLQUE
+1
+1
+2
+Wattendam route de l'ancienne colme, la place.
+4
+15
+Hazebrouck Nord
+HONDEGHEM
+0
+1
+1
+Place Germain Dubrulle.
+4
+14
+Hondschoote
+HONDSCHOOTE
+6
+1
+7
+Rue des Moëres square Schuman Jardin Public, rue de la Cartonnerie /rue du Pont aux Cerfs, 44-46 rue de Bergues, avenue du Quai/avenue du Mal Lerclerc, face Hôtel de ville place du Général de Gaulle, école élémentaire Emile Cornaert rue des Trinitaires, Espace Alain Colas rue Lamartine.
+1
+3
+Bavay
+HON-HERGIES
+0
+1
+1
+Mur de la cour école primaire, mur enceinte église, mur de la Mairie.
+2
+18
+Cateau Cis (Le)
+HONNECHY
+0
+1
+1
+Grand'Place près de la Mairie
+2
+18
+Marcoing
+HONNECOURT-SUR- ESCAUT
+2
+1
+3
+Place, Hameau de la Terrière mur église, porte de la Mairie.
+6
+19
+Bouchain
+HORDAIN
+3
+1
+4
+Rue E.Zola, rue des Ecoles, rue de l'Egalité, Mairie Grand Place
+3
+16
+Marchiennes
+HORNAING
+5
+1
+6
+Rue Gabriel Péri, rue Jean Duez (Heurteau),rue L. Démoutiez/rue Blaise, rue J.Jaurès face Mairie, rue du 8 mai 1945, parking rue de la Libération.
+1
+3
+Bavay
+HOUDAIN-LEZ-BAVAY
+0
+2
+2
+Place Robault près de la Mairie, place d'Eugnies près de l'ancienne école.
+5
+5
+Seclin Nord
+HOUPLIN-ANCOISNE
+2
+2
+4
+Rue Roger Salengro (entre le n°249 et le n° 283), rue du 1er mai, rue J. B Lebas (trottoir) après le n° 17, rue Jean Jaurès après le n° 29.
+5
+11
+Armentières
+HOUPLINES
+2
+3
+5
+Rue Victor Hugo (Octroi), rue Victor Hugo (pont Casier), Hôtel de ville, rue Anatole Musy (école maternelle), rue Dufour (salle polyvalente ancienne gare)
+4
+15
+Steenvoorde
+HOUTKERQUE
+2
+1
+3
+Contour de l'église face à l'école, contour de l'église le long de la haie du cimetière, entrée Mairie.
+4
+14
+Bergues
+HOYMILLE
+2
+2
+4
+Mairie rue du Zyckelin, rue de Provence près du n°32, salle du Reuze rue d'Auvergne, salle des fêtes place de l'église.
+5
+5
+Bassée (La)
+ILLIES
+4
+1
+5
+Rue Maurice Bouchery, rue de la Mairie, hameau du Transloy, hameau de Ligny le Grand, Salle polyvalente Grand'Place
+2
+18
+Cateau Cis (Le)
+INCHY-EN-CAMBRESIS
+1
+1
+2
+Rue de Troisvilles face au 8, Mairie.
+2
+18
+Cambrai Est
+IWUY
+5
+1
+6
+Palissade cimetière rue du 4 septembre, Ecole élémentaire Duruy Joliot Curie rue Lafayette, école maternelle Marie Larivière rue Carnot, rue du Mal Joffr côté impair, rue du 1er mai, palissade foyer Jean Bain rue du Mal Foch.
+1
+12
+Quesnoy Ouest (Le)
+JENLAIN
+1
+1
+2
+25 rue Friquet, place publique mur à proximité de l'Eglise
+1
+3
+Maubeuge Nord
+JEUMONT
+0
+12
+12
+Rue Victor Hugo, rue Léon Blum (établissement CARION), stade Mathez (rue Léo Lagrange), école W.Dubois (rue de Lambarene), place de la République (rue Hector Despret), Gymnase Mimoun (rue Roger Salengro), Salle Jean Bouin (bd Henri Dunant), rue de la Gare, rue André Messager, école Mouvet (rue Marx Dormoy), rue du Mal Leclerc, boulevard de Lessines).
+1
+12
+Quesnoy Est (Le)
+JOLIMETZ
+0
+1
+1
+Rue Coulon
+4
+14
+Hondschoote
+KILLEM
+1
+1
+2
+Hameau de Killem Lynde CD 947, place de Killem.
+3
+16
+Douai Nord
+LALLAING
+5
+5
+10
+Ecole Jeanne d'Arc rue Pasteur, avenue du Gal de Gaulle, rue de Montigny/rue de Nantes, cité Nouveau Monde allée C, rue des Orchidées cité des Hauts Près, Hôtel de ville place J. Jaurès, école Marie Curie rue des Lobélias Le Nouveau Monde, école Albert Camus rue des Narcisses les Hauts Près, école Montessori rue de Lusanger Le Bois Duriez, école Pasteur rue Pasteur.
+5
+4
+Lille Ouest
+LAMBERSART
+16
+9
+25
+Rue A. Bonte face aux n° 293 - 295, rue A. Bonte/rue de Verdun (face à l'écusson), rue de Lille à côté du n° 166, avenue P. Doumer/avenue A. Delecour, avenue du Parc/avenue du Général de Gaulle, rue de Verlinghem à côté du n°1, rue de la Chapelle au droit de la Maison de Musique, rue Monge avant le n° 17 au droit du garage, avenue du Président Kennedy face face aux n°1-5, rue Léon Trulin face aux n° 44 et 46, rue de Lompret face aux n° 224-234, rue Gounod entre le n° 97 et le n° 99, avenue du Colisée face au n° 28, avenue Sainte Cécile au droit de la Halle de sports, avenue H. Delecaux / avenue de la République, avenue Henri Delecaux à proximité de l'avenue Jean Rousseau, Hôtel de Ville 19 avenue G. Clémenceau, Bureau du Champ de Courses 14 rue Marcel De Rycke, centre du plein Air Georges Delfosse avenue de la République, salle des Fêtes André Malraux avenue du Maréchal Leclerc, école Rameau rue Georges Bizet, centre Charles de Gaulle 164 rue de la Carnoy, centre d'Animation Jules Maillot rue Champêtre, ferme du Mont Garin rue de Verlinghem, centre Eugène Duthoit rue Henri de Moraës.
+3
+17
+Douai Sud Ouest
+LAMBRES-LEZ-DOUAI
+8
+2
+10
+Rue Gambetta, rue Carnot, rue de la République, route Nationale Le Raquet, avenue des Poilus, faubourg d'Arras, rue Berthelot, école rue Galiéni rue Paul Doumer, rue du Mal Leclerc.
+3
+6
+Orchies
+LANDAS
+4
+2
+6
+Rue du Talbot, rue de la Pulmez, rue du Hennoy, rue du Quesne, rue du Général de Gaulle, place Roger Salengro.
+1
+12
+Landrecies
+LANDRECIES
+7
+3
+10
+Mairie, Grand Parc rue A. France, Ville Basse sur l'Esplanade, Fg de France face au n°23, route de Fontaine à hauteur des HLM, route de Guise "Le Sambreton", route d'Happegarbes entrée usine Renson, bvd A. Bonnaire face au centre social, bvd des Résistants entre les entrées de garage, Grand Parc près école maternelle.
+5
+7
+Lannoy
+LANNOY
+0
+1
+1
+Salle Henri Echevin 48 rue de Lille
+1
+12
+Avesnes Sud
+LAROUILLIES
+0
+1
+1
+Mairie.
+3
+17
+Douai Sud Ouest
+LAUWIN-PLANQUE
+0
+1
+1
+Place de l'Europe
+6
+20
+Saint Amand Rive Gauche
+LECELLES
+0
+2
+2
+Rue des Fèves (face à la Mairie), route de Roubaix place du 8 mai
+3
+17
+Arleux
+LECLUSE
+1
+1
+2
+Face au 7 rue de l'Ancienne Poste, place du Gal de Gaulle face groupe scolaire.
+4
+14
+Wormhout
+LEDERZEELE
+0
+1
+1
+Contour de l'Eglise.
+4
+14
+Wormhout
+LEDRINGHEM
+0
+1
+1
+Parking de la voie nouvelle (foyer rural Deblock)
+5
+7
+Lannoy
+LEERS
+2
+5
+7
+AncienneMairie9bisrueduGaldeGaulle,AmicaleCiné35rueJosephLeroy, Hôteldeville25ruedeLys,salledesfêtes A. Kerkhove 2 rue de Wattrelos, école primaire du Buisson rue Léonard de Vinci, FLPA résidence Les 4 Vents rue Léon Gambetta, ateliers municipaux 15 rue Roger Salengro.
+4
+14
+Dunkerque Est
+LEFFRINCKOUCKE
+6
+4
+10
+Rue du Dr Pau sur la clôture de l'école de musique, à proximité de la salle des sports Henri Vanhille sur la clôture du stade, quartier de la plage angle du bd Trystram et place Delvallez, place du commandant l'Herminier, Le Robinson angle des rues du Gal de Gaulle et Robinson, quartier de la plage annexe des PTT, cité usine clôture école des Dunes rue du Gal Cateaux, rue de l'abbé Bonpain clôture du jardin de l'école René Bonpain, quartier du village mur de l'école mixte, rue Roger Salengro face à l'hôtel de ville.
+2
+18
+Marcoing
+LESDAIN
+3
+1
+4
+Mairie, place, mur église, salle des fêtes.
+5
+5
+Seclin Nord
+LESQUIN
+3
+3
+6
+Rue d'Iéna (terrain de sports), rue Jean Jaurès Parc d'Enchemont, avenue de la Liberté (face à la rue du 11 novembre), rue Faidherbe Mairie, 117 rue Henri Ghesquière (plan d'eau), rue Victor hugo école maternelle.
+1
+12
+Berlaimont
+LEVAL
+11
+1
+12
+Rue M. Ringeval, rue du Moulin, rue de Monceau, rue d'Aulnoye, 1 - rue Emile Brasselet, 2 - rue Emile Brasselet, rue du Dépôt, rue F. Demay, rue P. Semard, cité Bellevue, résidence D.Eloy, Mairie.
+3
+16
+Douai Sud
+LEWARDE
+3
+2
+5
+Rue des Anémones (entrée cité du Castel), rue de Monchecourt (face allée du Bois), rue Pasteur face au n°99, salle des fêtes Henri Martel rue de Loffre, écoles rue d'Erchin.
+5
+2
+Lille Sud Est
+LEZENNES
+6
+2
+8
+107 rue JB Defaux (école J. Ferry/Ecole musique), rue Maurice Thorez (école Coursier), rue P. V. Couturier (face à la rue Yves Forge), rue des Chasses Marées / rue Emile Zola , rue Victor Hugo, Rue Chanzy face Hôtel 1ère Classe, Mairie place République, salle Brassens.
+1
+3
+Solre le Château
+LEZ-FONTAINE
+0
+1
+1
+Rue de l'Eglise.
+1
+3
+Solre le Château
+LIESSIES
+1
+1
+2
+Mairie, Foyer Rural.
+6
+19
+Bouchain
+LIEU-SAINT-AMAND
+9
+1
+10
+Avenue de Bouchain, rue Gustave Ansart, avenue de la République, rue du Croquet, rue Louis Pasteur, rue Calmette, résidence Charles Dupas, rue de l'Eglise, rue des Ecoles, rue Emile Zola.
+2
+18
+Clary
+LIGNY-EN-CAMBRESIS
+5
+1
+6
+Rue de Cambrai, rue du Moulin, rue J.Ferry (école), rue J.Guesde, rue Robert, salle des fêtes rue Robert.
+5
+1
+Lille Centre
+LILLE
+2
+6
+8
+Place Sébastopol côté rue des Postes, place Rihour, Mairie de quartier du Centre 31 rue des Fossés, école Sophie Germain 95 boulevard de la Liberté, école Gutenberg 16 rue de la Baignerie, Club des Retraités 8 rue de Toul, GS Lavoisier-Gounod 72 rue des Stations, Salle polyvalente de Wazemmes rue de l'Abbé Aerts.
+5
+2
+Lille Est
+LILLE
+1
+6
+7
+Rue Gustave Delory (espace vert angle avenue Charles St Venant), Hall d'entrée - Hôtel de Ville place Augustin Laurent, Hall côté St-Sauveur - Hôtel de Ville place Augustin Laurent, école Broca rue Broca, salle Mariotte 1 rue Mariotte, Ecole Lakanal-Campan 125 rue du Long Pot, Mairie de Quartier Fives 127 ter rue Pierre Legrand.
+5
+4
+Lille Nord
+LILLE
+2
+2
+4
+Place Louise de Bettignies, place St André côté rue Adolphe Max, Salle polyvalente Halle aux Sucres rue de l'Entrepôt, Salle d'Evolution Sportive et du Local Jeunes rue de la Halle.
+5
+9
+Lille Nord Est
+LILLE
+2
+9
+11
+Rue de La Madeleine/rue des Vicaires, rue de Lannoy square des Mères, école Berthelot 21 rue Bohin, école Cabanis 3 rue Cabanis, école Bara rue Saint-Just, G.S Jean Zay rue H. Lefebvre restaurant scolaire, école Anatole France 140 rue du Buisson, école Marcel Sembat 15 bis rue A. Leroy, Salle Polyvalente de Saint Maurice 74 rue Saint Gabriel, école Les Dondaines-Dupleix 25-27 rue Eugène Jacquet, école Jenner rue des Célestines.
+5
+4
+Lille Ouest
+LILLE
+2
+2
+4
+Pont du Petit Paradis, square du Ramponneau, école J.J Rousseau 6 rue du Lieutenant Colpin, école Branly rue du Gros Gérard.
+5
+1
+Lille Sud
+LILLE
+1
+15
+16
+Rue Armand Carrel grillage parking crèche Line Dariel, école Victor Hugo 135 bvd Victor Hugo, école maternelle Mme de Ségur bvd de Strasbourg, école Arago 133 bvd Victor Hugo, résidence Wazemmes 48 rue des Meuniers, proximité école Jean Bart rue du Général de Wett, salle de sports 2 rue Paul Bardou, sécole La Bruyère rue de la Prévoyance, école maternelle Florian 5 rue d'Arsonval, groupe A. Carrel bvd de Belfort, restaurant scolaire "les Moulins" 7 rue Victor Duruy, hôtel de ville place A. Laurent hall d'entrée, école maternelle Mozart 1 parvis Saint-Michel, école Michelet 18 rue Fabricy, salle de sports Jean Calin place Michelet, école R. Wagner rue Richard Wagner.
+5
+1
+Lille Sud Est
+LILLE
+1
+3
+4
+Place Richebé, Hôtel de Ville hall côté Porte de Paris, école Lalo-Clément rue des Déportés, Mairie de quartier du Centre 31 rue des Fossés.
+5
+11
+Lille Sud Ouest
+LILLE
+5
+15
+20
+Place du Maréchal Leclerc, avenue Oscar Lambret sous la station métro C.H.R, boulevard de Metz place Barthélémy Dorez (côté H.L M), centre commercial boulevard de Metz, avenue Marx Dormoy grillage piscine, écoles primaire et maternelle Léon Jouhaux avenue de l'Architecte Cordonnier, école Desbordes Valmore rue Guillaume Tell, école maternelle Jean- Jaurès rue Guillaume Tell, école primaire Ampère 64 rue d'Iéna, salle Brossolette 1 rue Coli, école maternelle André rue Paul Lafargue, école primaire Boucher de Perthes 85 boulevard Montebello, école maternelle Jeanne Hachette 46 rue Léon Blum, salle polyvalente 83 rue du fbg des Postes, école Samain salle de sports avenue Verhaeren, école maternelle Béranger 4-6 rue Léon Blum, école Bichat rue Fulton, école Mme de Maintenon 20 rue du Port, salle de sports Jean Calin place Michelet, salle des Sports bvd de la Moselle.
+5
+11
+Lomme
+LILLE
+12
+13
+25
+887 avenue de Dunkerque Rénovation, rue de la Drève (entrée), rue Defrenne (C.E.S Jean Zay), rue R. Salengro (C.E.S Guy Mollet), rue R. Salengro (salle de judo), rue Albert Thomas (place Trocmet), rue Jules Guesde rd point du Centre des Impôts, devant le 433 bis avenue de Dunkerque, avenue de la République (école Petit Quinquin), rue Eugène Descamps (rond point), rue de l'Egalité/rue Thénard, rue Anatole France/rue W.Churchill, hôtel de ville 72 avenue de la République, école G. Sand 37 avenue de la République, école Michelet rue du XXe siècle, école Voltaire Sévigné 1-3 rue E. Zola, école R. Salengro avenue A. Notebart, école L. Blum rue Marx Dormoy, école Lafontaine rue Lamartine, école Pasteur avenue de la Délivrance, école maternelle rue Defrenne, école Victor Hugo rue H. Bailleux, Maison des Enfants 796 avenue de Dunkerque, Maison Folie Beaulieue place Beaulieu, Ecole Langevin avenue Arthur Notebart.
+5
+2
+Lille Est
+LILLE (HELLEMMES)
+0
+13
+13
+Centre aéré Gustave Engrand rue Faidherbe, école Jean Jaurès rue Anatole France, école de musique 1 rue Marceau, école Berthelot rue Jules Ferry, Mairie rue Roger Salengro, ancienne école Fénelon rue Fénelon, espace des Acacias place Hentgès, école Salengro rue Anatole France, école Jenner rue des écoles, école Sévigné rue des écoles, école Herriot pavé du Moulin, salle Coget rue de la ville de Naumburg, école Dombrowski place Dombrowski.
+1
+12
+Hautmont
+LIMONT-FONTAINE
+0
+1
+1
+"La Ruelle"
+5
+10
+Tourcoing Nord
+LINSELLES
+11
+1
+12
+Bvd de Verdun/rue des Chaudronniers, rue de Castelnau Espace Tiberghien, hameau du Blaton rue de Wervicq (face au n° 161), rue de la Vignette/rue Saint-Vincent de Paul prolongée, avenue Robert Descamps (face au n°116), rue de Wambrechies/rue du Mal Joffre, chemin de la ferme Leplat (en bordure de l'espace vert du lotissement "La Vallée"), route de Hautevalle (face école primaire Antoine de Saint-Exupéry), rue Saint Vincent de Paul (près de la rue de Bousbecque), rue du maréchal de Lattre de Tassigny (près de la rue des frères Dhalluin), rue des frères Marescaux, salle Pierre de Coubertin 57 rue de Tourcoing.
+1
+12
+Quesnoy Est (Le)
+LOCQUIGNOL
+1
+1
+2
+Hameau d'Hachette, La Place.
+3
+16
+Douai Sud
+LOFFRE
+0
+1
+1
+Salle polyvalente
+5
+4
+Quesnoy sur Deûle
+LOMPRET
+1
+1
+2
+Cité Familiale (à l'entrée de l'allée de la Douve), Rue de l'Eglise (le long du cimetière).
+1
+3
+Bavay
+LONGUEVILLE (LA)
+4
+2
+6
+La Gare, rue de Mons près du pont, Les Lanières place verte, Les Mottes (limite territoire Feignies), La Place, groupe scolaire J. Prévert.
+4
+14
+Bourbourg
+LOOBERGHE
+1
+1
+2
+Rue de Cassel mur cimetière, Mairie 406 route de Cassel.
+4
+14
+Gravelines
+LOON-PLAGE
+10
+4
+14
+Place Louise Michel, place de l'église face à la rue Courcot, rue des Manoirs/rue du 11 novembre, rue F.Mitterrand en face du n°322, 11 rue de la gare, face au 637 rue Charles de Gaulle, rue Léon Dron au niveau du parc des Tourelles, rue de Mardyck face terrain multisports, rue P. Matrenghen/ rue de la Motte face au college Jean Rostand, 60B devant le centre socio-culturel Dulcie September, Mairie 27 place de la République, espace Françoise Dolto rue du Corps de Garde, école Louis Pergaud 100B rue des Manoirs, le long de la salle Léo Lagrange rue du Stade.
+5
+1
+Haubourdin
+LOOS
+6
+8
+14
+Rue Guy Môquet/rue Pailevé, rue Clémenceau (près de la résidence), rue Ambroise Paré, avenue Lelièvre/rue du Bazinghien, rue du Général Leclerc/rue Guy Môquet, route de Sequedin, Espace François Mitterrand rue Faidherbe, école Alice Sorlin rue Foch, conservatoire de Musique rue Foch, école Voltaire rue Ferrer, école Curie place Jean Jaurès, école Michelet place Jean Jaurès, Restaurant Scolaire rue Herriot, école Sévigné-Victore Hugo rue Châtelet.
+6
+19
+Bouchain
+LOURCHES
+2
+1
+3
+Rue G. Delory (face à l'école Didierot), rue Danton (face à la résidence Diderot), rue Emile Zola (grille de l'église)
+1
+12
+Quesnoy Est (Le)
+LOUVIGNIES-QUESNOY
+0
+1
+1
+La Place.
+5
+6
+Cysoing
+LOUVIL
+1
+1
+2
+Place Jean Jaurès, rue Henri Millez près salle communale
+1
+3
+Maubeuge Sud
+LOUVROIL
+5
+5
+10
+Rue Antoine de Saint Exupéry, CES Jacques Brel, rue du Gazomètre, rue de la Paix (intersection route de Landrecies), rue René Vicaine, Mairie, Centre de rencontre, Ecole primaire Les Longs Près, Ecole Maurice Mespreuven, coron Dursin.
+4
+15
+Hazebrouck Nord
+LYNDE
+0
+1
+1
+La Place
+5
+7
+Lannoy
+LYS-LEZ-LANNOY
+11
+3
+14
+Rue J. P. Jonville (jardin public), 14 rue Jules Guesde, rue du Colisée (stade Jean Cholle), rue de Mulhouse, rue P. de Coubertin (ferme du Gauquier), rue J. B. Lebas (salle Descartes), rue Gambetta, rue des Ecoles, rue Cavrois, rue de la Justice, rue paul Bert (centre culturel), Maison de quartier rue du Fresnoy, Maison de quartier du Bon Poste rue du Général Leclerc, salle André Desmulliez rue paul Bert
+5
+4
+Lille Nord
+MADELEINE (La)
+8
+5
+13
+Rue Guynemer salle Malraux, rue Pompidou école Moulin, rue Courbet école, rue Paul Doumer/avenue Suzanne, rue Scrive mur de la gare, rue Roger Salengro/rue du Pré Catelan, rue du Ballon clôture de Botannique, avenue Albert 1er parking, rue Abbé Lemire salle Coubertin, rue du Maréchal Foch école Anne Frank, rue du Parc (Sililam), rue du pré Catelan (ACOLJAQ), rue Kléber restaurant scolaire.
+6
+19
+Valenciennes Sud
+MAING
+2
+3
+5
+Place G.Péri (Mairie), rue V.Hugo (face au n°78), rue des Marais (face au n°15), place Pierre Cuvelier, rue Joliot Curie (entrée stade Léo Lagrange)
+1
+3
+Maubeuge Nord
+MairieUX
+3
+1
+4
+Rue du Canougue (place), avenue du Floricamp, route de Mons "Grisaëlle", Foyer Rural (rue Haute).
+5
+11
+Lomme
+MAISNIL (LE)
+0
+1
+1
+4 rue de l'Eglise
+2
+18
+Clary
+MALINCOURT
+2
+1
+3
+Rue d'Hordain, rue de Walincourt, rue de Péronne.
+1
+12
+Avesnes Sud
+MARBAIX
+0
+1
+1
+9 rue de Taisnières.
+3
+16
+Marchiennes
+MARCHIENNES
+10
+4
+14
+Hameau d'Elpret face abattoir, rue d'Elpret face la Tréfilerie, route d'Orchies face Maison de Retraite, quartier de la Dordonne rue de Lille, rue des Jardins, Pont rue Rombeau/route de Somain, rue de l'Eglise face église, Domaine de la Forêt hameau d'Elpret, rue de la Cossetterie près Auberge, rue de la Paix (bordure pelouse), place Abbaye (mur Mairie), rue Abbaye (face parc école), route Nationale (école de Sec Marais), dojo Cécile Nowak chemin de l'Ange Gardien.
+2
+18
+Marcoing
+MARCOING
+5
+1
+6
+Rue de la République, rue de la Liberté, rue F. Dron, rue de la Gare, avenue Jules Ferry, rue Thiers.
+5
+9
+Marcq en Baroeul
+MARCQ-EN-BAROEUL
+9
+15
+24
+Place du Général Leclerc arrière de l'église, parking rue gabriel Péri (face à la société Lesaffre), Maison de la jeunesse rue Auguste Bourdon, rue Nationale/rue Clémenceau, boulevard Clémenceau prolongé, place Cornil grillage du Parc, rue de la Briqueterie lycée professionnel, rue du Grand Pavois/rue des Hautes Loges, boulevard Clémenceau/rue de la Reine Astrid, Hôte de ville avenue du Maréchal de Lattre de Tassigny, groupe scolaire Niki de Saint Phalle rue de Hurtevent, maison des Jeunes du Quesne rue du Quesne, groupe scolaire des Peupliers allée des Charmes, marché St-Joseph rue Raymond Derain (entre façade et retour sur clôture), médiathèque "La Corderie" rue Albert Bailly, foyer Georges Lambrecq rue du Lazaro, clôture salle Doumer place Doumer, école Victor Hugo rue Pierre Brosselette, école Méliès rue Désiré Desmettre, salle Bourvil rue des Tisserands, espace Tabarly rue des Entrepreneurs, maison de la Jeunesse du Buisson rue des Rouges Barres, groupe scolaire boulevard Clémenceau, entrée école Péguy/Dolto avenue du Maréchal de Lattre de Tassigny.
+3
+17
+Arleux
+MARCQ-EN-OSTREVENT
+0
+1
+1
+Rue Hubert Moniez
+1
+12
+Quesnoy Ouest (Le)
+MARESCHES
+1
+1
+2
+Grand Place contour du Trieux, Salle des Fêtes.
+2
+18
+Clary
+MARETZ
+10
+1
+11
+Rue Gallieni (Mairie), 6 rue du Général Leclerc, rue de la Délivrance, 16 rue de la Victoire, Hameau d'Avelu (place), 42 rue Clémenceau, 3 rue Eugène Lefebvre, 4 rue de la République, 130 rue de la République, 14 rue des Poilus, foyer Léo Lagrange.
+6
+21
+Valenciennes Est
+MARLY
+0
+7
+7
+Mairie salle des fêtes, école maternelleJules Henri Lengrand (place Gabriel Péri), école maternelle L.Michel rue Camelinat, école maternelle M.Curie rue des Bleuets, école maternelle J.Rostand rue J.Vallès, école maternelle Hurez St Nicolas rue Léon Fondu, école maternelle Nelson Mandela rue des Arbrisseaux.
+1
+12
+Landrecies
+MAROILLES
+4
+1
+5
+Rue de la Basse, rue des Juifs, Place Verte, Place de la Mairie, place de l'Eglise.
+1
+3
+Maubeuge Nord
+MARPENT
+9
+1
+10
+Rue de la Mairie, rue de la République, rue de la Place, rue Victor Hugo, rue Roger Salengro, rue Merbes, rue Faidherbe, rue G. Delmotte, rue JB Lebas, rue des Frères Roucheau.
+6
+19
+Bouchain
+MARQUETTE-EN- OSTREVANT
+2
+1
+3
+Rue Lebas/rue Zola, rue Barrois, Place de l'Eglise.
+5
+4
+Lille Ouest
+MARQUETTE-LEZ-LILLE
+11
+7
+18
+Avenue du Maréchal Foch/rue des Martyrs, clôture du jardin public rue de Wambrechies face studio 4, clôture du groupe scolaire avenue de la Fraternité, mur domaine de la Clairière rue Lalau, rue d'Ypres/rue Humanité, rue d'Ypres/rue St Venant, clôture accès Pont de l'Epinette à proximité du n° 85 rue Henri Peters, mur de clôture propriété EDF 174 rue Lalau, mur de clôture de m'EPS rue de Quesnoy, rue Gambrinus "mail", rue Albert Samain, Mairie place du Général de Gaulle grille jardin public, clôture salle polyvalente de l'Abbaye rue de Lille, salle du Centre d'Animation de Lommelet/ sur clôture du jardin du CAL rue Pasteur, domaine du Vert Bois grille du parc public rue Lalau, Ecole Jacques Brel restaurant rue de Terdeghem, restaurant scolaire Jeanne de Flandre rue de Terdeghem
+5
+5
+Bassée (La)
+MARQUILLIES
+4
+1
+5
+Rue du Maisnil, rue Jean Jaurès, rue Léon Bocquet, rue du Touquet, école Jacques Prévert rue de la Bourse
+2
+18
+Marcoing
+MASNIERES
+6
+1
+7
+Rue de Marcoing n°33, rue Lain n°7, rue Verte entrée résidence Golgotha, route Nationale n°71, route Nationale façade ancienne salle des fêtes, rue du Calvaire, rue des Dimeurs (salle M. Vérin).
+3
+16
+Douai Sud
+MASNY
+8
+2
+10
+Rue Bailly, rue du Bosquet, rue Lannoy, rue J. Mousseron, avenue du 8 mai 45, rue de Creil, rue de Froissy, angle CD 8/angle rue du 8 mai 45, rue Fauqueux (face Mairie), rue de Beauvais (foyer J. Brel).
+6
+19
+Bouchain
+MASTAING
+1
+1
+2
+Rue Charles Place, salle omnisports rue Jules Ferry.
+1
+3
+Maubeuge Nord
+MAUBEUGE
+2
+11
+13
+Route de Feignies à proximité du Foyer St Ghislain face au 86, rue du Pont de Pierre face au 250, rue de la Liberté face aux terrains de tennis couverts, Hôtel de ville, Espace Sculfort, groupe scolaire Joyeuse, salle des Fêtes fbg de Mons, salle des fêtes Pont Allant, école maternelle Pont Allant, salle des fêtes de Douzies, Mairie annexe des Présidents, groupe primaire de Montplaisir, groupe scolaire Lamartine avenue Alfred de Vigny, groupe scolaire Jean de la La Fontaine.
+1
+3
+Maubeuge Sud
+MAUBEUGE
+1
+6
+7
+Rue de l'Ermitage entre le panneau d'informations municipales et le n°7, Patio de l'Arsenal, école maternelle Jean Mabuse, centre social des Provinces Françaises, école primaire Jules Ferry, Mairie annexe de Sous-le-Bois , centre social de la Fraternité.
+6
+20
+Saint Amand Rive Gauche
+MAULDE
+3
+1
+4
+30 rue du Mortier, 32 rue de Chorette, 95 rue du Pont, Mairie 75 Grand' rue.
+2
+18
+Cateau Cis (Le)
+MAUROIS
+1
+1
+2
+Chaussée Brunehaut, 10 rue Clément Roche.
+2
+18
+Cateau Cis (Le)
+MAZINGHIEN
+0
+1
+1
+Près de la Mairie.
+1
+3
+Bavay
+MECQUIGNIES
+2
+1
+3
+Rue du Carniau, La Place, Mairie
+4
+14
+Wormhout
+MERCKEGHEM
+0
+1
+1
+Salle des fêtes route de Watten.
+5
+6
+Pont à Marcq
+MERIGNIES
+1
+1
+2
+Mairie, salle des sports
+4
+15
+Bailleul Sud Ouest
+MERRIS
+1
+1
+2
+Place de l'église, entrée de la salle polyvalente place de l'église.
+4
+15
+Merville
+MERVILLE
+9
+4
+13
+Place de l'hôtel de ville côté Nord, rue du Gal de Gaulle (pont de la bonne friture), hameau de Caudescure église, route d'Estaires clôture de l'union paysanne, rue Ferdinand Capelle maison de repos, digue d'Artois mur ancien moulin Hennion, Haute Rue école, rue du Capitaine Wambergue, place François Mitterrand le long de l'avenue Oscar Delache, salle des fêtes municipale rue Marcel Lefebvre, Hameau du Sart école Bezegher rue d'Aire, école maternelle Louis Pergaud rue des Prêtres, salle Pierre Sizaire rue de la Blanchisserie.
+4
+15
+Bailleul Sud Ouest
+METEREN
+1
+1
+2
+Salle des fêtes rue Nationale, La Place
+4
+14
+Bourbourg
+MILLAM
+0
+1
+1
+Parking face Mairie.
+6
+20
+Saint Amand Rive Gauche
+MILLONFOSSE
+4
+1
+5
+Maison des Associations (rues R.Salengro/rue H. Barbusse), 72 rue du 8 mai 1945, 1 route de Bousignies, 117 rue de la Vallée, Salle des fêtes rue Salengro.
+4
+14
+Hondschoote
+MOERES (LES )
+0
+1
+1
+Mairie
+2
+18
+Marcoing
+MOEUVRES
+0
+1
+1
+Mairie.
+1
+12
+Berlaimont
+MONCEAU-SAINT- WAAST
+0
+1
+1
+Rue de Verdun (mur Mairie)
+5
+6
+Pont à Marcq
+MONCHEAUX
+0
+1
+1
+Salle des fêtes 232 rue de la Mairie
+6
+19
+Valenciennes Sud
+MONCHEAUX-SUR- ECAILLON
+0
+1
+1
+5 rue de Valenciennes.
+3
+17
+Arleux
+MONCHECOURT
+0
+3
+3
+Mairie, salle Louis Griffon rue P. de Coubertin, foyer Nelson Mandela cité Saint-Robert.
+5
+2
+Lille Nord Est
+MONS-EN-BAROEUL
+5
+10
+15
+Rue Vincent de Paul/rue du 11 novembre, 12 bvd Mendès France (ex bvd Napoléon 1er à hauteur du mail Lamartine), parc des Franciscaines rue de Gaulle, école Guynemer rue E. Zola, rue Gabriel Péri 11 bvd Leclerc, Hôtel de Ville avenue R.Schuman, école maternelle Charles Perrault rue Parmentier, école maternelle La Fontaine rue de l'An 40, école Pasteur place Albert 1er, école maternelle Reine Astrid rue Lacordaire, restaurant scolaire Concorde rue Vincent de Paul, Maison des Associations 108 rue du Gal de Gaulle, école Mendès France 8 ter rue d'Alsace, Ecole Montaigne rue de Gascogne, restaurant scolaire Léo Lagrange Parvis Jean XXIII.
+5
+6
+Pont à Marcq
+MONS-EN-PEVELE
+2
+1
+3
+Cité du Wacca, rond-Point, Mairie.
+2
+18
+Cateau Cis (Le)
+MONTAY
+1
+0
+1
+18 rue de la Mairie.
+2
+18
+Clary
+MONTIGNY-EN- CAMBRESIS
+1
+1
+2
+Parking à camions face au 21 rue Jean Jaurès, Mairie.
+3
+16
+Douai Sud
+MONTIGNY-EN- OSTREVENT
+7
+3
+10
+Rue de la Gare (près café PMU), rue du Château, rue d'Albi, groupe C cité Moucheron (face au 166), route de Lallaing prox. salon de coiffure, rue Delcambre face au 405, rue de la Fabrique, cour salle des fêtes rue de la Mairie, école V. Hugo rue des écoles, école Pasteur avenue de Barrois.
+2
+12
+Solesmes
+MONTRECOURT
+0
+1
+1
+Parking face Mairie.
+4
+15
+Hazebrouck Sud
+MORBECQUE
+1
+3
+4
+Ecole du parc rue du parc, école Charles Perrault 14 rue du 8 mai 1945, école Léon Gambetta rue de Merville, Mairie place de l'Hôtel de Ville.
+6
+20
+Saint Amand Rive Droite
+MORTAGNE-DU-NORD
+7
+1
+8
+Rue S.Beauchamp, rue Fernig, rue Henri Urbain, rue Jules Pamelard, rue de Thun, rue Pierre Boeynaems, quai des Mouettes,
+rue Saint Michel (facade salle des fêtes)
+5
+6
+Cysoing
+MOUCHIN
+0
+1
+1
+Foyer rural
+1
+3
+Trélon
+MOUSTIER
+0
+1
+1
+Mairie.
+5
+9
+Tourcoing Sud
+MOUVAUX
+5
+9
+14
+Rue Jean Bart face au n°92, entrée du lotissement de la rue Mirabeau,rue de la Briqueterie/rue des Duriez, rue du Congo mur de la clôture du stade Dendiével, rue Lorthiois face au n°192 bis, Hôtel de Ville boulevard Carnot, à proximité de la salle André Malraux rue Kléber, mur face école Victor Hugo rue St Pierre, à proximité de la salle Pierre Bercker rue de Tourcoing, à proximité de la salle Georges Courcol rue Galliéni, à proximité de l'école Saint Exupéry rue des Prieux, à proximité du foyer logement le Vallon Vert allée du Béguinage, allée René Maesen, établissement les Papillons Blancs rue Suzanne Lannoy Blin.
+2
+18
+Cambrai Est
+NAVES
+1
+1
+2
+Face au 18 Brunehaut, rue J Duclos "la grange".
+4
+15
+Merville
+NEUF-BERQUIN
+0
+1
+1
+Place Robert Devos
+1
+12
+Hautmont
+NEUF-MESNIL
+8
+2
+10
+La Place, rue Hector Cartigny, rue Henri Barbusse, rue Lénine, résidence Carlos Geoffroy, carrefour l'Agache, résidence Blanc Pignon, rue Honoré Lespilette, rue de la Paix, rue Lucienne Legrand.
+5
+6
+Pont à Marcq
+NEUVILLE (La)
+0
+1
+1
+Devant la Mairie.
+1
+12
+Quesnoy Est (Le)
+NEUVILLE-EN-AVESNOIS
+0
+1
+1
+Mairie
+5
+10
+Tourcoing Nord Est
+NEUVILLE-EN-FERRAIN
+7
+6
+13
+Face au n° 100 rue du Dronckaert, rue d'Halluin face à la rue du Mal Leclerc, rue du Christ C.E.S Jules Verne, rue des Tilleuls/rue des Acacias, rue Jean de La Fontaine centre associatif Balzac, rue du Bailly/rue Schumann (Ets Deltour), square Guynemer à proximité de la rue du docteur Calmette, Hôtel de Ville, 37 rue Ambroise Paré, salle du Berquier rue du Chemin Vert, Lamartine 18 rue du Maréchal Lyautey, salle municipale rue Jean Fiévet, espace Maurice Schumann 85 bis rue de Tourcoing
+2
+18
+Cambrai Ouest
+NEUVILLE-SAINT-REMY
+10
+1
+11
+Place Edouard Lhotellier, école maternelle, rue de Vire, rue d'Oisy, résidence Mouchotte, résidence du Comte d'Artois, rue Touchard, résidence Hélène Boucher, rue du 11 novembre, rue Maurice Camier, Salle Jacques Anquetil rue de Lille.
+6
+19
+Bouchain
+NEUVILLE-SUR-ESCAUT
+5
+1
+6
+Avenue des Acacias, rue R.Salengro, rue J.Guesde, rue Brossolette, rue Max Dormoy, place Léon Blum.
+2
+18
+Cateau Cis (Le)
+NEUVILLY
+2
+1
+3
+CD 955 Route Nationale, place de l'Etoile, salle des fêtes.
+4
+15
+Bailleul Nord Est
+NIEPPE
+12
+5
+17
+Rue d'Armentières sur le parking des ateliers municipaux, cité Elie Poissonnier (rue du 8 mai 1945/rue de la Lys), rue du Pontceau à proximité de l'étang de pêche, cité Marcel Coisne le long de la rue des sports, rue du Moulin prolongée, rue d'Armentières à l'entrée de l'école primaire Arthur Cornette, rue du Mal Foch à l'entrée du lotissement "les Cigognes", rue de Warneton à l'entrée du lotissement "Domaine du château", rue de Bailleul sur le mur d'enceinte du parc du château, rue du Dr Henri Vanuxeem à proximité de la halle SNCF, rue des Trois Rois à proximité de la cité des Trois Rois, rue de Bailleul à proximité du cottage Edmond Watelet de Messange, 821 rue d'Armentières parc sdes sports,école primaire Suzanne Crapet 59 rue du pavé Fruit, école primaire Roger Salengro 226 rue du Dr Henri Vanuxem, centre municipal d'activités 1065 rue d'Armentières, restaurant scolaire avenue des Lilas.
+2
+18
+Cambrai Est
+NIERGNIES
+1
+1
+2
+Ancienne Mairie côté Grande Rue, Mairie 59 Grande Rue.
+4
+14
+Wormhout
+NIEURLET
+0
+1
+1
+Rue de la Mairie mur de la salle face à l'église.
+6
+20
+Saint Amand Rive Gauche
+NIVELLE
+1
+1
+2
+Mairie, espace Général de Gaulle (rue Achille Dufresne)
+3
+6
+Orchies
+NOMAIN
+10
+2
+12
+Rue Louis Guislain cimetière, rue Louis Guislain station de relevage,12 rue de Lannay, entrée clos de la Chapelle, 12 rue de la Commune, école de musique rue R. Delzenne, 20 rue d'Ouvignies, rue de la Coquerie pont de l'Autoroute, 2 rue de la Visterie, 22 rue Louis Delcroix, Mairie 34 rue J. Lebas, salle de réunions 26 Grand'place.
+4
+15
+Cassel
+NOORDPEENE
+1
+1
+2
+Route de Saint Omer (face au n°784), parking de la Mairie.
+5
+5
+Seclin Nord
+NOYELLES-LEZ-SECLIN
+0
+1
+1
+Hôtel de Ville
+2
+18
+Marcoing
+NOYELLES-SUR-ESCAUT
+3
+1
+4
+Rue de Cantaing, rue Sorel, résidence du Quartier du Roi, Mairie.
+1
+12
+Berlaimont
+NOYELLES-SUR- SAMBRE
+0
+1
+1
+Mur Mairie.
+6
+19
+Bouchain
+NOYELLES-SUR-SELLE
+0
+1
+1
+Mairie
+1
+3
+Bavay
+OBIES
+0
+1
+1
+Mairie.
+1
+3
+Maubeuge Sud
+OBRECHIES
+1
+1
+2
+La Place face école, Mairie 12 rue du Fournil
+4
+15
+Cassel
+OCHTEZEELE
+0
+1
+1
+Mairie
+6
+20
+Condé sur l'Escaut
+ODOMEZ
+3
+1
+4
+Rue du Buiron, rue Pierre Delcourt (face cité Kuhlmann), rue de la Haute Ville, rue du Buiron (attenant à la Mairie)
+1
+3
+Trélon
+OHAIN
+2
+1
+3
+Les Trieux rue Neuve, Le Cheval Blanc rue des Horbes, place Foch.
+6
+19
+Valenciennes Sud
+OISY
+0
+1
+1
+parking Mairie/école Perrault.
+6
+21
+Valenciennes Est
+ONNAING
+7
+8
+15
+Place Pasteur, rue Alfred Lemaire, Chasse de Valenciennes cité Voltaire, place Voltaire, rue Jean Jaurès cité du Stade, rue des Pensées, rue des Baudeliers, rue de la Mairie, rue du 8 mai 1945, rue du Ponceau, ruelle de la Piperie, rue Roger Salengro, chasse de Valenciennes école de Cuvinot, rue de Thiers, rue des Faisans.
+4
+14
+Hondschoote
+OOST-CAPPEL
+0
+1
+1
+Route de l'Europe
+3
+6
+Orchies
+ORCHIES
+6
+4
+10
+Face au 2 avenue de la Libération, face au 1 rue Lagache, avenue Kennedy près gare SNCF, route de Marchiennes, place Léon Blum lôtissement Les Moulins, rue du Gd Camp, rue de Falemprise, rue du maréchal de Lattre de Tassigny, place Gambetta près de l'espace vert, école Jules Ferry rue Jules Roch, rue Albert Poutrain parking de la Grange.
+2
+18
+Cateau Cis (Le)
+ORS
+1
+1
+2
+Face école rue de Landrecies, cour du Presbytère.
+1
+12
+Quesnoy Ouest (Le)
+ORSINVAL
+1
+1
+2
+Ancienne école route de Valenciennes, Mairie rue du Vieux Chemin.
+5
+6
+Pont à Marcq
+OSTRICOURT
+5
+3
+8
+Rue du Maréchal Leclerc, boulevard Jules Ferry école Jules Ferry, résidence Les Moulins, parking de la Gare, rue Florent Evrard (espaces verts), ESSAIM Michel Herman, Foyer Municipal Raoul Papin, Maison du Temps Libre.
+4
+15
+Steenvoorde
+OUDEZEELE
+0
+1
+1
+Mairie.
+4
+15
+Cassel
+OXELAERE
+0
+1
+1
+La place
+2
+18
+Cambrai Ouest
+PAILLENCOURT
+0
+1
+1
+Face Mairie.
+3
+16
+Marchiennes
+PECQUENCOURT
+0
+4
+4
+Salle des fêtes, école Lemay rue de Chambéry, ancienne école Daniel Féry rue de Vabre, école Bellegambe.
+5
+4
+Quesnoy sur Deûle
+PERENCHIES
+12
+3
+15
+Avenue du Parc de l'Horloge, rue de la Prévôté n° 47/49, rue de la Prévôté n° 453, rue de Lomme angle des Marronniers, rue Jacquard clôture terrain de sport, rue Louis Blériot, avenue du Kemmel au delà du n°2, avenue du Kemmel n°120, rue de la Paix (écoles), rue de Piétralunga/avenue de Lisieux, avenue de la Liberté, allée des Acacias devant château, rue Gambetta salle des Fêtes, rue du Général Leclerc n° 72 " les Sapins Bleus", rue de Gascogne restaurant scolaire de l'Europe
+5
+6
+Cysoing
+PERONNE-EN- MELANTOIS
+1
+1
+2
+Rue de l'Eglise/rue du Général de Gaulle, 2 rue du Marais
+6
+21
+Valenciennes Nord
+PETITE-FORET
+7
+3
+10
+Rue J.Jaurès Quatre Chemins face au 2, face au 140 rue René Franck, face au 4 rue Jacques Prévert, face immeuble Padoue avenue de Correzzola, face au 1 bis avenue François Mitterrand, face au 2 rue Voltaire, rue Edouard Vaillant entrée panneau ville Petite-Forêt, place des Ecoles côté salle des fêtes, rue Anatole France face Maison de Quartier du Bosquet, rue Louis Aragon face bâtiment Gérard Philippe entrée D.
+1
+12
+Avesnes Sud
+PETIT-FAYT
+1
+1
+2
+Lieu-dit "Le Village", Mairie.
+5
+6
+Pont à Marcq
+PHALEMPIN
+5
+2
+7
+Place J. B. Coget, rue du Cap. Frémicourt (proximité passage à niveau), rue du Ponchelet (le long du mur terrain de Foot), rue du Moulin (le long des façades à l'angle de la rue des Ormes), rue d'Ennecourt (près du carrefour Foch-Ennecourt), rue du Carembault le long du groupe scolaire " les Viviers", place de l'Hôtel de ville rue J. B. Lebas.
+4
+14
+Bergues
+PITGAM
+0
+1
+1
+Près de la Mairie.
+1
+12
+Quesnoy Est (Le)
+POIX-DU-NORD
+3
+1
+4
+Rue du Château, rue de la Chasse, rue Pasteur, rue de l'Officier.
+2
+18
+Cateau Cis (Le)
+POMMEREUIL (LE)
+2
+1
+3
+Mairie, Golf, Salle polyvalente.
+5
+6
+Pont à Marcq
+PONT-A-MARCQ
+2
+1
+3
+Carrefour de la Libération, rue Nationale face au n° 189, Mairie
+1
+12
+Berlaimont
+PONT-SUR-SAMBRE
+5
+2
+7
+La Porquerie, route d'Hargnies (face Eglise), rue du Béginage Yvon Vion, Hameau de Pantegnies, rue du 8 mai 1945, rue de Quartes, rue du 8 mai 1945.
+1
+12
+Quesnoy Est (Le)
+POTELLE
+1
+1
+2
+Face Mairie, salle des fêtes A. Dupont.
+4
+15
+Hazebrouck Sud
+PRADELLES
+0
+1
+1
+proximité Mairie
+5
+11
+Armentières
+PREMESQUES
+0
+1
+￼1
+Place JB Lebas
+6
+21
+Valenciennes Est
+PRESEAU
+1
+1
+2
+Place Joliot Curie, salle des sports rue Pasteur
+1
+12
+Landrecies
+PREUX-AU-BOIS
+2
+1
+3
+Rue du Village, rue d'Hecq, rue du Bois (salle des fêtes).
+1
+12
+Quesnoy Ouest (Le)
+PREUX-AU-SART
+2
+1
+3
+Rue du Centre, hameau de la Baiscrète, Mairie.
+1
+12
+Landrecies
+PRISCHES
+1
+1
+2
+La Place (près cabine télephonique), mur de l'Ecole rue de la Mairie.
+6
+19
+Valenciennes Sud
+PROUVY
+1
+1
+2
+Avenue des sports, rue J.Jaurès (face à la salle des fêtes)
+2
+18
+Cambrai Ouest
+PROVILLE
+2
+2
+4
+Voie d'Hermenne, avenue des Mésanges, Mairie rue J. Jaurès, "Rose des Vents" rue des Jonquilles.
+5
+5
+Seclin Sud
+PROVIN
+8
+1
+9
+Rue Charles Vion (près du Stade), rue du Président Allendé (le long des garages), rue Léon Blum (face appartements résidence Denis Cordonnier, résidence domaine du Riez (près du n°2), rue Nationale (entre le n° 69 et le n°75), rue Camille Desmoullins/rue La Fayette (angle des 2 rues), clos St-Martin (entrée), square Georges Brassens, rue Jules Guesde (près salle Prévert).
+4
+14
+Bergues
+QUAEDYPRE
+0
+1
+1
+Près de la Mairie.
+6
+21
+Valenciennes Est
+QUAROUBLE
+7
+2
+9
+Grange Bienvenu Brouillard rue Parmentier, face au mur lieu dit "Quatre Pavés", cabine EDF embranchement rue J.Guesde, 54 chemin des Postes, RN 30 lieu dit "Chapelle Richard", rue Berthelot entre les 46 et 48, CD 50 face au mur de clôture 35 rue V.Couturier, 3-5 rue Gambetta, salle des fêtes.
+6
+19
+Valenciennes Sud
+QUERENAING
+2
+1
+3
+Rue de l'Egalité, rue J.Monnet (près de la Mairie), place Jules Bacq.
+1
+12
+Quesnoy Est (Le)
+QUESNOY (LE)
+6
+1
+7
+Porte de Landrecies, Hôtel de Ville, place Leclerc, rue Victor Hugo, route de Bavay, Banlieue vers Ruesnes, Centre Lowendal rue Juhel.
+1
+12
+Quesnoy Ouest (Le)
+QUESNOY (LE)
+4
+1
+5
+Porte Saint Martin (ave Libération), porte de Valenciennes, rue du 11 Novembre, route de Valenciennes, Centre Lowendal rue Juhel.
+5
+4
+Quesnoy sur Deûle
+QUESNOY-SUR-DEÛLE
+8
+4
+12
+Rue de Lille ex maison de l'Eclusier, rue de la Prévôté mur de clôture Ets SOFAMA, rue d'Ypres palissade passage à niveau, place du Général de Gaulle face Mairie, terre-plein rue Albert Walquemanne arrêt de bus, mur pignon rue Faidherbe, palissade près du cimetière allemand route de Linselles, rue Koënig mur de clôture Ets GHESTEM, salle Festi'Val rue de Lille, grillage école Jules Ferry rue de Warneton, mur du parking rue du maréchal Foch/route de Linselles, salle Sporti'Val rue de Comines.
+1
+3
+Maubeuge Sud
+QUIEVELON
+0
+1
+1
+Mairie.
+6
+21
+Valenciennes Est
+QUIEVRECHAIN
+10
+3
+13
+Rue Valériani devant ancien dispensaire des mines, rue du Quesnoy devant la déchetterie, rue du Quesnoy devant parking en schiste rouge, cité des Vanneaux à proximité Etablissement Pébnitentière pour mineurs, rue Cronte Voye entrée de la rue des Verriers, avenue J.Jaurès parking face maison du Picon, avenue J.Jaurès devant les Ets Demarez, rue de la Mine derrière les ateliers municipaux, rue du Calvaire parking du centre social, rue J.Mermoz entrée du parking de la piscine, rue Guy Morelle (école maternelle), avenue Pasteur (parking école maternelle), place Roger Salengro.
+2
+12
+Carnières
+QUIEVY
+2
+1
+3
+Place Suzanne Dubois, place du Gal de Gaulle, près Foyer communal rue J. Jaurès.
+3
+17
+Douai Nord Est
+RACHES
+0
+1
+1
+Mairie.
+5
+11
+Lomme
+RADINGHEM-EN- WEPPES
+0
+1
+1
+Espace Danel rue de l'Eglise
+2
+18
+Cambrai Ouest
+RAILLENCOURT-SAINTE- OLLE
+2
+2
+4
+Route d'Arras (Ste Olle), rue de l'Eglise (Raillencourt), Espace animation 626 route d'Arras (Ste Olle), Salle "la Marlière" rue de l'Eglise (Raillencourt).
+3
+17
+Douai Nord Est
+RAIMBEAUCOURT
+10
+3
+13
+Place Clémenceau, rue Augustin Tirmont, rue du Bas Liez, rue Voltaire, rue Lafargue, rue E. Vaillant, résidence Les Tilleuls, rue Roger Salengro, rue Henri Lenne, rue Foch, 1 - salle des fêtes, 2 - salle des fêtes, école Jules Ferry.
+1
+12
+Avesnes Sud
+RAINSARS
+1
+1
+2
+3 La Place, Mairie.
+6
+20
+Saint Amand Rive Droite
+RAISMES
+9
+8
+17
+Rue Henri Durre (grille de clôture du groupe scolaire Joliot Curie), cité Carpeaux (angle rue Laveissière), rue Gilbert Bostsarron (angle de l'entrée de la résidence Mozart), rue J.Jaurès (angle rue de l'abbatoir), Vicoigne (place Alexandre Leleu), Vicoigne (entrée de la rue du Mont des Ermites), rue Léopold Dusart (à proximité de la chapelle Notre Dame de Pitié), Sabatier (avenue du pinson à proximité du cimetière ), Sabatier (face au parc Taffin rue Taffin), salle des fêtes du Centre, salle Allende, salle des fêtes de Vicoigne, salle des fêtes de Sabatier, salle Mairie annexe Lagrange, foyer Musmeaux, salle Juliot Curie, salle des fêtes de la Vicoigne.
+2
+18
+Cambrai Est
+RAMILLIES
+1
+1
+2
+Face Ecole rue de Cambrai, Mairie rue de Cambrai.
+1
+3
+Avesnes Nord
+RAMOUSIES
+0
+1
+1
+Rue de la Place mur de la Mairie.
+1
+12
+Quesnoy Est (Le)
+RAUCOURT-AU-BOIS
+3
+1
+4
+Rue Marceau Cornu, Voirie Nouvelle, rue Haute, 30 rue Marceau Cornu.
+1
+3
+Maubeuge Sud
+RECQUIGNIES
+3
+2
+5
+Place des ATM Rocq, rue Armand Beugnies (quartier Dérimont), rue Paul Ronval, place de Nice, salle du Millénaire rue A. Beugnies.
+2
+18
+Cateau Cis (Le)
+REJET-DE-BEAULIEU
+1
+1
+2
+Rue de l'Eglise, Grand'Rue.
+4
+15
+Hazebrouck Nord
+RENESCURE
+0
+3
+3
+Mairie rue du Château, salle des fêtes route de St-Omer, Ecole du Nieppe route de Clairmarais.
+2
+18
+Cateau Cis (Le)
+REUMONT
+0
+2
+2
+Rue du Temple, rue de Boheries.
+4
+14
+Hondschoote
+REXPOEDE
+0
+1
+1
+La place
+2
+18
+Marcoing
+RIBECOURT-LA-TOUR
+0
+1
+1
+Mur préau école.
+3
+16
+Marchiennes
+RIEULAY
+3
+1
+4
+Rue Suzanne Lanoy, rue de la Paix, rue René Caby, rue Suzanne Lanoy.
+2
+12
+Carnières
+RIEUX-EN-CAMBRESIS
+0
+1
+1
+Rue Gambetta salle des fêtes.
+1
+12
+Landrecies
+ROBERSART
+0
+1
+1
+Secrétariat de Mairie près de l'Eglise.
+6
+19
+Bouchain
+ROEULX
+1
+2
+3
+Rue du 8 mai 1945/rue Raoul Briquet, rue Roger Salengro clôture école Condorcet, rue Jean Jaurès/rue de la Cense aux Mômes.
+6
+21
+Valenciennes Est
+ROMBIES-ET- MARCHIPONT
+0
+1
+1
+Place de la Mairie
+2
+12
+Solesmes
+ROMERIES
+1
+1
+2
+Place du Gal de Gaulle, trottoir salle des fêtes.
+5
+2
+Lille Sud Est
+RONCHIN
+7
+10
+17
+Place de l'Abbé de l'Epée, place de la République, résidence Fernand Hette rue Marx Dormoy, école Jules Fostier avenue du Maréchal de Lattre de Tassigny, terrain rue Salvatore Allendé, rue de la Marne/rue de la 2ème D.B., rue Charles Saint Venant près de la salle Ladoumègue, Mairie avenue Jean Jaurès, école Jules Ferry rue du Général Leclerc, école Jean Jaurès rue Lavoisier, groupe scolaire du Grand Ronchin rue Sadi Carnot, école Pauline Kergomard rue du 11 novembre, école Pierre Brossolette rue du 11 novembre, école Guy Mollet rue Jules Ferry, école Charles Perrault rue Millet, école Abert Samain rue F. Chopin, école Georges Sand rue Vincent Auriol.
+5
+10
+Tourcoing Nord
+RONCQ
+4
+10
+14
+Mairie 18 rue du Docteur Galissot, cimetière du centre entrée rue du président Allende, rue du Dronckaert/boulevard d'Halluin, rond point de l'Europe (RD 191/RD 617/rue de Lille), Anciennes écuries rue de la Latte, Complexe sportif Guy Drut 268 rue de Lille, Salle de la Marelle 1 rue Jules Watteau, Restaurant des Ecoles Publiques du Blanc Four rue Jules Watteeuw, Ecole Publique mixte Pablo Néruda rue Pierre Brossolette, Ecole élémentaire Jacques Brel rue Henri Barbusse, Ecole Maternelle Pauline Kergomard rue de Lille, Salle des Sports annexe Jules Gilles rue Maurice Thorez, Salle Georges Catry place Jean Jaurès, Complexe sportif Joël Bats rue de Lille.
+3
+17
+Douai Nord Est
+ROOST-WARENDIN
+8
+2
+10
+Face Mairie, 55 rue A. France, 58 rue E. Vaillant, 789 rue F. Ferrer, église Sainte Rita avenue du 8 mai, 8 rue JB Lebas, 267 rue J. Moulin, 169 rue Pasteur, salle des fêtes rue J. Jaurès, salle de réception avenue du 8 mai.
+6
+20
+Saint Amand Rive Gauche
+ROSULT
+3
+1
+4
+salle des sports rue du capitaine Deken trottoir, 16 Rue du capitaine Deken, rue du Gal Koenig place église, salle des sports 481 rue du capitaine Deken côté salle de sport.
+5
+8
+Roubaix Centre
+ROUBAIX
+1
+17
+18
+Rue Jules Watteeuw grille de l'école Albert Camus, Hôtel de Ville, 119 bis rue Jules Guesde, 2 rue Jules Guesde, 4 rue Jules Guesde, façade école 50 rue Edouard Vaillant, foyer restaurant 174 boulevard de Fourmies, ADEP 94 rue Léon Marlot, façade école 155 rue Jean Macé, façade école 108 avenue Joseph Dubar, école 45 rue Jacques Prévert, façade école 37 rue Jules Verne, école 167 boulevard Gambetta, face à l'école 87 rue Pierre de Roubaix, façade école 2 boulevard Lacordaire, façade école 5 avenue Anatole France, 174 boulevard de Fourmies
+5
+8
+Roubaix Est
+ROUBAIX
+1
+7
+8
+Avenue du parc des Sports (près de la Conciergerie du Parc de carihem), façade école 225 rue de Leers, centre social 3 ponts 157 avenue Kennedy, façade école 71 rue Léo Lagrange, façade école 120 avenue de Verdun, façade du centre sportif 589 rue de Lannoy, façade école 119 rue Lalande, 72 rue Lannes
+5
+8
+Roubaix Nord
+ROUBAIX
+1
+8
+9
+Grand'Rue 453 salle de sports, école 115 rue Emile Moreau, façade école 81 rue de la Guinguette, façade école 5 rue Turgot, façade école 21 rue Olivier de Serres, façade école entre le 48 et le 50 rue Delespaul, école 95 rue Philippeville, façade école 4 bis rue Montaigne, école 4 rue Ternaux.
+5
+7
+Roubaix Ouest
+ROUBAIX
+1
+3
+4
+Rue Rémy Cogghe square Pierre Catteau, façade école 62 rue de Soubise, façade école 157 rue de l'Industrie, 75 rue de Naples.
+3
+17
+Douai Sud
+ROUCOURT
+1
+1
+2
+Place Jean Panien, mur Mairie.
+1
+3
+Maubeuge Sud
+ROUSIES
+10
+4
+14
+Mur école maternelle du Centre, rue du Bois près abri Autobus, rond-point près cabine électrique, entrée cité des Bons Pères, rue d'Assevent près Boule d'Or, place du 8 mai, école des Filles, lotissement "Les Oeillets", Le Vallon, les Près de Cerf, Mur Gilliard rue de la Mairie, près résidence du Chemin Vert, rue Jean Jaurès, rue de Maubeuge (salle des sports).
+6
+19
+Valenciennes Sud
+ROUVIGNIES
+0
+1
+1
+Route Nationale (face à la Mairie).
+4
+15
+Cassel
+RUBROUCK
+1
+1
+2
+502 route de Bourbourg, 146 contour de l'Eglise.
+2
+18
+Marcoing
+RUES-DES-VIGNES (LES)
+1
+1
+2
+Mairie, Salle Jean Durieux rue Haute.
+1
+12
+Quesnoy Est (Le)
+RUESNES
+0
+1
+1
+Place Mairie
+6
+20
+Saint Amand Rive Gauche
+RUMEGIES
+0
+1
+1
+Mairie rue Molière.
+2
+18
+Marcoing
+RUMILLY-EN- CAMBRESIS
+0
+1
+1
+70 rue Charles Gide.
+2
+18
+Cambrai Ouest
+SAILLY-LES-CAMBRAI
+4
+1
+5
+Rue de la Chapelle, rue de la Croix Rouge, rue de Sancourt, route d'Arras, rue d'En Haut près Mairie.
+5
+6
+Lannoy
+SAILLY-LEZ-LANNOY
+0
+1
+1
+10 rue de la Mairie
+5
+6
+Cysoing
+SAINGHIN-EN- MELANTOIS
+0
+2
+2
+179 rue du Maréchal Leclerc, 433 rue du Maréchal Leclerc
+5
+5
+Bassée (La)
+SAINGHIN-EN-WEPPES
+7
+3
+10
+Rue Gambetta face au n°932, avenue de la Rénovation mur Debarge, rue Edouard Vaillant/rue Anatole France, voie de la Cense angle rue du Chevalier de la Barre, rue Marcel Sembat face rue Sadi Carnot, rue Jean Jaurès parking Nord Gare, avenue de la Sablonnière mur Matton, place du Gal de Gaulle, rue de l'Egalité mur école Brassens, rue A. Deligny école Allendé.
+1
+12
+Avesnes Sud
+SAINS-DU-NORD
+10
+1
+11
+Place de la Mairie, près du parc Lamborelle, cité Talleyrand, terrain rue Paul Doumer, route d'Avesnes (face au restaurant "la Forge"), rue Sadi Carnot (près du n°94), rue Sadi Carnot (près du n°133), Terrain rue de l'Europe, rue Gambetta (près du terrain de football), rue Edmond Wiart (près du n°12), gymnase municipal 7 bis rue du Moulin à Vent.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼6
+20
+Saint Amand Rive Droite
+SAINT-AMAND-LES-EAUX
+0
+6
+6
+Quai du Marisson face école matrenelle Jules Ferry, rue de Thumelart parking de l'Historial, rue Henri Durre salle Alfred Lemaître, rue de la Collinière devant château d'eau, rue de la Croisette à proximité de l'Ecole, place du Mont des Bruyères à hauteur des écoles.
+6
+20
+Saint Amand Rive Gauche
+SAINT-AMAND-LES-EAUX
+3
+4
+7
+Rue de Tournai place du Chêne, place de la Bruyère, place du Saubois côté rue Anatole France, Espace associé, rue Barbusse à hauteur de l'école, route de Lille devant école du Moulin Blanc, espace Solidarité Raymond Bede.
+5
+4
+Lille Ouest
+SAINT-ANDRE-LEZ-LILLE
+7
+6
+13
+Square Desrousseaux La Cessoie, square de la Renaissance, 50 rue Georges Martens, rue Chanzy école Jules Ferry, rue des Vertes Feuilles, allée François Mitterrand, rue Thiers Foyer Colin, rue de Lambersart devant la Mairie, près du n°74 rue du Gal Leclerc, n° 100 rue du Gal Leclerc devant groupe scolaire Schumann, rue Vrau davant église Ste Camille, avenue des Peupliers devant le groupe scolaire Yser Peupliers, avenue des Peupliers devant restaurant scolaire Yser Peupliers.
+2
+12
+Carnières
+SAINT-AUBERT
+0
+1
+1
+Rue Gambetta mur Salle des Fêtes.
+1
+3
+Avesnes Nord
+SAINT-AUBIN
+3
+1
+4
+La Place, Les Bodelez, Pont des Loups, La Place.
+6
+21
+Condé sur l'Escaut
+SAINT-AYBERT
+1
+1
+2
+Rue de l'Egllise (entrée de la rue), rue de l'Eglise (Mairie).
+2
+18
+Cateau Cis (Le)
+SAINT-BENIN
+1
+1
+2
+Mur entre 43 et 45 rue Pasteur, Place (Mairie).
+4
+15
+Cassel
+SAINTE-MARIE-CAPPEL
+0
+1
+1
+Mairie
+4
+14
+Gravelines
+SAINT-GEORGES-SUR- L'AA
+0
+1
+1
+Mairie.
+2
+12
+Carnières
+SAINT-HILAIRE-LEZ- CAMBRAI
+2
+1
+3
+Rue du 19 mars 1962, rue Jules Guesde, place Jean Jaurès.
+1
+3
+Avesnes Nord
+SAINT-HILAIRE-SUR- HELPE
+5
+1
+6
+Rue de la Mairie, carrefour Cogniot, Chaussée Brunehaut, Malakoff, Fuchaux, Club du Sourire rue de la Mairie.
+4
+15
+Bailleul Nord Est
+SAINT-JANS-CAPPEL
+0
+1
+1
+Foyer rural Chemin Haut
+2
+12
+Solesmes
+SAINT-MARTIN-SUR- ECAILLON
+1
+1
+2
+Rue Anatole France, rue du Mal Leclerc.
+4
+14
+Bourbourg
+SAINT-MOMELIN
+0
+1
+1
+Mairie
+4
+14
+Bourbourg
+SAINT-PIERRE-BROUCK
+0
+1
+1
+Rue de la Gare.
+4
+13
+Dunkerque Ouest
+SAINT-POL-SUR-MER
+0
+13
+13
+Mairie Place jean Jaurès, école J.Jaurès rue Gittinger, centre Jean Cocteau rue St Exupéry, école Joliot Curie rue des Rossignols, école primaire Copernic rue E.Pottier, école maternelle Vancauwenberghe avenue Flamand, école primaire Vancauwenberghe rue Delporte, école primaire Vancauwenberghe avenue Flamand, école maternelle Copernic rue V.Hugo, école maternelle V.Hugo rue V.Hugo, école Anatole France place Carnot, école Anatole France entrée Turenne, école Langevin entrée rue de la République.
+2
+12
+Solesmes
+SAINT-PYTHON
+1
+1
+2
+Place des Anciens Combattants d'AFN, rue de Cambrai.
+1
+12
+Berlaimont
+SAINT-REMY-CHAUSSEE
+0
+1
+1
+Ecole rue de Saint-Aubin.
+1
+12
+Hautmont
+SAINT-REMY-DU-NORD
+2
+1
+3
+Rue de la Place, rue de Boussières, Foyer rural.
+6
+21
+Anzin
+SAINT-SAULVE
+10
+8
+18
+Rue J.Jaurès Petit Saint Saulve, rue Jean Jaurès le Guindal cité Wadin, rue J.Jaurès/rue du Mal Leclerc, rue J.Jaurès/rue J. Moulin (magasin Attac), rue J.Jaurès/rue P.Corneille, place Carnot café la Chaumière, rue H.Barbusse face à l'Eglise (complexe Fortier), chemin du Rôleur (cabine électrique), chemin du Rôleur (Croix des Fusillés), rue J.Mermoz près de l'arrêt de bus, rue H.Barbusse ateliers salle des fêtes, avenue Apollinaire entre les n°48 à 56, rue Saint exupéry près du croisement rue José Maria de Hérédia école Ronde, avenue Robert Schuman face école du Rôleur, placette de la Pépinière allée Blaise Pascal, entre avenue Charles de Gaulle et l'accès passage piétonnier de la poste rue Paul Vaillant Couturier centre Grégoire Nicolas Finez, 37 rue du Bas Marais, rue Victor Hornez/rue de la Calèche.
+2
+18
+Cateau Cis (Le)
+SAINT-SOUPLET
+1
+2
+3
+Rue de Molain La Haie Menneresse, Grand'Rue foyer rural, rue Edmond Vieville école d'Escaufourt.
+4
+15
+Steenvoorde
+SAINT-SYLVESTRE- CAPPEL
+0
+1
+1
+Ecole Jacques Prévert rue Jacques Prévert.
+2
+12
+Solesmes
+SAINT-VAAST-EN- CAMBRESIS
+10
+1
+11
+Rue Joliot Curie, près du 90 rue Jean Jaurès, complexe sportif rue J. Jaurès, près du 12 rue Jean Jaurès, près du 106 rue Jean Jaurès, près du 154 rue Jean Jaurès, place Henri Barbusse, rue Paul Langevin, rue Paul Eluard, chemin Catelot, rue J.Jaurès salle Léo Lagrange.
+1
+3
+Bavay
+SAINT-W AAST-LA- VALLEE
+1
+1
+2
+Place du Pissotiau, Place Louise.
+1
+12
+Quesnoy Est (Le)
+SALESCHES
+0
+1
+1
+Mairie place R. Salengro
+5
+5
+Bassée (La)
+SALOMÉ
+3
+2
+5
+27 rue de la République, 69 rue Jules Ferry, place Louis Bocquet rue Pasteur, complexe Nowacki avenue Romon, salle Emile Dubois 18 rue Pasteur.
+3
+6
+Orchies
+SAMEON
+2
+1
+3
+Rue de Beaumetz, Vieux Condé, face Mairie.
+2
+18
+Cambrai Ouest
+SANCOURT
+1
+1
+2
+Eglise, salle des fêtes.
+5
+5
+Haubourdin
+SANTES
+3
+5
+8
+Place Jean-Baptiste Henrion, face au 98 rue du Mal Foch,rue Faidherbe ateliers municipaux, Mairie, salle Agora avenue des Sports, école maternelle Matisse avenue du Ramponneau, centre socio culturel rue du Gal Koenig, école primaire Matisse avenue du Ramponneau.
+6
+20
+Saint Amand Rive Gauche
+SARS-ET-ROSIERES
+0
+1
+1
+Place de la Mairie.
+1
+3
+Solre le Château
+SARS-POTERIES
+0
+1
+1
+Maison des Associations
+1
+12
+Berlaimont
+SASSEGNIES
+0
+1
+1
+Grand'rue prox. Mairie
+6
+21
+Valenciennes Est
+SAULTAIN
+3
+1
+4
+Avenue H. Barbusse parking stade Jules Gravelle, place Louise Michel, place Vaillant Couturier, école maternelle ruelle de Préseau.
+2
+12
+Solesmes
+SAULZOIR
+5
+1
+6
+Rue Victor Hugo, rue Pasteur, rue d'Haspres, rue du Mal Foch, Grand'Place, groupe scolaire Pasteur rue Lavoisier.
+6
+21
+Valenciennes Est
+SEBOURG
+1
+1
+2
+Mur de l'Eglise, place de la Mairie
+5
+5
+Seclin Nord
+SECLIN
+3
+4
+7
+Hameau de Martinsart n°38 rue JB Mulier, avenue de la République près arrêt de bus, mur du cimetière de Seclin centre rue M. Bouchery, restaurant scolaire P. Durot rue de Burgault, école Paul Langevin rue Guy Môquet, école maternelle P. Durot rue de la Commune de Paris, entrée restaurant scolaire Paul Langevin rue Guy Môquet.
+5
+5
+Seclin Sud
+SECLIN
+1
+5
+6
+Hameau de Wattiessart rue du Plouich entre les n°19 et 29, salle des fêtes rue J. Jaurès, école Jacques Duclos rue des Euwis, école A. Dutoit rue de Wattiessart, école maternelle La Fontaine rue A. Bonpain, hôtel de ville 89 rue Roger Bouvry.
+1
+3
+Avesnes Nord
+SEMERIES
+1
+1
+2
+Ancienne école du Hameau rue des Grandes Zorées, salle des fêtes
+1
+3
+Avesnes Nord
+SEMOUSIES
+0
+1
+1
+Parking du cimetière rue de la Cense face Mairie.
+6
+19
+Valenciennes Sud
+SENTINELLE (LA)
+10
+2
+12
+Rue Charles Basquin, place Nicod, rue Carpezat, rue G.Delory, rue Léo Lagrange, rue de l'Egalité, avenue du 8 mai, rue J.Jaurès, rue Gambetta, parking de la Poste, 1 - salle vote rue C. Basquin, 2 - salle vote rue C. Basquin.
+1
+12
+Quesnoy Ouest (Le)
+SEPMERIES
+0
+1
+1
+Grand rue (près Mairie).
+5
+11
+Lomme
+SEQUEDIN
+8
+2
+10
+Rue Carpentras, résidence La Clarière (carrefour des rues Molière/Fénelon), face au n°23 rue de la Maison Blanche, rue Maison Blanche/avenue des Acacias, avenue de la Petite Couture, rue J.J. Rousseau, avenue de Verdun, rue du Dr Calmette, salle Thérèse Vandenburie rue Victor Hugo, restaurant scolaire rue d'Hallennes.
+2
+18
+Cambrai Est
+SERANVILLERS- FORENVILLE
+0
+1
+1
+Ecole communale.
+4
+15
+Hazebrouck Nord
+SERCUS
+0
+1
+1
+124 contour de l'église.
+3
+16
+Douai Nord
+SIN-LE-NOBLE
+10
+7
+17
+Rue de Roucourt, place République, rue du Bois des Retz anciennement Fosse Dejardin, rue Ghesquière derrière cité Ste Barbe, rue Alcide Moché (terrain de boules), Les Epis centre commercial face tour Alexias, Les Epis derrière magasin anciennement Pinede, Le Marais rue de la Houlette face au 42, école maternelle Joliot Curie, Château de la Nichée, place J. Jaurès salle Henri Martel, cité de la Sucrerie école côté square, école Paul Cézanne aux Epis groupe n°2, salle Ronny Coutteure, école primaire La Montée, école du Puits du Midi, la Nichée à l'intérieur.
+4
+14
+Bergues
+SOCX
+0
+1
+1
+24 route de St Omer
+2
+12
+Solesmes
+SOLESMES
+4
+2
+6
+Rue Henri Renaux salle polyvalente, rue de l'Abbaye aux fontaines, avenue Aristide Briand ex bains douches, rue du Gal de Gaulle (piscine), hameau d'Olliviers (Eglise), hameau d'Amerval.
+1
+3
+Solre le Château
+SOLRE-LE-CHÂTEAU
+3
+1
+4
+Mur Hôtel de Ville, Ecole de Musique 45 rue de Beaumont, parking Grand Rue square du Dr Allant, Salle de Détente rue de Clairfayts.
+1
+3
+Solre le Château
+SOLRINNES
+0
+1
+1
+La Place.
+3
+16
+Marchiennes
+SOMAIN
+9
+4
+13
+Mur cimetière rue Pasteur, mur école Paul Eluard place V. Hugo, mur école Désiré Chevaillier place Jules Guesde, mur Mairie, entrée de la rue du 8 mai 45, rue André Denimal face dépôt SNCF, route de Douai entre le 27 et le 39 devant le boulodrome, rue Wilson face rue Léon Blum côté poste transfo, rue d'Entrevaux avant Chapelle Ste Barbe le long de Espaces Verts, rue A. Andris côté stade G. Facon, place V. Brachelet près centre administratif, rue Fernand complexe sportif, bvd Louise Michel mur Salle Léo Lagrange.
+2
+12
+Solesmes
+SOMMAING-SUR- ECAILLON
+0
+1
+1
+Près de l'école.
+4
+14
+Bourbourg
+SPYCKER
+0
+1
+1
+Avenue Raphaël Pigache.
+4
+15
+Hazebrouck Nord
+STAPLE
+0
+1
+1
+Mairie
+4
+15
+Hazebrouck Sud
+STEENBECQUE
+2
+1
+3
+Place Jean Ruyssen, gare SNCF, salle des fêtes.
+4
+14
+Bergues
+STEENE
+0
+1
+1
+Mairie.
+4
+15
+Steenvoorde
+STEENVOORDE
+8
+2
+10
+Place de Dr J.M.Ryckewaert Mairie, rue de Poperinghe autocommutateur PTT, rue de Bailleul parking salle St-Exupéry, rue de Godewaersvelde entrée stade municipal, rue Rémy Goetgheluck entrée résidence La Bergerie, section Callicanes ancienne douane, section Saint-Laurent centre du Hameau, section le Ryveld chapelle, 1 - rue de Verdun salle municipale des fêtes, 2 - rue de Verdun salle municipale des fêtes.
+4
+15
+Bailleul Nord Est
+STEENWERCK
+1
+2
+3
+Mairie, école Jean Monnet 30 rue de la Rabette, maison du Temps Libre rue du Séquenteau
+4
+15
+Hazebrouck Sud
+STRAZEELE
+0
+1
+1
+Salle polyvalente route d'Hazebrouck.
+1
+3
+Avesnes Nord
+TAISNIERES-EN- THIERACHE
+3
+1
+4
+Rue de Marbaix, rue de Maroilles, Monument, salle des fêtes.
+1
+3
+Bavay
+TAISNIERES-SUR-HON
+0
+2
+2
+Place de Taisnières, maison des associations route de Mons.
+5
+5
+Seclin Nord
+TEMPLEMARS
+0
+3
+3
+Rue Jules Guesde face Mairie, rue du Ch. De la Barre le long de la salle Desbonnet, rue J.J Rousseau face école Dolto.
+5
+6
+Cysoing
+TEMPLEUVE
+6
+4
+10
+Rue de la Fourmisière/rue du Riez, rue d'Ennevelin cabine EDF, rue de Nomain/rue Grande Campagne, rue des Quatre Cornets/rue Victor Hugo, place du Gal de Gaulle mur Église, rue de Fretin face au n°5 , salle polyvalente entre le 67 b et le 73 rue de Roubaix, école Jules Ferry 26-28 rue Demesmay, château Baratte avenue G. Baratte, école Jules Verne primaire rue Victor Olivier.
+4
+15
+Steenvoorde
+TERDEGHEM
+1
+1
+2
+Route de Saint Sylvestre Cappel mur école, 314 place St Martin.
+4
+14
+Dunkerque Est
+TETEGHEM
+0
+5
+5
+Rue de la Mairie, contour du de l'Eglise, rue M. De Swaen, 1 - rue P. Claudel, 2 - rue P. Claudel
+6
+19
+Valenciennes Sud
+THIANT
+10
+1
+11
+Rue H. Durre, rue du 19 mars 1962, 1 - rue H. Barbusse, 2 - rue H. Barbusse, rue P. Vaillant Couturier, rue E. Zola, rue du 8 mai 1945, cité Marc Lanvin, cité M.Thorez rue J. Jaurès, bas de la rue J. Jaurès, rue A. France.
+4
+15
+Hazebrouck Sud
+THIENNES
+2
+1
+3
+Rue de Tannay près du 136, entrée de la rue au Beurre en venant du centre, face au 11 rue de l'Eglise
+6
+21
+Condé sur l'Escaut
+THIVENCELLE
+1
+1
+2
+Rue de Condé, rue Baugnies
+5
+6
+Pont à Marcq
+THUMERIES
+7
+1
+8
+Rue de l'Olizier, rue Pierre Brossolette, rue E. Zola, rue Jean Jaurès, rue de la Pourette, rue Jean-Baptiste Denneulin, rue Joseph Béghin, rue du Petit Versailles salle des fêtes.
+2
+18
+Cambrai Est
+THUN-L'EVEQUE
+0
+1
+1
+Mairie.
+6
+20
+Saint Amand Rive Gauche
+THUN-SAINT-AMAND
+3
+1
+4
+Rue du Rieu, rue Brûlée, rue Alphonse Dussart, école maternelle Albert Camus 50 rue JB Lebas.
+2
+18
+Cambrai Est
+THUN-SAINT-MARTIN
+0
+1
+1
+Rue Ch. Delloye face salle des fêtes.
+2
+18
+Cambrai Ouest
+TILLOY-LEZ-CAMBRAI
+0
+1
+1
+Place Henri Soyez.
+3
+16
+Marchiennes
+TILLOY-LEZ- MARCHIENNES
+0
+1
+1
+Mairie.
+5
+7
+Lannoy
+TOUFFLERS
+0
+1
+1
+Espace culturel de la Chênaie 32 rue de la Lys.
+5
+10
+Tourcoing Sud
+TOURCOING
+6
+16
+22
+Rue Chateaubriand clôture du chemin de fer, bvd Gambetta à prox. Pont de chemin de fer, rue JB Lebas jardin botanique, rue de Roubaix prox. Pont de chemin de fer, rue des Anges Chambre de Commerce, rue de la Tossée prox. pont du chemin de fer, hôtel de ville, école primaire Michelet 34 rue Pasteur, école maternelle Corneille rue F. Buisson, école A. Laurent de Lavoisier 9 rue Guy Moquet, école Pasteur 17 rue du Virolois, école Jules Ferry 6 rue de la Potente, école Descartes entrée rue de Bourgogne, école Victor Hugo 2 rue des Cinq Voies, école Jacques Prévert 20 rue du Halot, maison des services 285 bd Descat, école René Lecocq 254 boulevard Descat, école maternelle Claude Bernard 3 rue des Villas, école Jean Macé 62 rue du Flocon, école Maurice Bonnot 10 rue d'Austerlitz, école Balzac 17 rue de l'Epidème, foyer restaurant Sydney 19 rue de Sydney.
+5
+10
+Tourcoing Nord Est
+TOURCOING
+8
+19
+27
+Rue Gabriel Péri mur ancienne piscine, rue du Chêne Houpline terrain de sports, avenue Millet grille de la crèche, rue Robert Schuman grille terrain de sport face rue du Mal Juin, rue de Gand stade, rue Lamartine terrain de sports, 145 rue de Lille service des Eaux, rue du Roitelet cimetière, groupe scolaire Jacquard 33 rue d'Anvers, centre d'Aide Pédagogique à la Lecture A. Savary 35 rue Neuve, école P. Bert 41 rue Jourdan, école Condorcet 226 rue de la Latte, foyer restaurant 13 rue de Menin, école maternelle La Fontaine 4 rue Kellerman, école La Fontaine entrée rue de la Baille, foyer restaurant rue de Courtrai, école maternelle P. Claudel 251 rue du pont de Neuville, école Kergomard entrée rue Achille Testelin, école maternelle Lamartine 19 place de la Croix Rouge, école Lamartine 335 rue de la Croix Rouge, école maternelle Marcel Hénaux 264 boulevard de l'Egalité, groupe scolaire Paul Claudel 8 rue du Roitelet, groupe scolaire Albert CAmus 221-223 rue R. Schuman, centre social de la Bourgogne 24 avenue Salengro, école Rouget de Lisle 70 rue de Courtrai, école maternelle Racine allée des Ecoles 107 rue Fin de la Guerre, centre social Phalempins 216 rue Ingres.
+5
+9
+Tourcoing Nord
+TOURCOING
+2
+7
+9
+Boulevard d'Halluin jardin des Mères, rue des Martyrs stade De Groote, salle de sports du groupe scolaire E. Herriot 69 rue de l'Abbé Lemire, école Racine allée des écoles 107 rue Fin de la Guerre, école Brossolette 2 rue Anatole France, école maternelle Branly 25 rue Eugène Duthoit, résidence La Roseraie 319 rue Racine, groupe scolaire Edouard Herriot 207 chaussée Watt, école maternelle Voltaire 421 rue du Clinquet.
+5
+6
+Pont à Marcq
+TOURMIGNIES
+0
+1
+1
+Ecole publique
+1
+3
+Trélon
+TRELON
+6
+1
+7
+Place de l' Eglise, rue Heureuse, rue de l'Espérance, rue Salengro, rue Clémenceau, rue Ansieau, salle des fêtes.
+5
+6
+Lannoy
+TRESSIN
+2
+1
+3
+Rue du Mal Leclerc face salle du Conseil, rue du Beauséjour entrée du village,1 rue du Stade façade Mairie.
+6
+19
+Valenciennes Sud
+TRITH-SAINT-LEGER
+6
+4
+10
+Rue des martyrs, rue V.Hugo lieu dit St Christophe, rue J.Duclos/route départementale 59, rue Clotaire Colin face au cimetière, rue Delory face au n° 6, rue Delory entre n° 198 et 218, rue H.Durre face à la salle des fêtes, rue G.Péri proximité école Jean Macé, rue Berlioz proximité salle Prévert, rue F.Dussart proximité salle Eluard.
+2
+18
+Cateau Cis (Le)
+TROISVILLES
+0
+1
+1
+Parking salle polyvalente.
+4
+14
+Dunkerque Est
+UXEM
+0
+1
+1
+Rue des écoles parking restaurant scolaire
+6
+21
+Valenciennes Est
+VALENCIENNES
+3
+4
+7
+Bvd Carpeaux face n°2 près entrée jardin de la Rhônelle, avenue des sports côté stade Nungesser face rue Guynemer, place Poterne face 78 rue de Mons, rue de la Halle, école maternelle rue Mathieu Quenvignies face au n°16, rue du Champ de Manoeuvre 2ème bat école Plaine de Mons côté patinoire, rue Jean Bonmarché à côté de l'entrée de l'Ecole face Jardin de la Rhônelle.
+6
+21
+Valenciennes Nord
+VALENCIENNES
+7
+10
+17
+Rue du fb de Cambrai caserne des pompiers, rue du fb de Paris face à l'usine SEMO Duarte (ex Duvant) rue Caffiaux, rue Lomprez face au 145 -147, avenue de la plaine face au n° 49-51 à côté de la rue du Domaine , chemin de Prouvy face au n°67-69 à côté de la rue Charles Brard, place Taffin fond de la place, avenue Dampierre avant la station essence face aux immeubles de la résidence Dampierre, rue du sergent Cairns école Huisman face au n°18, chemin des Bourgeois entrée de l'école Saint Exupéry (face à la station essence AUCHAN), rue François Colliez espace Louis Duvant, rue des Coquelicots entrée école Siméon Cuveiller face au n°1, rue Lucien Jonas maison du citoyen, rue d'Aubry entrée école primaire et maternelle face à la rue Charles Lamoninary, 1 - place des Acacias devant les écoles primaires, 2 - place des Acacias devant les écoles primaires, 22 rue Capron devant école, groupe scolaire Jean Mineur 232 avenue Désandrouin.
+6
+21
+Valenciennes Sud
+VALENCIENNES
+2
+3
+5
+Quai des mines face Ets Rémy pont Jacob côté Escaut, avenue du Mal Leclerc à côté entrée lycée Wallon face immeuble allocations familiales, rue de la Citadelle école maternelle Acacias face au n°60, rue Rosalie Levasseur devant l'école Anna Foucart, rue Emile Durieux à côté de l'entrée école maternelle Cariot face à l'immeuble n°14.
+1
+12
+Quesnoy Est (Le)
+VENDEGIES-AU-BOIS
+0
+1
+1
+6 rue de l'Eglise
+2
+12
+Solesmes
+VENDEGIES-SUR- ECAILLON
+1
+1
+2
+Près du 673 rue de Solesmes, face au 264 rue de Solesmes proximité Mairie.
+5
+5
+Seclin Nord
+VENDEVILLE
+1
+1
+2
+Face à la CGE rue de Seclin, salle Paul Buisine.
+6
+19
+Valenciennes Sud
+VERCHAIN-MAUGRE
+3
+1
+4
+Rue Martin-Hecquet précédant l'immeuble n°5, rue de l'Eglise : panneau en bois face à l'église, rue de la Layette sur l'immeuble n°13, salle de réception place du 8 mai 1945.
+5
+4
+Quesnoy sur Deûle
+VERLINGHEM
+2
+2
+4
+Rue de Wambrechies, hameau du Corbeau, école Gutenberg place Mairie, entrée du CCA place Mairie.
+2
+12
+Solesmes
+VERTAIN
+0
+1
+1
+Place Irénée Carlier
+6
+20
+Condé sur l'Escaut
+VICQ
+4
+1
+5
+15-21 rue de Fresnes, face au café n°140 rue de Fresnes, Le Pré au Joncs rue du Château d'Eau, rue Cuvinot, Place Carpentier.
+2
+12
+Solesmes
+VIESLY
+6
+1
+7
+Place Narcisse Pavot, rue de la Mairie, face au 28 rue de Prayelle, rue de Briastre, rue Brûlée, entre le 69 et 71 rue de Prayelle, foyer rural.
+4
+15
+Bailleul Sud Ouest
+VIEUX-BERQUIN
+0
+2
+2
+Grand place, SEC BOIS (devant l'église).
+6
+20
+Condé sur l'Escaut
+VIEUX-CONDE
+5
+7
+12
+Zone Industrielle rue César Dewasmes face au Lidl, Ets Agrati rue Dervaux, Le Flaqui rue Marcel Caby, Eglise de la Solitude rue René Beth, Intersection rues Carnot/Kléber Mairie rue André Michel, école Marcel Caby, école maternelle du Centre, école du Mont de Péruweltz , école maternelle du Rieu, école de la Solitude, école Carnot.
+1
+12
+Berlaimont
+VIEUX-MESNIL
+1
+1
+2
+Chemin de Manissart, école Pierre Devigne.
+1
+3
+Maubeuge Nord
+VIEUX-RENG
+2
+1
+3
+Rue de la Place, rue Aimable Lienard, place de la Mairie.
+5
+2
+Villeneuve d'Ascq Nord
+VILLENEUVE-D'ASCQ
+5
+14
+19
+Rue Jules Guesde salle des fêtes R. Masqueliez, rue du Gal Leclerc Mairie annexe, rue Antoine Lefebvre square du Manoir, rue Jean Jaurès Mairie annexe de Flers Breucq, place du Maréchal Foch derrière église, rue de Florence GS Paul Fort, rue Devred GS Anatole France, rue Jules Guesde GS A.France, rue Prévert GS J. Prévert, bd Albert 1er GS La Fontaine, rue Gambetta GS J.Jaurès, rue de Babylone Maison de Quartier Pasteur, rue Ch. Le Bon GS Chopin, rue de la Contrescarpe GS Calmette, rue des Comices GS Paul Cézanne, rue de la Convention GS Camus, rue Bauduin IX GS C Bernard, rue du Pavé Bleu GS Pablo Picasso, allée de la Basoche GS Bossuet.
+5
+2
+Villeneuve d'Ascq Sud
+VILLENEUVE-D'ASCQ
+10
+15
+25
+Rue des Vétérans centre social du centre ville, rue du 8 mai 1945 face terrain de foot, bd Bizet/rue Y. Decugis, rue Racine/rue de Lille, rue G.Baratte église d'Ascq, place de la Gare, rue Masséna, rue de la Tradition salle des sports du Triolo, rue Trudaine collège du Triolo, rue Traversière GS Toulouse Lautrec, hôtel de ville extérieur du parking, rue des Victoires GS Verhaeren, rue Vermeer GS Paul Verlaine, rue de Lille GS Louise de Bettignies, rue de la Station Espace République salle Marianne, rue Corneille GS Corneille, rue Corneille GS Saint Exupéry, rue Offenbach GS Rameau, rue des Bouleaux GS Mermoz, rue du Moulin d'Ascq école L. de Vinci, rue de l'Abbé Lemire GS P et M Curie, rue Delattre foyer Rigole, rue des Carpeaux GS René Clair, allée du Tambourin école A Thierry, chemin du Triolo GS Taine.
+1
+12
+Quesnoy Ouest (Le)
+VILLEREAU
+0
+2
+2
+Mairie, Salle de vote 1 La Place.
+3
+17
+Arleux
+VILLERS-AU-TERTRE
+0
+1
+1
+Place de la Mairie.
+2
+12
+Carnières
+VILLERS-EN-CAUCHIES
+1
+1
+2
+42 rue de Cambrai, 16 rue de Cambrai face Mairie.
+2
+18
+Marcoing
+VILLERS-GUISLAIN
+1
+1
+2
+Rue de la Somme préau école, place du 8 mai 1945 (Mairie).
+2
+18
+Clary
+VILLERS-OUTREAUX
+2
+1
+3
+Ancien cimetière rue Gambetta, 4 rue Jean Jaurès, salle des fêtes.
+2
+18
+Marcoing
+VILLERS-PLOUICH
+3
+1
+4
+Rue de Hurle Vent, hameau de Beaucamps, Hameau de la Vacquerie, Mairie.
+1
+12
+Quesnoy Ouest (Le)
+VILLERS-POL
+1
+1
+2
+14 rue des Ecoles, parking de la Mairie.
+1
+3
+Maubeuge Nord
+VILLERS-SIRE-NICOLE
+0
+1
+1
+Rue du 11 Novembre.
+4
+14
+Wormhout
+VOLCKERINCKHOVE
+0
+1
+1
+Contour de l'église
+3
+16
+Marchiennes
+VRED
+3
+1
+4
+Rue du Pont, avenue du foyer rural, rue du Moulin, école maternelle place Ch. De Gaulle.
+5
+6
+Pont à Marcq
+WAHAGNIES
+2
+2
+4
+Rue Pasteur mur du Presbytère, rue Léon Gambetta face rue Curie, salle Roger Salengro, 361 rue Jules Ferry.
+2
+18
+Clary
+WALINCOURT-SELVIGNY
+2
+2
+4
+Rue Duchaussois, rue Pasteur, salle du Château rue Jules Ferry, salle de l'Etoile rue de l'Eglise.
+6
+21
+Valenciennes Nord
+WALLERS
+7
+3
+10
+Rue Henri Barbusse près de l'église, rue Marcel Danna face à la Poste, rue J.Jaurès école mixte centre, rue Matteoti face au cimetière, rue Paul Lafargue Etang du Remprez, rue Jean Dewaulle lieu dit le coucou, rue Taffin salle des fêtes d'Arenberg, rue Marcel Danna parvis de l'Hôtel de Ville, rue Michel Rondet école mixte Bosquet, rue Edouard Vaillant salle polyvalente.
+1
+3
+Trélon
+WALLERS-EN-FAGNE
+0
+1
+1
+Place de l'Eglise.
+4
+15
+Hazebrouck Nord
+WALLON-CAPPEL
+0
+1
+1
+Place de l'église.
+2
+12
+Carnières
+WAMBAIX
+0
+1
+1
+Rue de la Mairie face au Foyer rural
+5
+4
+Lille Ouest
+WAMBRECHIES
+9
+4
+13
+Rue de Quesnoy (face Cimetière), rue de Marquette (école de la Providence), rue Obert (au niveau du Parc Public), avenue du Mal Foch (face à l'avenue Kennedy), avenue Pasteur/avenue du Docteur Calmette, avenue du Maire Catteau/rue d'Ypres, rue de l'Agrippin (au niveau école St Vaast), avenue des Châteaux (face au Château Rouge), avenue du Plat Pays/Chemin du Bas Plat, chemin du Fort (école maternelle Mme de Ségur), rue des Ecoles (parking derrière la Mairie), rue des Ecoles (près de la cabine électrique), avenue du Maire Catteau (accès école maternelle Mme de Sévigné).
+3
+16
+Marchiennes
+WANDIGNIES-HAMAGE
+2
+1
+3
+Place Roger Dewambrechies, place Eugène Bernard, Mairie.
+5
+6
+Cysoing
+WANNEHAIN
+0
+1
+1
+Mairie (rue du Poirier)
+1
+12
+Quesnoy Ouest (Le)
+WARGNIES-LE-GRAND
+0
+1
+1
+7 rue des Ecoles.
+1
+12
+Quesnoy Ouest (Le)
+WARGNIES-LE-PETIT
+3
+1
+4
+Le Marquiseul, Le Pavé, rue de la Buiscrète, Mairie.
+4
+14
+Hondschoote
+WARHEM
+3
+1
+4
+Place H.Vandaele (devant Mairie), rue Paul Verschaeve (devant foyer rural), rue de Rexpoëde (espace vert), rue des Vieux Moulins (entrée salle polyvalente).
+3
+16
+Marchiennes
+WARLAING
+0
+1
+1
+Mairie
+5
+4
+Quesnoy sur Deûle
+WARNETON
+0
+1
+1
+Face Mairie
+6
+19
+Bouchain
+WASNES-AU-BAC
+0
+1
+1
+12 rue du Dr Calmette (près de la Mairie)
+5
+7
+Roubaix Ouest
+WASQUEHAL
+12
+11
+23
+Rue Faidherbe/rue Ladrie, face au 21 avenue de la Liberté, face au 198 rue de Lille,rue de Marcq mur cimetière centre, rue de Marcq pont sous VRU, rue du Molinel cimetière, avenue du Grand Cottignies foyer Sergheraert, avenue du Grand Cottignies chemin Cavelot, rue Lamartine à prox. du 150, rue Jean-Paul Sartre Ets Cournu, rue Louise Michel parking Mairie annexe, rue Clément Béthune église St Clément, place Mendès France face rue Hoche, parking place Maurice Schumann, parking salle Pierre Herman rue J Macé, rue Delerue allée accès groupe scolaire, rue Emile Dellette maternelle Noir Bonnet, rue Emille Dellette primaire Noir Bonnet, rue Salvador Allendé/rue Georges Brassens, rue Turgot GS Capreau, rue Louis Lejeune centre Honoré, rue Léon Jouhaux GS Ch de Gaulle, rue Haut Vinage maternelle Montessori.
+4
+14
+Bourbourg
+WATTEN
+2
+1
+3
+Rue de Dunkerque, rue Pascal Leulliette, place de la Mairie.
+5
+5
+Seclin Nord
+WATTIGNIES
+0
+9
+9
+Centre Culturel Municipal rue des Arts, Hôtel de Ville rue Clémenceau, Centre de Loisirs rue Pasteur, école Mozart rue Voltaire, école Pasteur rue de l'Yser, école G Sand rue Alfred de Musset, école Lavoisier rue Fleming, école Apollinaire rue Blériot, école Sévigné rue Guynemer.
+1
+3
+Maubeuge Sud
+WATTIGNIES-LA- VICTOIRE
+1
+1
+2
+Ecole, Mairie.
+5
+8
+Roubaix Nord
+WATTRELOS
+0
+20
+20
+Salle Roger Salengro rue Emile Basly, 1 - conservatoire de Musique rue Denis Pollet, 2 - conservatoire de Musique rue Denis Pollet, Ecole Lakanal rue Ferdinand Buisson, salle de la Fraternité rue H. Briffaut, maternelle F. Buisson rue de la Belle Promenade, maternelle rue Ferdinand Buisson rue F. Buisson, maternelle Condorcet rue des Patriotes, élémentaire Condorcet rue Claude Weppe, élémentaire Lavoisier rue Monge, maternelle Lavoisier rue Lavoisier, 1 - élémentaire Anatole France Impasse Lefebvre, 2 - élémentaire Anatole France Impasse Lefebvre, maternelle Anatole France rue de Boulogne, élémentaire Jean Zay rue du Sapin Vert , élémentaire L.Lagrange rue des Ecoles, maison des services du Sapin Vert rue de l'Union, maternelle J. Zay rue A. Delecourt, école Voltaire rue Voltaire, Maison pour tous de la Martinoire rue Lamartine.
+5
+8
+Roubaix Est
+WATTRELOS
+0
+12
+12
+Ecole Jean Jaurès rue J.Jaurès, maternelle Michelet rue Saint Joseph , élémentaire Jean Macé rue de Londres, maternelle Jean Macé rue de Londres, maternelle Jacques Brel rue Georges Seghers, village du Beau-Lieu rue Leruste, école Albert Camus avenue du Président Kennedy, école Brossolette rue P. Brossolette, maison des associations Bernard Vanmarcke rue Pierre Brossolette, élémentaire Pierre Curie rue Bourdaloue, maternelle Marie Curie rue Leruste, Maison de la Baillerie rue du Mal de Lattre de Tassigny.
+6
+19
+Denain
+WAVRECHAIN-SOUS- DENAIN
+3
+1
+4
+Rue Charles Isbergues, rue Etienne Dolet, place de l'Espérance, rue Louise Michel.
+6
+19
+Bouchain
+WAVRECHAIN-SOUS- FAULX
+0
+1
+1
+Rue de l'Eglise parking Mairie.
+5
+5
+Haubourdin
+WAVRIN
+8
+3
+11
+Rue JB Lebas, rue Lebas/rue Koenig, rue de la Clairière, rue Faidherbe, rue Clémenceau,Gare, salle des Sports rue Leclerc, rue de Verdun Halle des Sports, Maison de l'Olivier rue du Vert Touquet, salle des fêtes rue R. Salengro, école J. Prévert avenue de l'Europe.
+3
+16
+Douai Nord
+WAZIERS
+2
+5
+7
+Cité du Haut Terroir, La Marchette, Mairie, école rue des Frères Martel, école Gambetta rue Gambetta, école Copernic avenue des Déportés, cole Suzanne Lanoy rue Francisco Ferrer.
+4
+15
+Cassel
+WEMERS-CAPPEL
+0
+1
+1
+Près de la Mairie.
+5
+4
+Quesnoy sur Deûle
+WERVICQ-SUD
+1
+1
+2
+Espace 2000 avenue des Sports, Espace 2000 avenue des Sports
+4
+14
+Bergues
+WEST-CAPPEL
+0
+1
+1
+Rue Jean Choquel
+5
+5
+Bassée (La)
+WICRES
+1
+1
+2
+Mur du Cimetière, Mairie.
+1
+3
+Trélon
+WIGNEHIES
+4
+1
+5
+Rue des Ecoles école primaire Terne, rue Boussus entrée site industriel, rue du général Leclerc face magasin vêtements cuir, rue du Dr Brunel mur jardins communaux, rue Jules Guesde face salle des fêtes
+5
+6
+Lannoy
+WILLEMS
+2
+1
+3
+Chaussée de Verdun le long du lotissement de la Plaine, rue des Ecoles face Mairie, rue de la République (face rue du Bicentenaire).
+1
+3
+Trélon
+WILLIES
+0
+1
+1
+face Mairie
+4
+15
+Steenvoorde
+WINNEZEELE
+0
+1
+1
+Mairie.
+4
+14
+Wormhout
+WORMHOUT
+6
+3
+9
+Entrée du lotissemnt "le Steen Hoeck" rue de Cassel, avenue Leclerc (sur le pont de la Peene Becque), entrée du lotissement "allée des fleurs", lotissement "le Bocage" allée des Ormeaux, entrée du lotissement "Roede Casteel" rue de la Taillanderie, route de Bergues devant le stade municipal "Victor Dehondt", place du Gal de Gaulle (monument aux morts), route de Rubrouck groupe scolaire R.Salengro, groupe scolaire Jean Moulin route de Steevoorde parking de la salle polyvalente de l'ancienne briqueterie.
+Bourbourg
+4
+14
+WULVERDHINGHE
+0
+1
+1
+Devant la Mairie.
+Bergues
+4
+14
+WYLDER
+0
+1
+1
+Mairie
+Wormhout
+4
+14
+ZEGERSCAPPEL
+0
+1
+1
+Rue de la Mairie
+Cassel
+4
+15
+ZERMEZEELE
+2
+1
+3
+Mairie 1773 voie romaine, près cour d'école 1781 voie romaine, salle polyvalente contour de l'église.
+Dunkerque Est
+4
+14
+ZUYDCOOTE
+1
+1
+1
+A proximité de l'espace Robert Merle.
+Cassel
+4
+15
+ZUYTPEENE
+0
+1
+1
+320 La place

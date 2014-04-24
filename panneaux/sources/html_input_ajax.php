@@ -26,6 +26,9 @@ class Html_Input_Ajax extends Html_Input {
 			'data-name' => $this->id,
 			'data-format' => isset($this->properties['format']) ? $this->properties['format'] : "name",
 		);
+		if (isset($this->properties['placeholder'])) {
+			$search->placeholder = $this->properties['placeholder'];
+		}
 		if (count($this->element) == 1) {
 			$search->properties['class'] .= " mask";
 		}

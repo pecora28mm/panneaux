@@ -30,6 +30,12 @@ class Db {
 		return $this;
 	}
 	
+	function get_value($query) {
+		$result  = $this->query($query);
+		$element = $this->fetchArray($result[0]);
+		return (is_array($element) ? current($element) : null);
+	}
+
 	function initialize($queries) {
 		if (is_array($queries)) {
 			foreach ($queries as $query) {

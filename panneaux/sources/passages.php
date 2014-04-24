@@ -28,6 +28,7 @@ class Passages extends Collector {
 			$html .= "<th>".__("name")."</th>";
 			$html .= "<th>".__("status")."</th>";
 			$html .= "<th>".__("action")."</th>";
+			$html .= "<th>".__("day")."</th>";
 			$html .= "</tr>";
 
 			foreach ($this as $passage) {
@@ -40,6 +41,7 @@ class Passages extends Collector {
 				$html .= "<td>".$bureaux[$passage->bureaux_id]->link()."</td>";
 				$html .= "<td>".$passage->link(isset($etats_names[$passage->etats_id]) ? $etats_names[$passage->etats_id] : __("--"))."</td>";
 				$html .= "<td>".$passage->link(isset($actions_names[$passage->actions_id]) ? $actions_names[$passage->actions_id] : __("--"))."</td>";
+				$html .= "<td>".date("d/m/Y", $passage->time)."</td>";
 				$html .= "</tr>";
 			}
 			$html .= "</table>";

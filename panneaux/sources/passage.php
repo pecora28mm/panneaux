@@ -82,6 +82,7 @@ class Passage extends Record {
 			$selected = array($bureau->id => $bureau->name);
 		}
 		$bureaux_id = new Html_Input_Ajax("passage[bureaux_id]", "index.php?page=bureaux.ajax.php", $selected);
+		$bureaux_id->properties['placeholder'] = __("postcode, city or address");
 		$comment = new Html_Textarea("passage[comment]", $this->comment);
 		$etats_id = new Html_Select("passage[etats_id]", array('--' => "--") + $this->etats(), $this->etats_id);
 		$actions_id = new Html_Select("passage[actions_id]", array('--' => "--") + $this->actions(), $this->actions_id);

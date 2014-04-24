@@ -66,9 +66,9 @@ abstract class Record {
 					$where[] = $this->object_property_to_db_column($field)." = ".$db->quote($pattern);
 				}
 			}
-			$this->id = $db->getValue("
+			$this->id = $db->get_value("
 				SELECT id
-				FROM ".$db->config['table_'.$table]."
+				FROM ".$table."
 				WHERE " . join(" AND ", $where)."
 				ORDER BY id DESC
 				LIMIT 0, 1
