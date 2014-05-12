@@ -6,6 +6,14 @@ class Passages extends Collector {
 		parent::__construct("Passage", "passages", $db);
 	}
 	
+	function bureaux_id() {
+		$bureaux_id = array();
+		foreach ($this as $passage) {
+			$bureaux_id[] = $passage->bureaux_id;
+		}
+		return array_unique($bureaux_id);
+	}
+
 	function names() {
 		$names = array();
 		foreach ($this as $passage) {
@@ -30,15 +38,16 @@ class Passages extends Collector {
 			$html .= "<th>".__("action")."</th>";
 			$html .= "<th>".__("day")."</th>";
 			$html .= "</tr>";
+			
+			$bureaux = new Bureaux();
+			$bureaux->id = $this->bureaux_id();
+			$bureaux->select();
+			$bureaux_per_id = $bureaux->objects_indexed_on_id();
 
 			foreach ($this as $passage) {
-				if (!isset($bureaux[$passage->bureaux_id])) {
-					$bureaux[$passage->bureaux_id] = new Bureau();
-					$bureaux[$passage->bureaux_id]->load($passage->bureaux_id);
-				}
 				$html .= "<tr>";
-				$html .= "<td>".$bureaux[$passage->bureaux_id]->postcode."</td>";
-				$html .= "<td>".$passage->link($bureaux[$passage->bureaux_id]->name)."</td>";
+				$html .= "<td>".$bureaux_per_id[$passage->bureaux_id]->postcode."</td>";
+				$html .= "<td>".$passage->link($bureaux_per_id[$passage->bureaux_id]->name)."</td>";
 				$html .= "<td>".$passage->link(isset($etats_names[$passage->etats_id]) ? $etats_names[$passage->etats_id] : __("--"))."</td>";
 				$html .= "<td>".$passage->link(isset($actions_names[$passage->actions_id]) ? $actions_names[$passage->actions_id] : __("--"))."</td>";
 				$html .= "<td>".date("d/m/Y", $passage->time)."</td>";

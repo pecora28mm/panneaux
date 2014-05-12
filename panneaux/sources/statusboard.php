@@ -43,6 +43,7 @@ class Statusboard {
 		}
 		$passages->last = true;
 		$passages->set_order("time", "DESC");
+		$passages->set_limit(100, 0);
 		$passages->select();
 		return $passages->display();
 	}

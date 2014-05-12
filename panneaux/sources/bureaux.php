@@ -6,6 +6,14 @@ class Bureaux extends Collector {
 		parent::__construct("Bureau", "bureaux", $db);
 	}
 	
+	function objects_indexed_on_id() {
+		$objects = array();
+		foreach ($this as $bureau) {
+			$objects[$bureau->id] = $bureau;
+		}
+		return $objects;
+	}
+	
 	function names() {
 		$names = array();
 		foreach ($this as $bureau) {
@@ -49,6 +57,13 @@ class Bureaux extends Collector {
 	function get_where() {
 		$where = parent::get_where();
 		
+		if (isset($this->id)) {
+			if (is_array($this->id)) {
+				$where[] = "bureaux.id IN (".join(",", $this->id).")";
+			} else {
+				$where[] = "bureaux.id = ".(int)$this->id;
+			}
+		}
 		if (isset($this->pattern)) {
 			$where[] = "(
 				bureaux.name LIKE ".$this->db->quote("%".$this->pattern."%")." OR
