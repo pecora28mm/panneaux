@@ -28,15 +28,18 @@ class Bureau extends Record {
 	}
 	
 	function link_to_new_passage() {
-		return Html_Tag::a($this->url_to_new_passage(), __("Add new passage to '%s' in %s", array($this->name, $this->city)));
+		return Html_Tag::a($this->url_to_new_passage(), $this->name);
 	}
 	
 	function url_to_new_passage() {
 		return "index.php?page=passage.php&bureaux_id=".$this->id;
 	}
 	
-	function link() {
-		return Html_Tag::a($this->url(), $this->name);
+	function link($string) {
+		if (empty($string)) {
+			$string = $this->name;
+		}
+		return Html_Tag::a($this->url(), $string);
 	}
 	
 	function url() {

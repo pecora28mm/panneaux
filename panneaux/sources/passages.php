@@ -38,7 +38,7 @@ class Passages extends Collector {
 				}
 				$html .= "<tr>";
 				$html .= "<td>".$bureaux[$passage->bureaux_id]->postcode."</td>";
-				$html .= "<td>".$bureaux[$passage->bureaux_id]->link()."</td>";
+				$html .= "<td>".$passage->link($bureaux[$passage->bureaux_id]->name)."</td>";
 				$html .= "<td>".$passage->link(isset($etats_names[$passage->etats_id]) ? $etats_names[$passage->etats_id] : __("--"))."</td>";
 				$html .= "<td>".$passage->link(isset($actions_names[$passage->actions_id]) ? $actions_names[$passage->actions_id] : __("--"))."</td>";
 				$html .= "<td>".date("d/m/Y", $passage->time)."</td>";

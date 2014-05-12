@@ -29,10 +29,9 @@ class Template {
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="index.php">'.$GLOBALS['config']['name'].'</a>
+			<a class="navbar-brand" href="index.php"><strong>'.$GLOBALS['config']['name'].'</strong></a>
 		</div>
 
-		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<form class="navbar-form navbar-left" role="search" action="index.php?page=statusboard.php" method="post">
 				<div class="form-group">
@@ -40,19 +39,7 @@ class Template {
 				</div>
 				<button type="submit" class="btn btn-default">Envoyer</button>
 			</form>
-			<ul class="nav navbar-nav">
-				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actions <b class="caret"></b></a>
-					<ul class="dropdown-menu">
-						<li><a href="index.php?page=passage.php">Ajouter un passage</a></li>
-						<li><a href="index.php?page=statusboard.php">Vérifier le tableau de bord</a></li>
-						<li><a href="index.php?page=passages.php">Lister les derniers passages</a></li>
-						<li><a href="index.php?page=bureaux.php">Lister les bureaux</a></li>
-						<li class="divider"></li>
-						<li><a href="index.php?page=apropos.php">A propos</a></li>
-					</ul>
-				</li>
-			</ul>
+ 			<a class="navbar-brand" href="index.php?page=passage.php">Nouveau passage</a>			
 		</div><!-- /.navbar-collapse -->
 	</div><!-- /.container-fluid -->
 </nav>';

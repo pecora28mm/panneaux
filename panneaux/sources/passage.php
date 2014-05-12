@@ -73,16 +73,36 @@ class Passage extends Record {
 		);
 	}
 
+	function reset() {
+		$this->actions_id = 0;
+		$this->comment = "";
+		$this->etats_id = 0;
+		$this->id = 0;
+	}
+
 	function edit() {
+		if ($this->id != 0 and $this->time >= time() - 360 and $this->time <= time()) {
+			return $this->edit_existing();
+		} else {
+			$this->reset();
+			return $this->edit_new();
+		}
+	}
+
+	function edit_existing() {	
 		$id = new Html_Input("passage[id]", $this->id);
 		$selected = array();
 		$bureau = new Bureau();
 		if ($this->bureaux_id > 0) {
 			$bureau->load($this->bureaux_id);
 			$selected = array($bureau->id => $bureau->name);
+			$bureaux_id = new Html_Input("passage[bureaux_id]", $this->bureaux_id, "hidden");
+			$complement = $bureau->name;
+		} else {
+			$bureaux_id = new Html_Input_Ajax("passage[bureaux_id]", "index.php?page=bureaux.ajax.php", $selected);
+			$bureaux_id->properties['placeholder'] = __("postcode, city or address");
+			$complement = "";
 		}
-		$bureaux_id = new Html_Input_Ajax("passage[bureaux_id]", "index.php?page=bureaux.ajax.php", $selected);
-		$bureaux_id->properties['placeholder'] = __("postcode, city or address");
 		$comment = new Html_Textarea("passage[comment]", $this->comment);
 		$etats_id = new Html_Select("passage[etats_id]", array('--' => "--") + $this->etats(), $this->etats_id);
 		$actions_id = new Html_Select("passage[actions_id]", array('--' => "--") + $this->actions(), $this->actions_id);
@@ -92,12 +112,43 @@ class Passage extends Record {
 
 		return "<form method=\"post\" name=\"form-edit-passage\" id=\"form-edit-passage\" action=\"\" enctype=\"multipart/form-data\">".
 			$id->input_hidden().
-			$bureaux_id->item(__("bureau")).
+			$bureaux_id->item(__("bureau")).$complement.
 			$comment->item(__("comment")).
 			$etats_id->item(__("status")).
 			$actions_id->item(__("action")).
 			$save->input().
 			"<p class=\"details\">".__("last update : %s", array(($this->time > 0) ? date("d/m/Y H:i", $this->time) : ""))."</p>".
+		"</form>";
+	}
+
+	function edit_new() {	
+		$id = new Html_Input("passage[id]", $this->id);
+		$selected = array();
+		$bureau = new Bureau();
+		if ($this->bureaux_id > 0) {
+			$bureau->load($this->bureaux_id);
+			$selected = array($bureau->id => $bureau->name);
+			$bureaux_id = new Html_Input("passage[bureaux_id]", $this->bureaux_id, "hidden");
+			$complement = $bureau->name;
+		} else {
+			$bureaux_id = new Html_Input_Ajax("passage[bureaux_id]", "index.php?page=bureaux.ajax.php", $selected);
+			$bureaux_id->properties['placeholder'] = __("postcode, city or address");
+			$complement = "";
+		}
+		$comment = new Html_Textarea("passage[comment]", $this->comment);
+		$etats_id = new Html_Select("passage[etats_id]", array('--' => "--") + $this->etats(), $this->etats_id);
+		$actions_id = new Html_Select("passage[actions_id]", array('--' => "--") + $this->actions(), $this->actions_id);
+		
+		$save = new Html_Input("save", __("save"), "submit");
+		$save->class = "btn btn-lg btn-success";
+
+		return "<form method=\"post\" name=\"form-edit-passage\" id=\"form-edit-passage\" action=\"\" enctype=\"multipart/form-data\">".
+			$id->input_hidden().
+			$bureaux_id->item(__("bureau")).$complement.
+			$comment->item(__("comment")).
+			$etats_id->item(__("status")).
+			$actions_id->item(__("action")).
+			$save->input().
 		"</form>";
 	}
 

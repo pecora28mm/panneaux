@@ -76,6 +76,7 @@ $__['seems OK'] = "semble OK";
 $__['status'] = "état";
 $__['success'] = "succès";
 $__['taken care of'] = "pris en charge";
+$__['The admin page'] = "La page d'administration";
 $__['The bureaux'] = "Les bureaux";
 $__['The bureaux with \'%s\''] = "Les bureaux avec '%s'";
 $__['The last 100 passages'] = "Les 100 derniers passages";

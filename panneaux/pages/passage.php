@@ -21,5 +21,12 @@ $passage->load($id);
 if (isset($bureaux_id)) {
 	$passage->bureaux_id = $bureaux_id;
 }
-echo "<h2>".(($id == 0) ? __("Add a passage") : __("Modify a passage"))."</h2>";
-echo $passage->edit();
+
+if ($passage->id != 0 and $passage->time >= time() - 360 and $passage->time <= time()) {
+	echo "<h2>".__("Modify a passage")."</h2>";
+	echo $passage->edit_existing();
+} else {
+	$passage->reset();
+	echo "<h2>".__("Add a passage")."</h2>";
+	echo $passage->edit_new();
+}

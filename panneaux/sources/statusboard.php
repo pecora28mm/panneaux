@@ -42,6 +42,7 @@ class Statusboard {
 			$passages->pattern = $this->pattern;
 		}
 		$passages->last = true;
+		$passages->set_order("time", "DESC");
 		$passages->select();
 		return $passages->display();
 	}
