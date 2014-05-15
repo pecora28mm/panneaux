@@ -30,3 +30,11 @@ if ($passage->id != 0 and $passage->time >= time() - 360 and $passage->time <= t
 	echo "<h2>".__("Add a passage")."</h2>";
 	echo $passage->edit_new();
 }
+
+if (isset($passage->bureaux_id) and $passage->bureaux_id > 0) {
+	$passages = new Passages();
+	$passages->bureaux_id = $passage->bureaux_id;
+	$passages->set_order("time", "DESC");
+	$passages->select();
+	echo $passages->show_history();
+}

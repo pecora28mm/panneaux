@@ -59,6 +59,28 @@ class Passages extends Collector {
 		return $html;
 	}
 	
+	function show_history() {
+		$html = "";
+		
+		if (count($this) > 0) {
+			$passage = new Passage();
+			$etats_names = $passage->etats();
+			$actions_names = $passage->actions();
+		
+			$html .= "<h3>".__("Archives")."</h3>";
+			foreach ($this as $passage) {
+				$html .= "<div class=\"passage-history\">";
+				$html .= "<p><strong>".__("day")."</strong> ".date("d/m/Y H:i", $passage->time)."<br />";
+				$html .= "<strong>".__("status")."</strong> ".(isset($etats_names[$passage->etats_id]) ? $etats_names[$passage->etats_id] : __("--"))."<br />";
+				$html .= "<strong>".__("action")."</strong> ".(isset($actions_names[$passage->actions_id]) ? $actions_names[$passage->actions_id] : __("--"))."<br />";
+				$html .= "<strong>".__("comment")."</strong> ".$passage->comment."</p>";
+				$html .= "</div>";
+			}
+		}
+		
+		return $html;
+	}
+	
 	function get_join() {
 		$join = parent::get_join();
 		

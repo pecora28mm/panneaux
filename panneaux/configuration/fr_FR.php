@@ -34,6 +34,7 @@ $__['Add a bureau'] = "Ajouter un bureau";
 $__['add OK'] = "ajout OK";
 $__['address'] = "adresse";
 $__['adds OK'] = "additions OK";
+$__['Archives'] = "Archives";
 $__['bureau'] = "bureau";
 $__['Check status board'] = "Vérifier le tableau de bord";
 $__['clean'] = "nickel";
