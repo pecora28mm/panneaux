@@ -33,7 +33,8 @@ class Template {
 		</div>
 
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
- 			<a class="navbar-brand" href="index.php?page=passage.php">Nouveau passage</a>			
+ 			<a class="navbar-brand" href="index.php?page=passage.php">Nouveau passage</a>
+ 			<a class="navbar-brand" href="medias/pdf/aide.pdf">Aide</a>			
 		</div><!-- /.navbar-collapse -->
 	</div><!-- /.container-fluid -->
 </nav>';
