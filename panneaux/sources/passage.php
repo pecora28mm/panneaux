@@ -61,6 +61,7 @@ class Passage extends Record {
 			'4' => __("covered up"),
 			'5' => __("clean"),
 			'6' => __("cleanish"),
+			'7' => __("unknown"),
 		);
 	}
 

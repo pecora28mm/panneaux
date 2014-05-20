@@ -83,6 +83,7 @@ $__['The bureaux with \'%s\''] = "Les bureaux avec '%s'";
 $__['The last 100 passages'] = "Les 100 derniers passages";
 $__['The last passages for \'%s\' in %s'] = "Les derniers passages pour '%s' à %s";
 $__['The status board'] = "Le tableau de bord";
+$__['unknown'] = "inconnu";
 $__['unknown error'] = "erreur inconnue";
 $__['update'] = "mise à jour";
 $__['update OK'] = "mise à jour OK";
